@@ -1,0 +1,2818 @@
+{
+    "message": "操作成功",
+    "status": 200,
+    "data": {
+        "result": {
+            "name": "顺序练习",
+            "subName": "顺序练习",
+            "currentIndex": 7,
+            "hasBefore": 1,
+            "hasNext": 1,
+            "startSequence": 601,
+            "questionList": [
+                {
+                    "id": "98cfcd37-174c-4423-9a79-6c02778ee76c",
+                    "title": "任何公民和组织都应当保守所知悉的有关反间谍工作的国家秘密。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 1,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "befeb612-dfc5-403b-8077-4c150a1a8786",
+                            "questionId": "98cfcd37-174c-4423-9a79-6c02778ee76c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "289c2502-5b84-481f-a4b2-18a50fda4e97",
+                            "questionId": "98cfcd37-174c-4423-9a79-6c02778ee76c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4794d87f-4785-471d-8695-dbc25daefe1a",
+                    "title": "暴力恐怖活动漠视基本人权、践踏人道正义，挑战的是人类文明共同的底线，既不是民族问题，也不是宗教问题，而是各族人民的共同敌人。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 2,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "342b3e37-236d-4eb9-b23c-1130d9f63b66",
+                            "questionId": "4794d87f-4785-471d-8695-dbc25daefe1a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "23672e53-0404-4430-8aab-61d3323f5058",
+                            "questionId": "4794d87f-4785-471d-8695-dbc25daefe1a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f5503a4c-b697-48f4-ba5b-5cd9424009b3",
+                    "title": "任何个人和组织不得有危害国家安全的行为，不得向危害国家安全的个人或者组织提供任何资助或者协助。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 3,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2ed2dfb8-f31b-4692-a05f-b655d3cfc161",
+                            "questionId": "f5503a4c-b697-48f4-ba5b-5cd9424009b3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4faf6344-aa74-405b-8dcd-88481bcaacb8",
+                            "questionId": "f5503a4c-b697-48f4-ba5b-5cd9424009b3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0db93d48-f7c3-4f70-919d-67db7c33dd80",
+                    "title": "某科研所学生外出时背包被窃，找回后发现包内钱物丢失，涉密文件完整无缺。这一事件不能按泄密事件处理。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 4,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ed09bbe4-72d4-4d4d-b3cb-023dad6704b1",
+                            "questionId": "0db93d48-f7c3-4f70-919d-67db7c33dd80",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "9c84bb87-0c1b-4844-bdcf-3fd3b9d67bce",
+                            "questionId": "0db93d48-f7c3-4f70-919d-67db7c33dd80",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "0394420f-8d1a-4c4d-bdbf-1f74b62d70bf",
+                    "title": "涉密计算机信息系统不得与国际互联网或其他公共信息网络连接，必须实行物理隔离。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 5,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9850d940-36d2-4759-b791-ce281a4d62c4",
+                            "questionId": "0394420f-8d1a-4c4d-bdbf-1f74b62d70bf",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2d7a1058-4fe7-4afc-afcc-3da099ada59d",
+                            "questionId": "0394420f-8d1a-4c4d-bdbf-1f74b62d70bf",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "cd5a9206-8f75-4fae-880f-4b5edf70b576",
+                    "title": "组织、策划、实施或者参与实施旨在分裂国家、破坏国家统一的行为即属犯分裂国家罪。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 6,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "49fe2907-bc2d-471b-9a1f-d57f4f7a0471",
+                            "questionId": "cd5a9206-8f75-4fae-880f-4b5edf70b576",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "919f4a35-f6df-4638-95a7-abed05dc0593",
+                            "questionId": "cd5a9206-8f75-4fae-880f-4b5edf70b576",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bfe3e98e-c426-47d6-a786-c3153cc6bbc6",
+                    "title": "私自“翻墙”浏览境外网站没有风险，不属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 7,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6cd31349-103d-49c1-99f6-a6470b401fe2",
+                            "questionId": "bfe3e98e-c426-47d6-a786-c3153cc6bbc6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "42f17ce6-8959-434b-86c2-f480b731fd90",
+                            "questionId": "bfe3e98e-c426-47d6-a786-c3153cc6bbc6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "55f15344-ee30-4462-b82f-884d61af7bbe",
+                    "title": "研究生小张无意间将涉密实验数据副本带回家中，他立刻在家中将副本销毁，未造成泄密事件，未构成严重后果，不属于违法违规行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 8,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9084c977-c5ca-443d-bfc3-753537aef6f2",
+                            "questionId": "55f15344-ee30-4462-b82f-884d61af7bbe",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f568b958-a153-4960-ae73-384750a26859",
+                            "questionId": "55f15344-ee30-4462-b82f-884d61af7bbe",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "9813d796-02de-454d-83aa-5ca74922e1a9",
+                    "title": "发现邪教分子在非法串联、秘密集会、聚众闹事，要立刻报警。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 9,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7c9bcea6-392a-47d5-866f-55ea0a81ccc3",
+                            "questionId": "9813d796-02de-454d-83aa-5ca74922e1a9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "46a3e061-8f2f-42ca-820e-68ae6af97433",
+                            "questionId": "9813d796-02de-454d-83aa-5ca74922e1a9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "3319bd07-70c1-4979-be38-0fd30a9cd4ba",
+                    "title": "拍摄保密的军事设备照片，上传到军事爱好者论坛，不属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 10,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0d8450d3-90c9-475a-986c-9a9fb004c04a",
+                            "questionId": "3319bd07-70c1-4979-be38-0fd30a9cd4ba",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5ae7d7f1-e568-4a3a-8cb7-e84ea62dd505",
+                            "questionId": "3319bd07-70c1-4979-be38-0fd30a9cd4ba",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b0ff9cc7-de9a-4195-a605-2c42e8c4325d",
+                    "title": "浏览境外敌对势力设置的反华论坛、观看反动内容视频并转发到朋友圈，不属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 11,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "318a0c56-7070-4907-a62a-c46432e285f5",
+                            "questionId": "b0ff9cc7-de9a-4195-a605-2c42e8c4325d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6cbc2f03-2b1e-421b-bbc4-96d56e03ab33",
+                            "questionId": "b0ff9cc7-de9a-4195-a605-2c42e8c4325d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "43b9ee8d-dd12-4e18-a8d4-abb19ab7b6d9",
+                    "title": "某高校研究生季某某在个人境外社交平台上发布侮辱国家和民族的言论，这种行为属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 12,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "10ac6e20-c1e0-485c-a532-b4fc9c2c144a",
+                            "questionId": "43b9ee8d-dd12-4e18-a8d4-abb19ab7b6d9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d6eae660-6cdf-4e4b-b81a-6a7bf54b8e42",
+                            "questionId": "43b9ee8d-dd12-4e18-a8d4-abb19ab7b6d9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "8ed0cc54-09c6-4de6-8bfe-b68caa8529ed",
+                    "title": "利用手机、电脑、移动存储介质、播放器及其他电子产品制作、发送、播放、复制、传播、存储暴力恐怖音视频，将会受到法律的追究和制裁。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 13,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d022f512-fcf9-40db-8516-3de4258948fe",
+                            "questionId": "8ed0cc54-09c6-4de6-8bfe-b68caa8529ed",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "bed7a37e-84b2-47c4-ae3d-2ff12abc3a23",
+                            "questionId": "8ed0cc54-09c6-4de6-8bfe-b68caa8529ed",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "836518bb-e136-4700-a676-b7461cb1ce9c",
+                    "title": "利用互联网造谣、诽谤或者发表、传播宣扬邪教或者煽动分裂国家的信息的行为依照刑法有关规定追究刑事责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 14,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "59dc3be4-8e14-4dce-8cc8-bee5e6c00d12",
+                            "questionId": "836518bb-e136-4700-a676-b7461cb1ce9c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6184df5c-3728-4f44-aa8b-665abffa3b41",
+                            "questionId": "836518bb-e136-4700-a676-b7461cb1ce9c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a8a44116-fbb0-4a2f-b3b8-19d24e380849",
+                    "title": "收到邮寄的反动宣传品，汇报并上缴，不相信、不传阅、不扩散。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 15,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "df71b071-6333-42c1-8f9f-f0e1b64c9cf4",
+                            "questionId": "a8a44116-fbb0-4a2f-b3b8-19d24e380849",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5ba95c35-a6b0-48d1-b09f-f74cc33c6ea5",
+                            "questionId": "a8a44116-fbb0-4a2f-b3b8-19d24e380849",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ec8706d2-8f4e-4adb-b18a-d789e9e08b7f",
+                    "title": "根据《中华人民共和国反间谍法》，在境外受胁迫或者受诱骗参加敌对组织，从事危害中华人民共和国国家安全的活动，及时向中华人民共和国驻外机构如实说明情况的，或者入境后直接或者通过所在组织及时向国家安全机关或者公安机关如实说明情况的，不予追究。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 16,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "30a3c2b2-b880-4e4a-8a4c-77e889b922ba",
+                            "questionId": "ec8706d2-8f4e-4adb-b18a-d789e9e08b7f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "1349a8b2-881a-4a68-bf58-e7bf6a2ab7a3",
+                            "questionId": "ec8706d2-8f4e-4adb-b18a-d789e9e08b7f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0171b1fd-2ebd-44de-bd90-be9ce95aead5",
+                    "title": "泄密是指秘密的载体由知悉者落入不应知悉者手中，造成秘密的扩散，秘密内容由知密者扩散到不应知密者中。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 17,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f558aa6f-8140-4b37-ab31-47515f6796ab",
+                            "questionId": "0171b1fd-2ebd-44de-bd90-be9ce95aead5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2df745a7-e67f-4d93-ae73-97f4ea54b731",
+                            "questionId": "0171b1fd-2ebd-44de-bd90-be9ce95aead5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a0ef1b71-4e08-4e1b-8e75-8868f64f4963",
+                    "title": "国家法律规定，不得在非宗教场所从事宗教活动。学校校园里禁止宗教活动，在校园里进行宗教宣传的行为属违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 18,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c5466068-8577-4682-b12a-6fdfd50c708c",
+                            "questionId": "a0ef1b71-4e08-4e1b-8e75-8868f64f4963",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6edf5218-0f5c-4330-9ea1-c88f809498e5",
+                            "questionId": "a0ef1b71-4e08-4e1b-8e75-8868f64f4963",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c823d417-dfb2-4498-970d-808481c4d80a",
+                    "title": "参加了间谍组织，但没有进行间谍活动，不构成危害国家安全的行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 19,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "06e23449-85f9-4f2c-8712-4a0647a18ea9",
+                            "questionId": "c823d417-dfb2-4498-970d-808481c4d80a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "2941bb6a-1a5b-49c3-b677-3c79f0ac0181",
+                            "questionId": "c823d417-dfb2-4498-970d-808481c4d80a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6230755c-4197-4271-8ff0-783bb825742f",
+                    "title": "国家安全机关的工作人员依法执行任务时，依照规定出示相应证件，有权查验中国公民或者境外人员的身份证明，向有关组织和个人调查，询问有关情况。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 20,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c7cb2a8e-ec28-4b7c-a05d-8c3415c7faa9",
+                            "questionId": "6230755c-4197-4271-8ff0-783bb825742f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "40404c37-3549-45d7-88da-c3562e665d54",
+                            "questionId": "6230755c-4197-4271-8ff0-783bb825742f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "80940d15-d7b2-445a-b9b9-14d8105bd32d",
+                    "title": "涉密人员脱密期满后，可以不再履行保密责任和义务。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 21,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "15344bea-af2b-439d-aa52-2c49a3f96e1d",
+                            "questionId": "80940d15-d7b2-445a-b9b9-14d8105bd32d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4bc267a5-f3a1-4fc7-8063-746bb4a35e18",
+                            "questionId": "80940d15-d7b2-445a-b9b9-14d8105bd32d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "924eb4a0-efb2-40bf-a72c-729c54bc0752",
+                    "title": "境外非政府组织在中国境内开展活动，只接受登记管理机关的监督管理。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 22,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "20fa4e79-cd40-45dc-8388-d77e8527bb69",
+                            "questionId": "924eb4a0-efb2-40bf-a72c-729c54bc0752",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "fd96fb52-a10e-4379-b42f-650d91e3934b",
+                            "questionId": "924eb4a0-efb2-40bf-a72c-729c54bc0752",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "562fae6b-af1a-4226-91cb-ebc7350bde7c",
+                    "title": "邪教进行精神控制方式一般有独裁式领导、极权主义的世界观、精英主义、欺骗、疏远、没有隐私、剥削利用等。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 23,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "636cc87a-9323-4732-aad6-3e3bdcd88071",
+                            "questionId": "562fae6b-af1a-4226-91cb-ebc7350bde7c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2ee9a495-289d-4e27-8ef3-8845bf9372d8",
+                            "questionId": "562fae6b-af1a-4226-91cb-ebc7350bde7c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "df3d39d0-b136-4d6b-ab25-bab500105793",
+                    "title": "犯间谍罪自首或者有立功表现的，可以从轻、减轻或者免除处罚，有重大立功表现的，给予奖励。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 24,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "356a4a29-bf03-4232-8d51-09fcadd0a80c",
+                            "questionId": "df3d39d0-b136-4d6b-ab25-bab500105793",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "698ba692-9b1e-47de-a88a-458258c91bda",
+                            "questionId": "df3d39d0-b136-4d6b-ab25-bab500105793",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a588d976-e106-4292-b299-15c716821474",
+                    "title": "国家安全机关在反间谍工作中必须依靠人民的支持，动员、组织人民防范、制止和惩治危害国家安全的间谍行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 25,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3b015619-a2f4-4237-aada-da96a3231a80",
+                            "questionId": "a588d976-e106-4292-b299-15c716821474",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "cc91047e-9f54-4651-ab43-2a2834ed8c5e",
+                            "questionId": "a588d976-e106-4292-b299-15c716821474",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a5eb6edc-68e8-48d3-b294-a5f97c152a0a",
+                    "title": "国家对支持、协助反间谍工作的组织和个人给予保护，对作出重大贡献的给予奖励。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 26,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2a87bc48-0838-42de-a8aa-a9dd8aa3b7cd",
+                            "questionId": "a5eb6edc-68e8-48d3-b294-a5f97c152a0a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3c3e7168-8ce4-4233-928f-fc57821f7a27",
+                            "questionId": "a5eb6edc-68e8-48d3-b294-a5f97c152a0a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b753bd5b-0f0a-4197-a243-e133e93212dc",
+                    "title": "公民和组织应当为反间谍工作提供便利或者其他协助。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 27,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "30bb11e8-7ea2-4449-819a-d3102570936b",
+                            "questionId": "b753bd5b-0f0a-4197-a243-e133e93212dc",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "67b90c82-9c2f-447f-932e-6ee793871497",
+                            "questionId": "b753bd5b-0f0a-4197-a243-e133e93212dc",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0041033a-c489-4e68-8e42-d362b53e8d07",
+                    "title": "曹某在互联网上开设网店，公然出售卫星数据接收卡、无线摄像笔等数十种专用间谍器材，又沿街兜售实时视频无线监控器、GPS跟踪定位器、钥匙扣密拍器等专用间谍器材，曹某涉嫌非法销售专用间谍器材罪。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 28,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "93b4d2db-e746-498a-a136-d944f6dcbbc8",
+                            "questionId": "0041033a-c489-4e68-8e42-d362b53e8d07",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "62ddaf08-af35-41ac-85db-f6d8b9d80d2c",
+                            "questionId": "0041033a-c489-4e68-8e42-d362b53e8d07",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d6c0276e-e04c-473a-86e1-4d14adc2e92a",
+                    "title": "因特殊工作需要，有关个人和组织可以非法持有属于国家秘密的文件、资料和其他物品。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 29,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1cafc70f-f156-4d9b-9d19-1c0347ba54ac",
+                            "questionId": "d6c0276e-e04c-473a-86e1-4d14adc2e92a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4c4857c0-cd54-4ed0-99e0-e23731f56c06",
+                            "questionId": "d6c0276e-e04c-473a-86e1-4d14adc2e92a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "95945174-484b-40ed-9d54-eb6162b83392",
+                    "title": "机关、团体和其他组织应当对本单位的人员进行维护国家安全的教育，动员、组织本单位的人员防范、制止间谍行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 30,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c23c91a7-053f-4fa8-bc42-d2ef057964d1",
+                            "questionId": "95945174-484b-40ed-9d54-eb6162b83392",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a208a20f-daa7-4a65-a98b-e5f1db39748b",
+                            "questionId": "95945174-484b-40ed-9d54-eb6162b83392",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "63cb11c5-edcc-4eb2-b2f0-eb10b937d2c9",
+                    "title": "公民发现间谍行为或者线索，应当及时向国家安全机关报告，不得延误。但如果认为意义不大、无关大局的，可以不报。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 31,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "396b0458-e2f0-4255-a0d0-650ba0e83d85",
+                            "questionId": "63cb11c5-edcc-4eb2-b2f0-eb10b937d2c9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "852c44e7-c851-4f90-ae4c-de8bbc115982",
+                            "questionId": "63cb11c5-edcc-4eb2-b2f0-eb10b937d2c9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "69be32fe-5ba7-4eaf-a7b5-9c7efa9f6aa7",
+                    "title": "在国家安全机关调查了解有关间谍行为的情况、收集有关证据时，有关组织和个人应当视情况提供，不得拒绝。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 32,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "61217f2a-821a-4066-9d65-cac1dfdbacee",
+                            "questionId": "69be32fe-5ba7-4eaf-a7b5-9c7efa9f6aa7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8b7caf43-b967-415d-af78-ff7cc76df578",
+                            "questionId": "69be32fe-5ba7-4eaf-a7b5-9c7efa9f6aa7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "193c5cd7-6c2a-4976-80a8-259dca8df041",
+                    "title": "日常工作中，我们在处理废弃资料时应提高安全意识，把废弃的含有敏感信息的纸质文件用碎纸机粉碎。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 33,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2661a565-3394-4284-bb7e-26e71b9b13ef",
+                            "questionId": "193c5cd7-6c2a-4976-80a8-259dca8df041",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "bdf3d6eb-0643-42dc-94e4-170e2afaa283",
+                            "questionId": "193c5cd7-6c2a-4976-80a8-259dca8df041",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "812b3e62-a2c1-42d6-9048-635df1823bdb",
+                    "title": "泄露国家秘密是一种严重的间谍行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 34,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4dfcddf7-97c2-45c0-a39e-c2a5587540de",
+                            "questionId": "812b3e62-a2c1-42d6-9048-635df1823bdb",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f202b682-6ab5-450a-9639-4cedfbb58585",
+                            "questionId": "812b3e62-a2c1-42d6-9048-635df1823bdb",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "1655d606-a442-4f93-ad44-70b2ad8e83bf",
+                    "title": "《军事设施保护法》规定,未经有关军事机关批准，禁止对军事禁区进行摄影、摄像、录音、勘察、测量、定位、描绘和记述。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 35,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6d51bc4c-fff9-4ba6-b3cb-eba39babb7bd",
+                            "questionId": "1655d606-a442-4f93-ad44-70b2ad8e83bf",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e2db1734-be06-401a-b5a6-0336388af513",
+                            "questionId": "1655d606-a442-4f93-ad44-70b2ad8e83bf",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "369336f9-7826-4fa9-b29f-1ee174db4a83",
+                    "title": "《国家安全法》是一部统领国家安全各领域工作的基础性、全局性、综合性“母法”，构建了国家安全法律制度体系框架和维护国家安全的制度格局，为统筹推进各领域国家安全立法奠定了基础，为全面加强国家安全工作提供了坚强法律保障。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 36,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "788eb64a-1645-4cd5-b4db-dab5723bb7ec",
+                            "questionId": "369336f9-7826-4fa9-b29f-1ee174db4a83",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4053667c-8949-4079-bd3b-7f4400c14397",
+                            "questionId": "369336f9-7826-4fa9-b29f-1ee174db4a83",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bd6a890f-a5cf-45f6-a64d-7b57cb355e06",
+                    "title": "《反分裂国家法》反的是“台独”分裂势力。该法强调了一个中国原则，明确了台湾问题的性质，主张以和平方式实现国家统一，保留以非和平方式制止分裂国家行为的规定，极大震慑了“台独”分裂势力，为依法维护国家主权和领土完整提供了有力武器。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 37,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3d181bde-338b-4f5c-a613-78eb0266efa7",
+                            "questionId": "bd6a890f-a5cf-45f6-a64d-7b57cb355e06",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5aa5a61e-b646-45c8-91d6-76d1ba3a14fc",
+                            "questionId": "bd6a890f-a5cf-45f6-a64d-7b57cb355e06",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7225e3e4-7e23-4a54-9428-d0b26a6c7812",
+                    "title": "《反恐怖主义法》反的是全人类公敌。该法明确了恐怖主义的定义，确立了反恐怖工作基本原则，健全了体制机制，强化了安全防范、应对处置、国际合作、法律惩治等措施，为提高反恐怖工作能力和水平、防范和惩治恐怖活动提供了有力法律保障。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 38,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "050d4992-6441-4bc0-82a7-e239a96598c1",
+                            "questionId": "7225e3e4-7e23-4a54-9428-d0b26a6c7812",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2e1ced6c-5f28-4c9e-87d8-9c0a5d0d2e84",
+                            "questionId": "7225e3e4-7e23-4a54-9428-d0b26a6c7812",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "05700155-bbcd-499e-960d-72a143f786d3",
+                    "title": "新修订的《中华人民共和国反间谍法》于2023年7月1日起正式施行，这是党的二十大后国家安全领域的首部专门立法，该法出台为依法加强反间谍工作，尊重和保障人权，更高质量维护国家主权、安全、发展利益提供了坚实的法律依据。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 39,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5c1234ea-6009-4805-b4aa-68f0309cadcb",
+                            "questionId": "05700155-bbcd-499e-960d-72a143f786d3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6532725f-58f0-437a-a653-6e7798460950",
+                            "questionId": "05700155-bbcd-499e-960d-72a143f786d3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "26cd4c94-0275-464b-b8ed-1dec98f5cb7c",
+                    "title": "《生物安全法》对生物技术研究、开发与应用，病原微生物实验室生物安全，人类遗传资源与生物资源安全，生物恐怖袭击与生物武器威胁等生物安全风险作出了针对性规定。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 40,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "604ae309-97f8-46bf-aff3-2b490fee79f8",
+                            "questionId": "26cd4c94-0275-464b-b8ed-1dec98f5cb7c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "964c21d5-62a6-4e7e-8e5a-26bc2a2002eb",
+                            "questionId": "26cd4c94-0275-464b-b8ed-1dec98f5cb7c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "1bb9d87b-d29b-47eb-b864-0351a8687e4c",
+                    "title": "在境外使用手机时要慎用无线网络、位置服务功能，不浏览不明网站，不下载、安装不明软件，不扫描来历不明二维码，更不能将手机借给陌生人使用，防止手机被窃取重要信息数据或受到恶意控制。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 41,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ecaaab36-8420-44f2-9009-94d4b841948c",
+                            "questionId": "1bb9d87b-d29b-47eb-b864-0351a8687e4c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2e569cbc-be70-41ce-a489-953e0fb91732",
+                            "questionId": "1bb9d87b-d29b-47eb-b864-0351a8687e4c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bdf911b3-9583-4b9c-9c20-246cbb29822b",
+                    "title": "近年来，境外间谍情报机关利用线上交友、兼职、咨询等方式，诱惑、威逼、勾联境内涉密人员，企图窃取我国重点领域、重大项目、要害部门核心机密，手段层出不穷，性质极其恶劣。相关人员务必保持警惕，不要相信天上掉下的“馅饼”，更不要被欲望蒙蔽双眼，为一时小利葬送个人前途、危害国家安全。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 42,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e8757e5c-a684-4c61-80cd-77699b6d3a5b",
+                            "questionId": "bdf911b3-9583-4b9c-9c20-246cbb29822b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4da42a3a-9e66-423f-898a-dea657c226ad",
+                            "questionId": "bdf911b3-9583-4b9c-9c20-246cbb29822b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "79b8e149-d931-4502-b33b-32a1b1800054",
+                    "title": "我国重要自然保护区的地理、气象、生物等基础数据，是我国独有的宝贵数据资源，与我生态安全、生物安全、数据安全等密切相关，未经审批非法采集和跨境传输上述敏感数据的行为，危害我国家安全和利益。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 43,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "980a88c2-7ae8-4a9c-9a9d-b09ddd2e40b7",
+                            "questionId": "79b8e149-d931-4502-b33b-32a1b1800054",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e1f88abd-94ed-43d2-90e6-9f4f70dc2fef",
+                            "questionId": "79b8e149-d931-4502-b33b-32a1b1800054",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "46af98de-abfc-4f8e-9a98-5040519bdbd6",
+                    "title": "党的二十届三中全会提出,国家安全是中国式现代化行稳致远的重要基础。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 44,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "640e352c-383f-40ea-9281-a151eb0a6d3a",
+                            "questionId": "46af98de-abfc-4f8e-9a98-5040519bdbd6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ad818b6f-d9ad-4e6e-a319-4e9c4b67cdd2",
+                            "questionId": "46af98de-abfc-4f8e-9a98-5040519bdbd6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "78f43e90-feae-41b3-8e5c-b13e7c93b195",
+                    "title": "公民和组织履行维护国家安全的义务包括如实提供所知悉的涉及危害国家安全活动的证据。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 45,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3c520ddf-808f-4292-b66d-adb12f33aee4",
+                            "questionId": "78f43e90-feae-41b3-8e5c-b13e7c93b195",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "1dad39bf-96da-4ebb-9cd4-c69f737043cf",
+                            "questionId": "78f43e90-feae-41b3-8e5c-b13e7c93b195",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "76a73a81-c7bb-4561-85a3-7599cb73fa2f",
+                    "title": "刷单是正常的经济活动，不涉及违法。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 46,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "26d419a4-0ab3-433b-a4d6-bd31c4b67070",
+                            "questionId": "76a73a81-c7bb-4561-85a3-7599cb73fa2f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1c076740-f5d0-4537-a0d2-6701e5fb3930",
+                            "questionId": "76a73a81-c7bb-4561-85a3-7599cb73fa2f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c2d3c611-69db-4d55-a99b-134ef9a00f93",
+                    "title": "小王前两天在网上购买一套衣服，店家提出直接汇款到他的银行账户支付，这样能再打9折。小王可以选择相信对方，因为即使被骗了，还可以投诉网店索赔的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 47,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ceb915b3-b8e6-4316-bff7-42f4cea1001a",
+                            "questionId": "c2d3c611-69db-4d55-a99b-134ef9a00f93",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "768d2ef2-0c80-4ab4-8f94-49aa99465797",
+                            "questionId": "c2d3c611-69db-4d55-a99b-134ef9a00f93",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "700b36ec-0964-47b9-aa0c-f577e39dadec",
+                    "title": "小陈接到电话，称其有一张法院传票。小陈继续询问详情后，电话转接到一位警官处，对方称小陈已经被网络通缉了，要通过电话做笔录。小陈接到的应该是诈骗电话。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 48,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3f1aa230-2d50-463d-8710-dbf427210cdd",
+                            "questionId": "700b36ec-0964-47b9-aa0c-f577e39dadec",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "0d44e997-1fb9-4b81-99d9-8efa1e04db1d",
+                            "questionId": "700b36ec-0964-47b9-aa0c-f577e39dadec",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "78f53622-ad2d-4d61-91ec-ef46c3c83784",
+                    "title": "初级投资者在网上搜集资料时，对于投资理财专家、经济分析师的话要十分相信，毕竟，他们是权威。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 49,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b9ac4cc7-9390-4c88-b0a7-ceda3db2430b",
+                            "questionId": "78f53622-ad2d-4d61-91ec-ef46c3c83784",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d0799ce4-529a-4c66-ab8f-f3b662e64d6d",
+                            "questionId": "78f53622-ad2d-4d61-91ec-ef46c3c83784",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "ff07c5d4-689b-4a6f-a629-565bd9d2dc5e",
+                    "title": "不管是现实诈骗还是网络诈骗，只要同学们多加强预防心理，多提高一些警惕，多留点心眼，就一定会发现狐狸尾巴。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 50,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "df8381f9-b790-4f96-916e-78e87019f494",
+                            "questionId": "ff07c5d4-689b-4a6f-a629-565bd9d2dc5e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3d7f58f7-65e8-4e66-b78d-605c456302a8",
+                            "questionId": "ff07c5d4-689b-4a6f-a629-565bd9d2dc5e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "775466d8-4707-49f8-b855-bbe3a45fd5b9",
+                    "title": "自称做私密直播的女孩给你发来一个手机直播软件，即使自己不小心安装了，只要不转账，就没事儿。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 51,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d8953754-53ab-4fd6-885f-a181b1e7ec0c",
+                            "questionId": "775466d8-4707-49f8-b855-bbe3a45fd5b9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "56fb1cf9-8c1a-467b-8cdf-af4010b91b63",
+                            "questionId": "775466d8-4707-49f8-b855-bbe3a45fd5b9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e9b9a75c-7011-4532-b0d7-42e143d5897b",
+                    "title": "朋友圈有人在转发送校庆盲盒，开万元好礼的活动广告。很明显，这是虚假宣传。类似的还有锦鲤抽奖、校庆送礼品等活动，每年都会出现，大家一定要擦亮眼睛，不要盲目跟风转发。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 52,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e467b3a2-e1ac-4660-b4e7-6de5345bc8f6",
+                            "questionId": "e9b9a75c-7011-4532-b0d7-42e143d5897b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5caf0d2a-a554-4cb3-a767-72d922818e54",
+                            "questionId": "e9b9a75c-7011-4532-b0d7-42e143d5897b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0c5398b7-1aec-43be-8be8-706ad394319f",
+                    "title": "阿达接到自称是“国家反诈中心”的电话，对方称其身份证办理的一张手机卡涉及到一起案件，要求阿达添加对方的QQ。这是冒充反诈中心人员行骗的新手法，凡是对方指令按步骤操作的，都是诈骗，应当先拒绝再核实。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 53,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b68e97b8-fded-47e6-bdab-841a35d8f1ea",
+                            "questionId": "0c5398b7-1aec-43be-8be8-706ad394319f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8f6d4a63-a43c-4318-9de7-8e7626e9b80b",
+                            "questionId": "0c5398b7-1aec-43be-8be8-706ad394319f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "33430cc3-e6da-4394-9cb5-ba1233e8bbb1",
+                    "title": "个人征信由中国人民银行征信中心统一管理，非数据报送机构都无权删除和修改。凡是自称金融平台、网贷平台客服，提供注销不良网贷征信记录和账户的都是诈骗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 54,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "edd0d77c-eda0-4d9d-b355-b4a85ef70e77",
+                            "questionId": "33430cc3-e6da-4394-9cb5-ba1233e8bbb1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7193a41a-eecf-4d44-b75b-b1338200a443",
+                            "questionId": "33430cc3-e6da-4394-9cb5-ba1233e8bbb1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c29fdd47-3979-476f-b568-7901b72369a6",
+                    "title": "“杀猪盘”诈骗是一种新型诈骗手段。诈骗的套路是，先树立受害者所青睐的人设，在博得受害者的好感后，接着以“恋爱”“交友”为噱头，在受害者逐渐放松警惕时，他们开始忽悠受害者进行“投资”“赌博”等，最后导致受害者血本无归。所以大学生在交友时，一定要慎重对待！",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 55,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6d3b9c25-58d8-42db-bcca-9c1858938631",
+                            "questionId": "c29fdd47-3979-476f-b568-7901b72369a6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f0a03c08-e083-4340-86d2-26c7caa1080a",
+                            "questionId": "c29fdd47-3979-476f-b568-7901b72369a6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5b20ec9e-e7b8-4810-8058-7453c97078b9",
+                    "title": "小明接到一个陌生电话，对方称小明的朋友用小明的身份做担保，向他的公司借了3万元，现在他的朋友联系不上，小明如果不还钱，他会到学校来闹事。为防止打击报复，小明应该迅速筹钱，帮朋友还债。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 56,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f099eb04-4fe9-43b1-80c3-08065935c9ab",
+                            "questionId": "5b20ec9e-e7b8-4810-8058-7453c97078b9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1aede49e-91df-47ea-8379-4570d6ccd582",
+                            "questionId": "5b20ec9e-e7b8-4810-8058-7453c97078b9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "51058403-31b6-4c30-8f68-a36163b04ff8",
+                    "title": "诈骗分子盗取小张QQ号，以要参加学校组织到国外培训为由，骗取了小张父母2万多元。小张找回QQ后气不过，想尽快找回损失，于是在百度上向“网警”寻求帮助，并添加了“网警”的QQ。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 57,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "873b1d1e-d15d-4957-9769-4f3588322216",
+                            "questionId": "51058403-31b6-4c30-8f68-a36163b04ff8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1a72eebb-7e2f-4149-bf41-424632f6d6a2",
+                            "questionId": "51058403-31b6-4c30-8f68-a36163b04ff8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "fa7ca206-e343-4242-b68b-a0eceead97d0",
+                    "title": "小刘同学近期在网上结识了一名异性网友，两人聊得甚是投机，发展迅速。有一天该网友突然提出要小刘为其开通支付宝亲密付，小刘出于对网友的信任，直接答应了。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 58,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0a4f6340-8846-4fdb-861c-f8890a0c26e5",
+                            "questionId": "fa7ca206-e343-4242-b68b-a0eceead97d0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "820f98ff-6dda-468a-a93c-46a5d053084e",
+                            "questionId": "fa7ca206-e343-4242-b68b-a0eceead97d0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "20eba63f-573d-47c6-b07d-aa0cb50fa4b6",
+                    "title": "只要卡里没钱，就不用担心被诈骗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 59,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f8528035-418b-4d1b-a5b5-caebe64347fc",
+                            "questionId": "20eba63f-573d-47c6-b07d-aa0cb50fa4b6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "23ae58e8-2e65-4ffe-af2d-4d8e6e80f64d",
+                            "questionId": "20eba63f-573d-47c6-b07d-aa0cb50fa4b6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "66e7b78b-c5e8-4b7d-98f7-172aeaec0ef4",
+                    "title": "不要在马路上边走边玩手机，要注意看管好个人财物，防止飞车抢窃和发生其他意外伤害。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 60,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b281a6c7-16a6-41c1-aae3-484201c3a29b",
+                            "questionId": "66e7b78b-c5e8-4b7d-98f7-172aeaec0ef4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5e2b6036-80b9-45f4-a837-b3b658b5ed2d",
+                            "questionId": "66e7b78b-c5e8-4b7d-98f7-172aeaec0ef4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7fa9c43e-0345-43fd-8a34-c2d44b9a9716",
+                    "title": "为防范电信网络诈骗，我们要不怕事、不贪心，提到钱财要警惕，“宁可信其无，不轻信其有”。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 61,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "130ca658-2904-464c-be05-c72f3362a03d",
+                            "questionId": "7fa9c43e-0345-43fd-8a34-c2d44b9a9716",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c6c6fca4-3f8c-4dd3-aaf6-7aa7c08eb278",
+                            "questionId": "7fa9c43e-0345-43fd-8a34-c2d44b9a9716",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ac67de1f-6ee5-4e94-a5f4-27b9738d4d1e",
+                    "title": "在车站、公交车、地铁等人多拥挤的地方，背包应背在胸前，手机、钱包等贵重物品不要放在后裤袋内。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 62,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3a48e40d-4f97-497f-b5ad-307e64284478",
+                            "questionId": "ac67de1f-6ee5-4e94-a5f4-27b9738d4d1e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "65624409-2106-40b8-a130-6b19f9f175de",
+                            "questionId": "ac67de1f-6ee5-4e94-a5f4-27b9738d4d1e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9884367c-6827-4d71-a96e-2d2c2ebe742f",
+                    "title": "小王在学校二手交易群看中了一部性价比高的手机，根据卖家要求他直接向卖家进行微信转账交易。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 63,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c498fcc5-1e1c-4453-9ab4-bfe6e3edc87f",
+                            "questionId": "9884367c-6827-4d71-a96e-2d2c2ebe742f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "bf9a2071-b7f0-439f-9cb5-4aa6ef846025",
+                            "questionId": "9884367c-6827-4d71-a96e-2d2c2ebe742f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6e6971b2-d8c4-4ea7-b125-41d48a899c79",
+                    "title": "不要轻易填写调查问卷，在参加所谓的“培训公司”活动时，要对公司的基本状况，工作性质多加了解，不能轻率相信，更不能言听计从，受其摆布。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 64,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9e2cd346-11fd-48a1-a583-ccfc57aeb1ae",
+                            "questionId": "6e6971b2-d8c4-4ea7-b125-41d48a899c79",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "9be9813b-260a-49af-b775-dd1748c4579e",
+                            "questionId": "6e6971b2-d8c4-4ea7-b125-41d48a899c79",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "046b4c8f-3eab-4e37-9f28-c5005f5af1ab",
+                    "title": "公安机关没有“安全账户”，如有人要求将自己银行卡上的钱转入所谓“安全账户”的，属于诈骗行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 65,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "50c7c150-58dd-46dc-bd48-45c13c640e58",
+                            "questionId": "046b4c8f-3eab-4e37-9f28-c5005f5af1ab",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ae3f8b46-2774-4127-b0d3-15167d1baa0c",
+                            "questionId": "046b4c8f-3eab-4e37-9f28-c5005f5af1ab",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "3bc4a551-76eb-4c8a-8dba-842c8e27f960",
+                    "title": "利用手机短信、QQ留言等方式通知中奖的骗术中，在拿到奖品前通常会被要求缴纳各种费用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 66,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "421e1732-7724-48e3-b39b-571bc3e256b3",
+                            "questionId": "3bc4a551-76eb-4c8a-8dba-842c8e27f960",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "32239c21-9187-4156-b5dc-6dacc7665ed6",
+                            "questionId": "3bc4a551-76eb-4c8a-8dba-842c8e27f960",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "955a5e09-44a6-4658-b13b-5f2b30060eed",
+                    "title": "传销主要有三种表现形式，即以发展下线的数量为依据计提报酬的传销行为（即“拉人头”），以发展的下线的推销业绩为依据计提报酬的传销行为（即“团队计酬”），以及骗取入门费的传销行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 67,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c02f3760-7d6c-4400-9248-77ba8805b767",
+                            "questionId": "955a5e09-44a6-4658-b13b-5f2b30060eed",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a196f1d2-2a4d-43bf-8a27-8de714a03081",
+                            "questionId": "955a5e09-44a6-4658-b13b-5f2b30060eed",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "fa204792-b989-40dd-b0da-e3b0b3562d82",
+                    "title": "不要拿贵重物品占座，需要短暂离开时请将贵重物品带走，出去接打电话时，贵重物品不要离开视线。离开时，应清点个人物品，以免遗忘导致丢失。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 68,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f65f0991-c494-47ce-b080-186648b66381",
+                            "questionId": "fa204792-b989-40dd-b0da-e3b0b3562d82",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2f9f8d38-ec15-4f7e-9f84-a3c8484e0907",
+                            "questionId": "fa204792-b989-40dd-b0da-e3b0b3562d82",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2fbaea22-c74a-4d73-a538-376580b69681",
+                    "title": "任何网贷机构都不允许向大学生发放贷款。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 69,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1d45450c-e2bf-474b-a6f3-fcbe79298824",
+                            "questionId": "2fbaea22-c74a-4d73-a538-376580b69681",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3d9978db-819d-42dd-a122-52b6b79891b9",
+                            "questionId": "2fbaea22-c74a-4d73-a538-376580b69681",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "403d1ec6-8f8c-44ff-851c-d4ce8fe7e5df",
+                    "title": "自然人之间的借款合同约定支付利息的，借款的利率不得违反国家有关限制借款利率的规定。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 70,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c30a7990-e2ac-4b66-b5ce-d297d236a586",
+                            "questionId": "403d1ec6-8f8c-44ff-851c-d4ce8fe7e5df",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "be1e0d83-2a71-41de-bb0a-d483ec7a745e",
+                            "questionId": "403d1ec6-8f8c-44ff-851c-d4ce8fe7e5df",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "28c44ada-4241-4ee1-a9da-b2de2b05b074",
+                    "title": "放贷公司在放贷时会掌握学生个人信息，一旦学生无法按时还贷，放贷人会采取恐吓、殴打等暴力方式讨债，对学生人身安全和校园秩序造成重大危害。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 71,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "caa28797-bbba-4dbe-b5e2-bed8f479a0bb",
+                            "questionId": "28c44ada-4241-4ee1-a9da-b2de2b05b074",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "01ff89c4-672e-4604-a04a-6885c7e04a17",
+                            "questionId": "28c44ada-4241-4ee1-a9da-b2de2b05b074",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "31a0e030-5805-4743-b395-aaf9748ca8df",
+                    "title": "面对网络兼职信息，大学生要注意甄别真假，切不可轻信广告内容；想要从事兼职工作，一定要去正规平台应聘；不要轻易听信陌生人或下载陌生可疑的APP；如果发现自己被骗，要及时拨打110报警。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 72,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "79e6c4df-8586-4773-b1ec-6dde372ea82b",
+                            "questionId": "31a0e030-5805-4743-b395-aaf9748ca8df",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "41daa405-7fb8-4b2d-9684-086257f73982",
+                            "questionId": "31a0e030-5805-4743-b395-aaf9748ca8df",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f518c138-b6e6-4822-ac9e-423164f95577",
+                    "title": "所有正规金融机构绝不会在放款前收取任何费用，凡是放款前先缴费的贷款都是诈骗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 73,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "72ea2d2b-6295-4e01-96b1-1896cea904be",
+                            "questionId": "f518c138-b6e6-4822-ac9e-423164f95577",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7b6609ca-415b-49b6-9bb0-1f07b288a919",
+                            "questionId": "f518c138-b6e6-4822-ac9e-423164f95577",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b521a1b3-4b65-4c65-b49e-d17c062af5d7",
+                    "title": "朋友圈有不少跟好友一起抢红包的活动，要求达到一定金额（比如100元）才能提现，参与此类活动一定要格外注意，很可能是一种吸引粉丝的骗局。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 74,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f061fec2-c829-4f90-8efc-f72214d1ad56",
+                            "questionId": "b521a1b3-4b65-4c65-b49e-d17c062af5d7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d8c1e005-2e6f-4890-8164-93e51b6d4ed3",
+                            "questionId": "b521a1b3-4b65-4c65-b49e-d17c062af5d7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ee2e10ae-cd11-4c26-9b7b-e3f6be01b82e",
+                    "title": "有人上宿舍推销，应该及时报告宿舍管理员。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 75,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c0dd0a96-b278-4f5b-9f49-1dd90b3852cf",
+                            "questionId": "ee2e10ae-cd11-4c26-9b7b-e3f6be01b82e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8e281372-97a3-4fbb-a260-ae7e122c0aba",
+                            "questionId": "ee2e10ae-cd11-4c26-9b7b-e3f6be01b82e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2b93a960-23af-48d9-a2c3-24ce533fc8b6",
+                    "title": "招工或招聘时，条件许诺你越优厚，你越要留个心眼。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 76,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "525479ba-7b7d-43e7-9c15-51b97a9837d5",
+                            "questionId": "2b93a960-23af-48d9-a2c3-24ce533fc8b6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "084e2cb3-513b-4ea3-9cae-570fb20fee3a",
+                            "questionId": "2b93a960-23af-48d9-a2c3-24ce533fc8b6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "56a39e6f-fc93-4a3b-9933-224fce7ec353",
+                    "title": "犯罪人在实施盗窃的过程中，一旦使用了暴力，盗窃犯罪就转化成了抢劫犯罪。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 77,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0b80495a-e0cf-493d-a9dc-917e49a28207",
+                            "questionId": "56a39e6f-fc93-4a3b-9933-224fce7ec353",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "19b639bb-82d4-4f42-bdec-0e5fdd742c2a",
+                            "questionId": "56a39e6f-fc93-4a3b-9933-224fce7ec353",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ca60eb01-a87e-4357-954b-dd995fa4e197",
+                    "title": "一个人在宿舍时，临时出去上个厕所，可以不用锁门。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 78,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "954c47ae-6374-45a4-ae3a-74e24b30dc7b",
+                            "questionId": "ca60eb01-a87e-4357-954b-dd995fa4e197",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8c49e8cd-91f1-449c-b159-d8f9bd60de19",
+                            "questionId": "ca60eb01-a87e-4357-954b-dd995fa4e197",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "587d558c-5c68-4048-99a4-9c518b464e99",
+                    "title": "遇到诈骗案件时，只要最后一个关口也就是汇款的那一关节守牢，就不会有问题。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 79,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "516c755f-ffc8-463d-a48d-a73ccc024567",
+                            "questionId": "587d558c-5c68-4048-99a4-9c518b464e99",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "afc5f7a4-ebc0-4dae-98e0-bf5331bae94a",
+                            "questionId": "587d558c-5c68-4048-99a4-9c518b464e99",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "69cd40e7-c398-44dc-ab62-b6a9ed1d43f0",
+                    "title": "凡是与你非亲非故的人，却许诺要给你好处的，十有八九都是诈骗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 80,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e70b946f-db23-4d3a-b123-9f2f07bbd454",
+                            "questionId": "69cd40e7-c398-44dc-ab62-b6a9ed1d43f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e26f7e98-8b0c-48dc-9885-adbea44d844f",
+                            "questionId": "69cd40e7-c398-44dc-ab62-b6a9ed1d43f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6dde82b9-e257-457e-b762-8cf667900dad",
+                    "title": "如果发现自己误入传销组织，要果断、严辞拒绝并寻找一切机会报警。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 81,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "286c896e-1603-4a32-ad9b-4c5e41f6e633",
+                            "questionId": "6dde82b9-e257-457e-b762-8cf667900dad",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5c53869a-28f8-4a9d-929b-620e58e4488a",
+                            "questionId": "6dde82b9-e257-457e-b762-8cf667900dad",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ac2c8fd9-e697-4cd7-ab45-ec3a985c3b33",
+                    "title": "抢夺犯作案后急于逃跑，利用这种心理，应大声呼叫，并追赶作案人，迫使作案人放弃所抢的财物。若无能力制服作案人，可保持距离紧追不舍并大声呼救，引来援助者。追赶不及，只能自认倒霉。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 82,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "20d06c61-4fcf-401e-9de0-aa730add4967",
+                            "questionId": "ac2c8fd9-e697-4cd7-ab45-ec3a985c3b33",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1d38d72f-7d87-40d6-ae9c-9aaf6ffb7e08",
+                            "questionId": "ac2c8fd9-e697-4cd7-ab45-ec3a985c3b33",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "284fa3d5-8189-4094-bf56-e52701b56f37",
+                    "title": "任何自称电信、银行、邮局工作人员帮你把电话能直接转接到公安等报警平台的，都是骗人的，报警电话需要当事人自己主动拨打110。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 83,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4da9f07c-5d8f-4976-8c01-bdcffb8ea07c",
+                            "questionId": "284fa3d5-8189-4094-bf56-e52701b56f37",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "713f9676-d0a8-4f74-aee5-60d554a32892",
+                            "questionId": "284fa3d5-8189-4094-bf56-e52701b56f37",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ade51c82-31f0-4957-ba07-fa076adf4ca7",
+                    "title": "将自己的微信、支付宝等第三方支付平台账户和微信、QQ等社交聊天账号出卖、租赁给他人，不用承担法律责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 84,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "636d6deb-3f5e-4c87-9304-03a4ad1d824a",
+                            "questionId": "ade51c82-31f0-4957-ba07-fa076adf4ca7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "35fef3bc-57a7-4190-b773-dcca37f9f29a",
+                            "questionId": "ade51c82-31f0-4957-ba07-fa076adf4ca7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a97557fd-2b43-4fe0-a5fd-0e338e2280a4",
+                    "title": "公安民警办案或找当事人了解情况都是面对面的，不可能通过电话做笔录或电话语音签署保密协议。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 85,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bc43a20b-190f-46e7-bfe8-a1dff22e0357",
+                            "questionId": "a97557fd-2b43-4fe0-a5fd-0e338e2280a4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "15a9041e-8c15-4807-908a-45a74f2e6954",
+                            "questionId": "a97557fd-2b43-4fe0-a5fd-0e338e2280a4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6a76bf23-e1d8-4e64-860c-c38a5a2c8064",
+                    "title": "在宿舍发现陌生人，只要不是找自己的，就可以不闻不问。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 86,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "485b698b-3d86-4b47-92fe-d2a846db9c06",
+                            "questionId": "6a76bf23-e1d8-4e64-860c-c38a5a2c8064",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4ced48a4-7b84-4922-a553-7dd4f7cf234c",
+                            "questionId": "6a76bf23-e1d8-4e64-860c-c38a5a2c8064",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e4049f71-5790-47aa-814f-54ab90f24e85",
+                    "title": "为尽早适应社会，大学生可以做兼职工作，但一定要通过正规渠道寻找。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 87,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a6f54fbb-9a4d-48e5-b4f4-0d65ea27d37f",
+                            "questionId": "e4049f71-5790-47aa-814f-54ab90f24e85",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "73d5c73a-2226-4e67-8bce-c5ae5bfe72ee",
+                            "questionId": "e4049f71-5790-47aa-814f-54ab90f24e85",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "711a65ff-4f92-4cee-98ec-35e6a2b4f832",
+                    "title": "小张在朋友圈看到有人转发扫码免费领取电风扇的活动，他立刻扫码参加。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 88,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0538d6fd-938a-4114-a5cb-d0924861daca",
+                            "questionId": "711a65ff-4f92-4cee-98ec-35e6a2b4f832",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "c8aa8c2f-849a-4bb0-bef2-c63e2776814e",
+                            "questionId": "711a65ff-4f92-4cee-98ec-35e6a2b4f832",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "30716242-8fa7-46f8-a1ce-4d378af3225d",
+                    "title": "对街头乞讨、求助的“可怜人”，要谨慎对待，仔细识别，谨防上当。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 89,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1ed97c82-d9d8-4175-bff5-02a7af27b7f0",
+                            "questionId": "30716242-8fa7-46f8-a1ce-4d378af3225d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "af6ed2ac-d262-4528-9241-ca6d05d1b715",
+                            "questionId": "30716242-8fa7-46f8-a1ce-4d378af3225d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "841f406c-47d0-4e01-8c28-e7256a8c345d",
+                    "title": "大学生遇到不法分子勒索钱财的时候，应该在确保自身生命安全前提下，与不法分子开展智斗，并及时报警。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 90,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "27359298-63d4-4f9f-a34c-12361b7f776b",
+                            "questionId": "841f406c-47d0-4e01-8c28-e7256a8c345d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "19e99ba7-1bff-4175-bcd1-09ec60be0c04",
+                            "questionId": "841f406c-47d0-4e01-8c28-e7256a8c345d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7eec94ac-9f87-4909-b393-0c5f8b4899df",
+                    "title": "当搞不清楚是否遭遇诈骗时，可以向110电话咨询。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 91,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c543820a-bf67-4e19-a315-7346ed6845db",
+                            "questionId": "7eec94ac-9f87-4909-b393-0c5f8b4899df",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ea671e72-7fa2-4099-b12e-ac26eb98dd3c",
+                            "questionId": "7eec94ac-9f87-4909-b393-0c5f8b4899df",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d4c38e07-bd52-4bfa-858f-fae43ef75066",
+                    "title": "诈骗手法千变万化，但万变不离其宗，所有诈骗手法都是通过信息网络与你取得联系，采取各种方式骗取你的信任，让你先交钱、多掏钱。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 92,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "68ab5b4a-5434-4f52-954d-4c52105802ab",
+                            "questionId": "d4c38e07-bd52-4bfa-858f-fae43ef75066",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a0643a6e-eb91-4379-b21c-617b5e13112f",
+                            "questionId": "d4c38e07-bd52-4bfa-858f-fae43ef75066",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c833d7a4-d424-4f3a-8cf8-0946d33c5531",
+                    "title": "组织者或者经营者通过发展人员，要求被发展人员发展其他人员加入，形成上下线关系，并以下线的销售业绩为依据计算和给付上线报酬，牟取非法利益的属于团队计酬传销。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 93,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5a1c23d5-2de5-4300-9f1f-db92a284b9f8",
+                            "questionId": "c833d7a4-d424-4f3a-8cf8-0946d33c5531",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "465a987a-03eb-439a-9fd7-9404dd4f16cf",
+                            "questionId": "c833d7a4-d424-4f3a-8cf8-0946d33c5531",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "85e6f3c4-6f7e-4d72-8d27-c1ce29b07190",
+                    "title": "小王收到“这是某某银行，您的账号已被盗用，请重新发送您的账号密码至XXXX，完成转账”的短信后，回拨电话确认真假，做法正确。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 94,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "573c25ea-fee0-489b-90be-2cba993d656e",
+                            "questionId": "85e6f3c4-6f7e-4d72-8d27-c1ce29b07190",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "3923f926-368f-4d0d-a46c-11476bd3207c",
+                            "questionId": "85e6f3c4-6f7e-4d72-8d27-c1ce29b07190",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "860ccb9a-5c19-4055-a106-83649cf94ad0",
+                    "title": "AI声音诈骗是一种利用AI技术模仿亲人声音的高科技骗局。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 95,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "40a74609-05e6-4106-af7a-9977cad98eb7",
+                            "questionId": "860ccb9a-5c19-4055-a106-83649cf94ad0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "fd35a6a8-dc2c-4b2b-8281-0d875e8217ad",
+                            "questionId": "860ccb9a-5c19-4055-a106-83649cf94ad0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "684676af-ba40-4890-9b0a-10e3c2a467d0",
+                    "title": "视频通话的可信度明显高于语音和电话，一般不会被骗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 96,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d549da8d-a09d-44b3-b70f-ca953c584378",
+                            "questionId": "684676af-ba40-4890-9b0a-10e3c2a467d0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "e1677745-8f1d-43d4-ab85-e1864dc92a41",
+                            "questionId": "684676af-ba40-4890-9b0a-10e3c2a467d0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e8551fb0-99f2-4cf9-bfc3-a60001b91ffe",
+                    "title": "小陈患有严重关节炎，他在网上搜索治疗关节炎药物，发现一名为“国家名医张教授”对关节炎疾病非常有研究，遂添加好友聊天，并从该人手中购买了多种药物，做法正确。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 97,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f07dfba5-ee76-46dd-93ed-7d788ba75750",
+                            "questionId": "e8551fb0-99f2-4cf9-bfc3-a60001b91ffe",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "aff57388-579f-4d26-a9a2-de080bf4dd3c",
+                            "questionId": "e8551fb0-99f2-4cf9-bfc3-a60001b91ffe",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a1fc6176-c4fb-405d-b88b-37c68277ac7c",
+                    "title": "QQ或微信上收到好朋友借钱的消息，应电话联系该好友确定消息真假。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 98,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "68e91d43-ac4c-4766-84f5-413d00f1f532",
+                            "questionId": "a1fc6176-c4fb-405d-b88b-37c68277ac7c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d5c9a661-c046-4d05-bfdf-0ecdf7919426",
+                            "questionId": "a1fc6176-c4fb-405d-b88b-37c68277ac7c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bb183add-4ffa-4c9a-a732-898b7d1e9e4e",
+                    "title": "明知他人实施电信网络诈骗犯罪，以买卖、出租、出借等方式提供手机卡、物联网卡、电信流量卡、信用卡、对公账户结算卡的，按诈骗共同犯罪论处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 99,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ee878ac2-1934-4b8d-903d-d64abfc97950",
+                            "questionId": "bb183add-4ffa-4c9a-a732-898b7d1e9e4e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "74bacd47-580e-4ad9-8765-fcb1e51d56b7",
+                            "questionId": "bb183add-4ffa-4c9a-a732-898b7d1e9e4e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f9fc531e-0cf8-4ab2-ada3-1a3115d156f9",
+                    "title": "小徐收到淘宝客服的信息，称有一笔钱要返还账户，请小徐登录信息中的网址进行确认，小徐并没有急着登录，而是先联系电商客服在线确认是否有此事，做法正确。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 100,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bcf2d635-4db0-4a90-a405-3b2e1c15ba1e",
+                            "questionId": "f9fc531e-0cf8-4ab2-ada3-1a3115d156f9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d302d043-0134-4034-a1a9-f219f64d4a0a",
+                            "questionId": "f9fc531e-0cf8-4ab2-ada3-1a3115d156f9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true,
+    "code": 200
+}

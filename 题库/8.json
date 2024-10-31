@@ -1,0 +1,2818 @@
+{
+    "message": "操作成功",
+    "status": 200,
+    "data": {
+        "result": {
+            "name": "顺序练习",
+            "subName": "顺序练习",
+            "currentIndex": 9,
+            "hasBefore": 1,
+            "hasNext": 1,
+            "startSequence": 801,
+            "questionList": [
+                {
+                    "id": "94194b05-bec2-4ef7-8622-95402fe879ac",
+                    "title": "当事人对道路交通事故认定有异议的，可以自道路交通事故认定书送达之日起三日内，向上一级公安机关交通管理部门提出书面复核申请。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 1,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c21f0b07-71ac-4f0d-aa0e-5e21700fbd87",
+                            "questionId": "94194b05-bec2-4ef7-8622-95402fe879ac",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3fb0ef5d-a169-4107-bc01-34fb6ceeb3df",
+                            "questionId": "94194b05-bec2-4ef7-8622-95402fe879ac",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "845068dc-ab72-4d3b-95f1-9a9129851892",
+                    "title": "机动车与机动车、机动车与非机动车发生财产损失事故，当事人对事实及成因无争议的，可以自行协商处理损害赔偿事宜。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 2,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "303e9c20-5b6f-4d8b-9426-bb449c4e7181",
+                            "questionId": "845068dc-ab72-4d3b-95f1-9a9129851892",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "23e0b081-14bd-47b1-8223-b818fec123b4",
+                            "questionId": "845068dc-ab72-4d3b-95f1-9a9129851892",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bcfbb7e0-83f4-4588-8df4-edb6e9b634e3",
+                    "title": "机动车乘客在机动车道上，可以从机动车左右侧下车。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 3,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "61111669-ebdd-45e2-bca9-1317b0112003",
+                            "questionId": "bcfbb7e0-83f4-4588-8df4-edb6e9b634e3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "23cf4d35-7c63-4008-84cd-f8def8177a41",
+                            "questionId": "bcfbb7e0-83f4-4588-8df4-edb6e9b634e3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "58003722-565f-4bae-a61a-b87686946f18",
+                    "title": "乘坐网约车时，发现来车实际车辆号牌与网上显示的车辆号牌不匹配时，仍可以继续上车乘坐。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 4,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "15743748-1eed-4fee-9281-f53cf563d30b",
+                            "questionId": "58003722-565f-4bae-a61a-b87686946f18",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "16235690-6ac1-41bb-8556-9989df4383af",
+                            "questionId": "58003722-565f-4bae-a61a-b87686946f18",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e7a31cdf-b6eb-4991-af2b-d5ff846ebc7e",
+                    "title": "在校园里遇到紧急车辆时，应主动避让。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 5,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ae3154a6-2271-4092-8b36-9758717aa351",
+                            "questionId": "e7a31cdf-b6eb-4991-af2b-d5ff846ebc7e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7e1a866c-ce96-4cb1-97ce-d9045f8a70e1",
+                            "questionId": "e7a31cdf-b6eb-4991-af2b-d5ff846ebc7e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5e7244d6-85cf-4e15-81e6-4b8d49a43603",
+                    "title": "在未设置非机动车信号灯和人行横道信号灯的路口，非机动车、行人可以不受机动车交通信号灯约束。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 6,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "80e1bcf8-723e-470d-a4b1-eb3ff9a7011c",
+                            "questionId": "5e7244d6-85cf-4e15-81e6-4b8d49a43603",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f701b966-8264-400a-9798-a867923d5a35",
+                            "questionId": "5e7244d6-85cf-4e15-81e6-4b8d49a43603",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4ed179e0-4687-43ee-be76-9a0469f666dd",
+                    "title": "相对方向同类车相遇，左转弯车辆应让直行车辆先行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 7,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "63741c1f-28c7-4e73-bd9d-d7c47573d83c",
+                            "questionId": "4ed179e0-4687-43ee-be76-9a0469f666dd",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ebfb3200-7207-4df6-adca-c6d458729ea0",
+                            "questionId": "4ed179e0-4687-43ee-be76-9a0469f666dd",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b0f6d387-d7da-4468-89ad-59ce14c97165",
+                    "title": "遇有交通信号或交通标志与交通警察的指挥不一致时，应服从交通民警的指挥。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 8,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "415127b2-835f-43c5-a5c0-746f9c898649",
+                            "questionId": "b0f6d387-d7da-4468-89ad-59ce14c97165",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c79d841e-8323-4145-9f4a-4782157fa99f",
+                            "questionId": "b0f6d387-d7da-4468-89ad-59ce14c97165",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d3ff9e32-c596-48c8-9197-b30d96015689",
+                    "title": "当行人出现交通安全违法行为时，车辆可以不给行人让行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 9,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8827e04e-e439-4e4a-b1ab-8a2bcc0ad309",
+                            "questionId": "d3ff9e32-c596-48c8-9197-b30d96015689",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "92d63f86-901d-4639-99d7-06e4c619935d",
+                            "questionId": "d3ff9e32-c596-48c8-9197-b30d96015689",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6584e922-84d6-4009-a383-9f35acd94103",
+                    "title": "等候乘坐公共汽车时，应该站在站台或指定位置依次排队。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 10,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3015af62-711a-4faa-8223-eb8c1dcda7fc",
+                            "questionId": "6584e922-84d6-4009-a383-9f35acd94103",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6a62cf6e-bd04-402d-a34a-c81098fb5945",
+                            "questionId": "6584e922-84d6-4009-a383-9f35acd94103",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "1d9774a6-f57a-4ab6-b460-14f44eae1d6c",
+                    "title": "雨天骑车，最好穿雨衣、雨披，不要一手持伞，一手扶把骑行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 11,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "64021e82-d523-4021-9522-01a95f60d8b5",
+                            "questionId": "1d9774a6-f57a-4ab6-b460-14f44eae1d6c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4b63e88e-8c78-4405-bfbb-76c88a1050d5",
+                            "questionId": "1d9774a6-f57a-4ab6-b460-14f44eae1d6c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6d2f2930-fe45-4b74-bcde-188b0cbe6735",
+                    "title": "在经过停在路边的车辆时，要注意预防车门突然打开。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 12,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f4e456a0-af5a-41af-b36f-86df583ff9bb",
+                            "questionId": "6d2f2930-fe45-4b74-bcde-188b0cbe6735",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7c640cc2-2e5e-4311-8eb3-9c5a2569c19d",
+                            "questionId": "6d2f2930-fe45-4b74-bcde-188b0cbe6735",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "129bb03a-4bc7-481b-92e0-c1d55030bca5",
+                    "title": "王某由于妻子突发急病，饮酒后驾驶摩托车送妻子上医院，这种行为不属于道路交通安全违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 13,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5995e18a-e928-48ba-b3cf-af6cf4bec8d1",
+                            "questionId": "129bb03a-4bc7-481b-92e0-c1d55030bca5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "44069086-b6e3-40a1-998f-923bb4af1929",
+                            "questionId": "129bb03a-4bc7-481b-92e0-c1d55030bca5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "44dfb655-1928-4f76-8550-5aaaf406d2bb",
+                    "title": "步行时不要有看手机、听音乐、聊天等分心行为，要密切注意观察道路交通状态。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 14,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6167e0b1-9233-4ecc-9fb2-505cc557fab9",
+                            "questionId": "44dfb655-1928-4f76-8550-5aaaf406d2bb",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4cb2f1b2-aa2d-4c58-aca6-8fe0f5107ce5",
+                            "questionId": "44dfb655-1928-4f76-8550-5aaaf406d2bb",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "57ee7c34-f1a0-4b89-8aeb-b38e9a1a26f8",
+                    "title": "在公共场所连接WiFi要小心，最好不借用公共场所的WiFi登陆手机银行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 15,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b79fbb4a-876b-4b24-8ec0-270062d2b6c7",
+                            "questionId": "57ee7c34-f1a0-4b89-8aeb-b38e9a1a26f8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6b4c9e54-ade2-4494-9514-2b615776a03c",
+                            "questionId": "57ee7c34-f1a0-4b89-8aeb-b38e9a1a26f8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "cd5ad035-ea4c-4102-9e86-777856a72514",
+                    "title": "涉及财产和重要个人账号，为了防止忘记密码，可以使用“记住密码”的登录模式。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 16,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "37ffdb5b-d399-4270-9b22-c834850f0986",
+                            "questionId": "cd5ad035-ea4c-4102-9e86-777856a72514",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f8f2cce6-881c-49e7-8932-7992023329ad",
+                            "questionId": "cd5ad035-ea4c-4102-9e86-777856a72514",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "8a788c50-a631-4e8c-8a5a-21f4449c2185",
+                    "title": "点击同意“隐私政策”，就意味着个人信息都会被收集。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 17,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5047e2aa-6616-4e39-a6e6-6ba8fac90e65",
+                            "questionId": "8a788c50-a631-4e8c-8a5a-21f4449c2185",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b7b87d3c-6786-4227-9828-b5a9b5a1da42",
+                            "questionId": "8a788c50-a631-4e8c-8a5a-21f4449c2185",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b85fe1cd-a73c-46b8-b987-ad65fc6ffd91",
+                    "title": "不要轻信发件人地址中显示的“显示名”。因为显示名实际上是可以随便设置的，要注意阅读发件邮箱全称。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 18,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "cedf043c-0dde-42a0-9406-c314aa94992b",
+                            "questionId": "b85fe1cd-a73c-46b8-b987-ad65fc6ffd91",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "88634f6c-d1a4-4fcc-aa63-0f60e102b597",
+                            "questionId": "b85fe1cd-a73c-46b8-b987-ad65fc6ffd91",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "74aa9cfa-a5b3-4036-bf88-8b757ac9cd45",
+                    "title": "互联网上流行的“人肉搜索”是一种网络暴力，它将受害人隐私信息公之于众，侵犯了他人的隐私权，但并不违法。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 19,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fa34710f-6871-48a3-8a51-1437c33915fe",
+                            "questionId": "74aa9cfa-a5b3-4036-bf88-8b757ac9cd45",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "11a08c87-b2aa-4498-9dd2-6e640cd179ec",
+                            "questionId": "74aa9cfa-a5b3-4036-bf88-8b757ac9cd45",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "405b457c-27f4-410b-b6d1-c8a7208831a1",
+                    "title": "微信收到“微信团队”安全提示：您的微信账号在16:46尝试在另一个设备登录，登录设备：**品牌**型号。这时，我们首先应该确认是否是自己的设备登录，如果不是，尽快修改密码。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 20,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "25030273-273e-4f91-a82e-5d9e6ca27995",
+                            "questionId": "405b457c-27f4-410b-b6d1-c8a7208831a1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "21eda3e6-692b-4824-80ca-e82dff4e2865",
+                            "questionId": "405b457c-27f4-410b-b6d1-c8a7208831a1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5fbfbab4-2f6f-4187-b717-98d76ef6666d",
+                    "title": "数据销毁方法和技术是指对存储在闪存、硬盘、磁带、光盘等介质中的数据进行删除的技术与机制、操作规程等。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 21,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "19f80bd6-ed59-4ddf-a9b1-2aa4d51e7e09",
+                            "questionId": "5fbfbab4-2f6f-4187-b717-98d76ef6666d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "14ff15c8-ba9c-484f-9d26-4dede7323af5",
+                            "questionId": "5fbfbab4-2f6f-4187-b717-98d76ef6666d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c0f742e5-5388-40b5-a7f4-3ccde313c083",
+                    "title": "网络运营者为了给用户提供全方位人性化服务，可以收集与其暂时提供的服务无关的个人信息。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 22,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d63cd5fd-93cf-4be4-8f0c-ce6e181fe28d",
+                            "questionId": "c0f742e5-5388-40b5-a7f4-3ccde313c083",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d1596745-060e-4d9a-bf0f-65c20491933a",
+                            "questionId": "c0f742e5-5388-40b5-a7f4-3ccde313c083",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "2d43e114-7e81-4462-8641-312fa7fe035f",
+                    "title": "网络交易的信息风险主要来自冒名偷窃、篡改数据、信息丢失等方面的风险。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 23,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "357b38d6-0848-471e-b02c-1c01aff3eae5",
+                            "questionId": "2d43e114-7e81-4462-8641-312fa7fe035f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "1a7b53a8-d876-4d4e-b9cd-882dedabdcc5",
+                            "questionId": "2d43e114-7e81-4462-8641-312fa7fe035f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bbf02960-bc69-4476-aea7-cd3d265172c1",
+                    "title": "我国《网络空间战略》倡导建设“和平、安全、开放、合作、有序”的五大网络空间战略。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 24,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9b7a764d-7e31-487c-b1d8-a193d01e63c0",
+                            "questionId": "bbf02960-bc69-4476-aea7-cd3d265172c1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e96c5c07-86e9-4bfc-bd79-cc3404f1072a",
+                            "questionId": "bbf02960-bc69-4476-aea7-cd3d265172c1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2c82bf0d-b82c-45e1-b964-6013b4097601",
+                    "title": "网络主播应当坚持健康的格调品位，自觉摈弃低俗、庸俗、媚俗等低级趣味，自觉反对流量至上、畸形审美、“饭圈”乱象、拜金主义等不良现象，自觉抵制违反法律法规、有损网络文明、有悖网络道德、有害网络和谐的行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 25,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a9b50bd6-ed31-477e-8ff8-4c7d330936b9",
+                            "questionId": "2c82bf0d-b82c-45e1-b964-6013b4097601",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7d09bead-570a-4227-978e-b7668cd5eb47",
+                            "questionId": "2c82bf0d-b82c-45e1-b964-6013b4097601",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "074ce991-4a17-4503-9b2d-9d8454fad118",
+                    "title": "在图书馆、咖啡厅等公共场所使用笔记本电脑时，应始终确保屏幕不被他人窥视。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 26,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bc6194ed-4233-4854-8674-ee30a720ed09",
+                            "questionId": "074ce991-4a17-4503-9b2d-9d8454fad118",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4c17af4f-f807-41e3-884f-75c8ded15d2e",
+                            "questionId": "074ce991-4a17-4503-9b2d-9d8454fad118",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2d103054-6d65-4ee0-8076-28e5c87e844b",
+                    "title": "不在社交媒体上公开个人行程和日常活动，以防被跟踪。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 27,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "70eb5099-9e82-40c1-a9d8-d2925c0b40af",
+                            "questionId": "2d103054-6d65-4ee0-8076-28e5c87e844b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "408b1aa5-3b8d-41e6-9ea7-2d3f278c02b9",
+                            "questionId": "2d103054-6d65-4ee0-8076-28e5c87e844b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f7c824ba-d1e0-48ef-a7f8-c85df7c0e1de",
+                    "title": "不应随意在网上填写调查问卷，尤其是要求提供个人详细信息的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 28,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d47d303b-49b3-48ae-a365-4dea7207c250",
+                            "questionId": "f7c824ba-d1e0-48ef-a7f8-c85df7c0e1de",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "91dfef1b-3bf7-4fa3-8da8-b9724746a3ca",
+                            "questionId": "f7c824ba-d1e0-48ef-a7f8-c85df7c0e1de",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6426d0fb-d216-47ff-b1fa-d4cb21d7cb51",
+                    "title": "使用浏览器的隐私模式并安装广告拦截插件，以减少追踪和恶意广告。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 29,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "28089938-9823-4124-af2c-3669d9161bc8",
+                            "questionId": "6426d0fb-d216-47ff-b1fa-d4cb21d7cb51",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2f6cff77-966d-40cf-9a75-7b5263df9573",
+                            "questionId": "6426d0fb-d216-47ff-b1fa-d4cb21d7cb51",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ffd70083-8f08-4bfa-af88-8695bfdf7da7",
+                    "title": "在社交媒体上分享云盘链接时，只要设置为私密分享就足够安全。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 30,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6ead61db-70c9-4b7b-959b-da6e0ae56c92",
+                            "questionId": "ffd70083-8f08-4bfa-af88-8695bfdf7da7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "beaa65ff-718b-4c5e-b045-bce6e41ef0a8",
+                            "questionId": "ffd70083-8f08-4bfa-af88-8695bfdf7da7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3060f5ee-fa45-40fc-b228-a244e857dfcf",
+                    "title": "新生小军看了多部关于灵异世界的小说和影视剧后出现了幻听，他需要去医院寻求心理医生的帮助。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 31,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c44df3b9-6b32-4842-9a30-9f9a6177b5d5",
+                            "questionId": "3060f5ee-fa45-40fc-b228-a244e857dfcf",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f6cc157b-98cd-4128-8330-45ac3deefed0",
+                            "questionId": "3060f5ee-fa45-40fc-b228-a244e857dfcf",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e8ae38e4-3b31-41c8-9f77-2a0869b6455e",
+                    "title": "大学生自我抱负水平越低，失败的机会则越少，也更容易体验到挫折感。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 32,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c424a46d-a4fc-4fe7-b040-da0c16f4875f",
+                            "questionId": "e8ae38e4-3b31-41c8-9f77-2a0869b6455e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d9dd0038-7d99-4b94-8c04-2a1f67e30a17",
+                            "questionId": "e8ae38e4-3b31-41c8-9f77-2a0869b6455e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "244bfd07-502b-446a-99f6-a6e3795b43c5",
+                    "title": "从网络空间得知同学小张因家庭经济非常困难，在网上找兼职又被骗全部生活费，有自杀想法，应该第一时间联系他本人并确定其所在位置和是否处于危机状态。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 33,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d8b15ae8-2204-486e-9700-fc5cda384731",
+                            "questionId": "244bfd07-502b-446a-99f6-a6e3795b43c5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "1f6442ef-a6cc-4e74-ad96-299349c85d25",
+                            "questionId": "244bfd07-502b-446a-99f6-a6e3795b43c5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "fe08cd04-3248-4e0b-ac74-706c0abaf7a3",
+                    "title": "舍友小华因为求职不顺，情绪非常低落，最近一段时间总是凌晨在微博发“人生毫无希望，不值得留恋”的状态，小明认为这是别人的隐私不能告诉班主任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 34,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f0124f53-f34f-4530-8fb6-154b96c73733",
+                            "questionId": "fe08cd04-3248-4e0b-ac74-706c0abaf7a3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f9ed69b0-3fac-4988-a6f6-35f3548f8e58",
+                            "questionId": "fe08cd04-3248-4e0b-ac74-706c0abaf7a3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "bc3aa63e-9e6c-4fb4-9a1a-180b107f89a8",
+                    "title": "心理咨询只能用来帮助人们解决心理方面的问题，对其他方面没有多大作用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 35,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6f240903-f45c-448d-8bd9-abfab8e7acd1",
+                            "questionId": "bc3aa63e-9e6c-4fb4-9a1a-180b107f89a8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "42596d67-dcfd-4ce8-b638-5a0bdcad8777",
+                            "questionId": "bc3aa63e-9e6c-4fb4-9a1a-180b107f89a8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "26a35564-1787-4a7f-84b2-fa682045e5b3",
+                    "title": "心理健康的大学生心理行为不一定要符合年龄特征。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 36,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "20938b51-8a0d-4023-ad7c-1b09cc66fa50",
+                            "questionId": "26a35564-1787-4a7f-84b2-fa682045e5b3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "46133081-b7b4-4768-91dd-60aa33e3f708",
+                            "questionId": "26a35564-1787-4a7f-84b2-fa682045e5b3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e8e68af5-ea03-4717-aa00-c7b0d5969c60",
+                    "title": "大学生要对心理咨询有正确的认知，只要是日常生活中遇到的各类心理问题都可以进行心理咨询。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 37,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b2a25fb4-c74f-4ee6-8cda-69149a38acd8",
+                            "questionId": "e8e68af5-ea03-4717-aa00-c7b0d5969c60",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c3f3344a-adab-4528-8c27-93373e7833dd",
+                            "questionId": "e8e68af5-ea03-4717-aa00-c7b0d5969c60",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "baaf19a2-8f8d-422f-9a07-70050fc52609",
+                    "title": "进入大学后不需要重建自己的学习方向和学习方式，沿用高中阶段的就可以了。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 38,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "94005f45-45d0-4212-b6a7-64c6a6e2bab3",
+                            "questionId": "baaf19a2-8f8d-422f-9a07-70050fc52609",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "56da72db-aecc-4210-8e68-b5fb40cbd169",
+                            "questionId": "baaf19a2-8f8d-422f-9a07-70050fc52609",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "249a511e-7d86-4ca8-8296-e64cf0ebc584",
+                    "title": "当发现你的舍友或同学长久处于痛苦的情绪中，甚至有自伤行为，你可以适度地帮助其处理一些人际与生活需要，避免其受到其他同学的不良对待。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 39,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "835807f4-da4b-46c2-a05b-fc9ede040613",
+                            "questionId": "249a511e-7d86-4ca8-8296-e64cf0ebc584",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f0cd5b3b-a6e0-4a0c-8d5c-3ddeba8b55aa",
+                            "questionId": "249a511e-7d86-4ca8-8296-e64cf0ebc584",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "849529c8-6933-42cb-ab25-7df307bc18b0",
+                    "title": "不同成长阶段的自我认同感即使不一致，也不会产生自我认同危机。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 40,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6d211d70-8fff-4b2a-a28d-7ebdf81e6a3b",
+                            "questionId": "849529c8-6933-42cb-ab25-7df307bc18b0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "30354ea1-515a-480f-9a45-a55c35aef144",
+                            "questionId": "849529c8-6933-42cb-ab25-7df307bc18b0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "aa52a979-cf08-4b44-9b91-decd563a1432",
+                    "title": "大学生恋爱过程中主动提出分手的一方一定没有被抛弃感。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 41,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9395ce28-7a10-425f-859c-5ec195a1309a",
+                            "questionId": "aa52a979-cf08-4b44-9b91-decd563a1432",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5aaaef49-74cd-480b-aa96-068a1dec7dd6",
+                            "questionId": "aa52a979-cf08-4b44-9b91-decd563a1432",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "cc40944d-0b7e-43ff-8078-ebb43906e16b",
+                    "title": "在人际交往中我们要设身处地地聆听，以便更好地理解别人讲话的内容、目的和情感。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 42,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "85dd5ae0-9315-4ee1-8d24-155d1ea2291d",
+                            "questionId": "cc40944d-0b7e-43ff-8078-ebb43906e16b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "79feb36b-0932-4e75-9df9-d5501848030e",
+                            "questionId": "cc40944d-0b7e-43ff-8078-ebb43906e16b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a1bd2191-417f-4892-88d7-3192ecb8741b",
+                    "title": "我们可以通过积极的心理暗示，调节情绪压力感造成的身体健康问题。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 43,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0dcf3992-c67f-4e53-990b-05b33aabf089",
+                            "questionId": "a1bd2191-417f-4892-88d7-3192ecb8741b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "88f15497-ac78-4bf7-9021-6eec5b4a1b3d",
+                            "questionId": "a1bd2191-417f-4892-88d7-3192ecb8741b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "354a3045-82e8-456b-927a-f31c542137d8",
+                    "title": "当发现同学有同性恋倾向时，要第一时间报告辅导员老师。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 44,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3264a278-33c9-4c86-8588-9fd95388d0fd",
+                            "questionId": "354a3045-82e8-456b-927a-f31c542137d8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b0033208-2eac-4604-b477-f4ea97d481ed",
+                            "questionId": "354a3045-82e8-456b-927a-f31c542137d8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "7bc595e4-1f01-40bc-9872-80a91ea4ea59",
+                    "title": "信仰破灭、自卑、多疑、压抑、骄傲等都是心理不健康的表现。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 45,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "388c46ec-e622-4918-9516-9a2e2322c422",
+                            "questionId": "7bc595e4-1f01-40bc-9872-80a91ea4ea59",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4f07163f-6ef5-47ed-a784-8413318b5b2d",
+                            "questionId": "7bc595e4-1f01-40bc-9872-80a91ea4ea59",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "cb6cc12a-8870-4468-b945-198f5ea31d9f",
+                    "title": "在大学的人际交往中，有些人总是希望别人像父母兄姐一样关心自己，凡事都要别人替自己拿主意，这是一种缺乏独立意识不健康的心态。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 46,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3c07359d-f7da-46f2-9184-8a766c7c664b",
+                            "questionId": "cb6cc12a-8870-4468-b945-198f5ea31d9f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5dae297e-9092-45cf-8aef-469bf8828038",
+                            "questionId": "cb6cc12a-8870-4468-b945-198f5ea31d9f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5fdb87d1-ce54-4642-be2b-84624100caf0",
+                    "title": "只有在心理出现问题的时候，才有必要进行心理咨询。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 47,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4c5ad6fe-79b5-4664-ac59-2dd90023410f",
+                            "questionId": "5fdb87d1-ce54-4642-be2b-84624100caf0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "652d75d0-040d-4350-a1d3-768996a8c2ed",
+                            "questionId": "5fdb87d1-ce54-4642-be2b-84624100caf0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "0f315e6a-32c5-4916-8f19-ca2c6aaa9b74",
+                    "title": "一直用手机刷微信朋友圈是一种网络成瘾的现象。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 48,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2a75eec6-51f8-4c80-8ff0-8a900f67d4a6",
+                            "questionId": "0f315e6a-32c5-4916-8f19-ca2c6aaa9b74",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a67b6e09-49db-4e33-b1c3-dfe3eb9bf08e",
+                            "questionId": "0f315e6a-32c5-4916-8f19-ca2c6aaa9b74",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9d821e16-2509-4083-95e4-6294603cf749",
+                    "title": "排解愤怒不需要讲究技巧的，只要图一时之快，逞一时之勇，发泄出来就好。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 49,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "cea52eeb-a09d-4a9d-8458-f66a579d6107",
+                            "questionId": "9d821e16-2509-4083-95e4-6294603cf749",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f57ca0d7-c93e-485c-89a0-91925cb2c5b6",
+                            "questionId": "9d821e16-2509-4083-95e4-6294603cf749",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "dbefa956-0824-458a-8b2e-6ef2189382a1",
+                    "title": "社交恐惧症是一种无需治疗就可以自愈的疾病。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 50,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6f747315-7de5-44fb-aa11-5a2db2290ac3",
+                            "questionId": "dbefa956-0824-458a-8b2e-6ef2189382a1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5eaaad3d-49b1-47be-b711-fb057ea72b79",
+                            "questionId": "dbefa956-0824-458a-8b2e-6ef2189382a1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "31202604-a037-4696-ae81-1a60cbf3b677",
+                    "title": "正确的自我意识是指在日常生活中，我们能够对自己进行客观的、恰如其分的评价，认识自己的长处和不足，能够接纳自己，对自己有合理的期望，自尊自信。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 51,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7b61b991-d290-4273-80b4-1d9ed2ecbeae",
+                            "questionId": "31202604-a037-4696-ae81-1a60cbf3b677",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "b4ecdb95-d047-4365-8709-73f42bcecb7e",
+                            "questionId": "31202604-a037-4696-ae81-1a60cbf3b677",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "79226e5d-17f5-4c2f-b174-db8d98d040c9",
+                    "title": "父母有精神疾患，子女也同样会患精神疾病。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 52,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "294a0abe-385b-4902-be15-45bb4ae628a5",
+                            "questionId": "79226e5d-17f5-4c2f-b174-db8d98d040c9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "2232e7ee-10f6-41cc-b7d1-2d2be30ea757",
+                            "questionId": "79226e5d-17f5-4c2f-b174-db8d98d040c9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e6e08061-6b92-4680-aa21-43011c4c1c41",
+                    "title": "对人要发自内心的去讨好，不分好坏一概说好听的话，这样才能巩固自己的人际关系。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 53,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6e49a004-a8ca-4899-97be-ab3847416205",
+                            "questionId": "e6e08061-6b92-4680-aa21-43011c4c1c41",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "e46a2091-f3fd-4be6-8c4d-4c29d8a4c40b",
+                            "questionId": "e6e08061-6b92-4680-aa21-43011c4c1c41",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3cd855f5-ac10-49a6-a590-285fcd40698b",
+                    "title": "去学校心理咨询中心咨询的人，都是有心理疾病的人。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 54,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9bbbdd01-8f7e-488f-84f4-9ffd04183a7d",
+                            "questionId": "3cd855f5-ac10-49a6-a590-285fcd40698b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f2a74964-1dc5-44a0-83d1-0e31e451462c",
+                            "questionId": "3cd855f5-ac10-49a6-a590-285fcd40698b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "946b5925-c5ba-4c45-a988-afa1dfc7b054",
+                    "title": "心理咨询是运用心理学的知识、理论和技术，通过咨询者与求询者的交谈、协商、指导过程，帮助求询者达到自助的目的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 55,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8274e6f0-be80-44e2-8476-be9e2133ef64",
+                            "questionId": "946b5925-c5ba-4c45-a988-afa1dfc7b054",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d9f3f71e-9e0d-4aaa-98da-bc1bb24603bd",
+                            "questionId": "946b5925-c5ba-4c45-a988-afa1dfc7b054",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9d7b3e92-4eb9-487e-a2f4-e9d0a4f71c73",
+                    "title": "环境适应问题在大一新生中较为常见。进入一个新的环境，需要一个适应过程，在这个过程中会体验到陌生、焦虑、担心等情绪，如果适应的过程太长，会出现适应障碍。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 56,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d0e7199f-675f-461d-8bc0-fce66c0b577b",
+                            "questionId": "9d7b3e92-4eb9-487e-a2f4-e9d0a4f71c73",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "581f61af-8b01-4316-9c3f-a13ad35f2465",
+                            "questionId": "9d7b3e92-4eb9-487e-a2f4-e9d0a4f71c73",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "76e28a1f-b813-4b0c-bbf6-e2d7f774eace",
+                    "title": "上网成瘾全称是“互联网成瘾综合症”，是一种心理障碍。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 57,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "21cc59c7-a538-45b4-aa8a-65048dd0b4d7",
+                            "questionId": "76e28a1f-b813-4b0c-bbf6-e2d7f774eace",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4ed4d29f-d341-409a-a30e-f2c93c57d3f2",
+                            "questionId": "76e28a1f-b813-4b0c-bbf6-e2d7f774eace",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "015510bb-3577-4369-aa99-40c13831778a",
+                    "title": "强烈的情绪反应和持续性的情绪反应会影响生活质量，甚而造成当事人身心疾病。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 58,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "08c0558e-4393-4b43-a6a5-660198669f02",
+                            "questionId": "015510bb-3577-4369-aa99-40c13831778a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "fb023a53-0b5c-45c9-b0b4-77fe8f91a80a",
+                            "questionId": "015510bb-3577-4369-aa99-40c13831778a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5eb9eb40-d42c-4350-aafd-7291e471d9d4",
+                    "title": "自恋常常被认为是带来人际关系问题的重要原因，而心理实验研究证实适度自恋是心理健康的表现。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 59,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "067ee145-7a96-4208-9d81-70a0fcd5f3dd",
+                            "questionId": "5eb9eb40-d42c-4350-aafd-7291e471d9d4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3d7bcde6-6f3b-4ca0-b82e-b1cccf7670e8",
+                            "questionId": "5eb9eb40-d42c-4350-aafd-7291e471d9d4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "75e025c9-6760-4dfd-8607-7247dc88a60b",
+                    "title": "面对陌生的人事物和环境，从众行为有助于我们避免挫折和尴尬，这是最好的选择，没有任何弊端。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 60,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5e6158f6-786e-4058-b701-1b97c71bc9fb",
+                            "questionId": "75e025c9-6760-4dfd-8607-7247dc88a60b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "012fc259-125f-489d-9feb-7e6fb591122c",
+                            "questionId": "75e025c9-6760-4dfd-8607-7247dc88a60b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "097c42ab-8956-4111-9193-6c0685ed06fc",
+                    "title": "新生要改变环境，获得满意的生活学习状态，就必须先适应环境，不能幻想环境会根据自己的需求不断变化。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 61,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "358a8503-088f-4c2e-ab4b-4731709507cc",
+                            "questionId": "097c42ab-8956-4111-9193-6c0685ed06fc",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "fa0fb551-4acd-44a3-9567-9cd4ba7f53ab",
+                            "questionId": "097c42ab-8956-4111-9193-6c0685ed06fc",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "8f23aa2f-689c-4655-a6e2-02b9bcc3c7f2",
+                    "title": "挫折对于大学生的积极影响在于它引起的适度紧张和压力，能够让人更清醒的认识和调整自己，在逆境中奋起，获得更好发展。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 62,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "70e9aea8-2341-451f-9a34-f8acd008ba6a",
+                            "questionId": "8f23aa2f-689c-4655-a6e2-02b9bcc3c7f2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e8fd9625-961c-4502-ab4c-caee72bd0427",
+                            "questionId": "8f23aa2f-689c-4655-a6e2-02b9bcc3c7f2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c273baa4-7886-45c3-abf0-da89f46d5273",
+                    "title": "大学生生命教育不需要融入法治教育，两者没有直接关系。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 63,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b2a94ffa-b2e6-4c2d-a5f3-18f5f64d66bd",
+                            "questionId": "c273baa4-7886-45c3-abf0-da89f46d5273",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "9d3327e7-a824-498a-882e-99ae4aa0102c",
+                            "questionId": "c273baa4-7886-45c3-abf0-da89f46d5273",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "bd1fa883-13a9-4654-a5be-f66f83366237",
+                    "title": "小玉来自农村乡镇，舍友经常跟她说只有自己不嫌弃她，其他同学都看不起她，慢慢小玉也认同这个说法，发现自己确实很差劲。这个情况是正常的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 64,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1866e3a8-fab1-4c6c-87ca-fd7e5d94b561",
+                            "questionId": "bd1fa883-13a9-4654-a5be-f66f83366237",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4b9dab3f-2131-4e7a-a528-964024d66492",
+                            "questionId": "bd1fa883-13a9-4654-a5be-f66f83366237",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "fe66f606-932f-40bc-9c83-987c5b6e24f8",
+                    "title": "变态心理学就是研究行为变态者的相关理论和实践。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 65,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "83096845-3f6d-4d59-a58e-3e1499b8c70d",
+                            "questionId": "fe66f606-932f-40bc-9c83-987c5b6e24f8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6c7b188c-1e13-4b29-971e-56bce4888e4c",
+                            "questionId": "fe66f606-932f-40bc-9c83-987c5b6e24f8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "2a90e1ab-bb9d-4872-afce-bd204abdf829",
+                    "title": "信任是维持良好人际关系的法宝，所以在大学里想建立深厚的友谊就不能对交往对象有任何怀疑。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 66,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9692effc-cf21-4377-95bf-cb17e3b1a46e",
+                            "questionId": "2a90e1ab-bb9d-4872-afce-bd204abdf829",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b04ef86e-1f06-4a64-9488-64f9aa60625b",
+                            "questionId": "2a90e1ab-bb9d-4872-afce-bd204abdf829",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "fdcf4481-d70a-4f69-a898-417bb636cbf5",
+                    "title": "情绪具有感染性，所以在大学生活中要多跟积极、乐观、阳光的同学在一起，远离忧伤、抑郁、自卑的同学。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 67,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "67e63dcf-7a8c-4198-8eda-cf9e1d03455a",
+                            "questionId": "fdcf4481-d70a-4f69-a898-417bb636cbf5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "35629471-48b7-440e-8ad6-3c6c85637083",
+                            "questionId": "fdcf4481-d70a-4f69-a898-417bb636cbf5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "491ae773-c0a9-4fca-9dca-696431e6767d",
+                    "title": "个体给别人带来舒服、愉悦和稳定的情绪越多，他（她）的情绪价值越高。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 68,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6c6b9532-5d1d-494a-a738-5adbf77f1003",
+                            "questionId": "491ae773-c0a9-4fca-9dca-696431e6767d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "12da6b39-4fac-4ef8-a5fa-422e319b772f",
+                            "questionId": "491ae773-c0a9-4fca-9dca-696431e6767d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6971fa37-49dd-4485-9eef-317343c4fe19",
+                    "title": "小优上大学前妈妈关照她大学里同学关系没有什么真心可言，将来都是竞争关系，一定要处处提防，不要相信任何人的话。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 69,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5e96a738-6911-45ab-b8c7-d2e4bd3c59df",
+                            "questionId": "6971fa37-49dd-4485-9eef-317343c4fe19",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "bc961cfc-7f1f-454a-9d46-bb088cf6ca56",
+                            "questionId": "6971fa37-49dd-4485-9eef-317343c4fe19",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "587fbc80-dec5-4f76-a07b-e3d1146f4d41",
+                    "title": "小青跟外婆关系特别好，自从外婆去世后，就经常一个人点很多外卖吃，然后又极力吐掉，情绪也很不稳定，这时候舍友们应该多陪伴她，并将这个情况告诉辅导员老师。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 70,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d6e91284-527d-4d58-b373-6b38fdbeb3a3",
+                            "questionId": "587fbc80-dec5-4f76-a07b-e3d1146f4d41",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ef3d7662-b3d2-4edb-850f-3dce28d03ce8",
+                            "questionId": "587fbc80-dec5-4f76-a07b-e3d1146f4d41",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9558a743-5926-458e-9053-16dba738a5d9",
+                    "title": "为了防止学生集体外出活动发生交通、人身伤亡事故，外出之前必须向系及学院有关部门报告，说明活动的目的、人数、时间、地点和负责人的姓名，进行必要的安全教育，落实安全责任人，经批准后方可外出。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 71,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "17bd7480-547b-4310-ac7f-8ada53350b35",
+                            "questionId": "9558a743-5926-458e-9053-16dba738a5d9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "1e90b463-4a43-4091-ba69-4975b2d40631",
+                            "questionId": "9558a743-5926-458e-9053-16dba738a5d9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ae9eb032-3f7e-468e-b015-9fb87aa1775b",
+                    "title": "对正在进行行凶、杀人、抢劫、强奸、绑架以及其他严重危及人身安全的暴力犯罪，采取防卫行为，造成不法侵害人伤亡的，属于防卫过当，负刑事责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 72,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e80895f7-8816-4d6f-93ab-2b9d503d25b5",
+                            "questionId": "ae9eb032-3f7e-468e-b015-9fb87aa1775b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6278d049-e12e-4ceb-857a-eb293b7c851c",
+                            "questionId": "ae9eb032-3f7e-468e-b015-9fb87aa1775b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6c2c6cd1-1236-4fd9-894f-7ce3d598b092",
+                    "title": "张某家境贫困，遂多次偷拿同学外卖，他的行为是违法的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 73,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "39f13285-70db-4803-85f8-815138168696",
+                            "questionId": "6c2c6cd1-1236-4fd9-894f-7ce3d598b092",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "28af1fb8-db16-468b-8938-383a453c5ecd",
+                            "questionId": "6c2c6cd1-1236-4fd9-894f-7ce3d598b092",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "14912b9e-3c35-4038-8d0a-95fa0d9ad29f",
+                    "title": "大学生李某因琐事与室友丁某发生矛盾，于是就匿名在网络上发布了一些丁某日程生活中的一些糗事并予以嘲讽。被发现后，李某以发布的内容全部是事实为由拒绝删除和道歉，称这是言论自由，李某认为自己的想法是对的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 74,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e4f26645-fc9a-46d1-88e7-d25e9d354dbf",
+                            "questionId": "14912b9e-3c35-4038-8d0a-95fa0d9ad29f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4e9004af-2fc7-4a3f-96db-3e0726c94bc8",
+                            "questionId": "14912b9e-3c35-4038-8d0a-95fa0d9ad29f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "1fe8146e-0884-4b04-8d6b-0044e49ecb36",
+                    "title": "某日，大学生张某看到同学吴某的手机放在宿舍桌上充电，趁吴某不注意，张某将手机偷走，后吴某发现手机被盗后报警。张某害怕将手机还给了吴某，张某的行为触犯了刑法，应依法追究刑事责任，但可以减轻处罚或免予处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 75,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2f525606-d820-4c76-8d4a-bb8ef9ac1d28",
+                            "questionId": "1fe8146e-0884-4b04-8d6b-0044e49ecb36",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8f670b48-5642-4e63-a3f0-c4ed0dac4fb4",
+                            "questionId": "1fe8146e-0884-4b04-8d6b-0044e49ecb36",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "517956a6-cd39-4f16-833f-0a23f374c93d",
+                    "title": "为了方便自己出行，可以找一辆共享单车上私锁，只供自己使用，这种行为是违法的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 76,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3a98069d-5e9d-4307-a05a-1e5a06965b62",
+                            "questionId": "517956a6-cd39-4f16-833f-0a23f374c93d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "430d7350-5ae7-4947-bac4-51922918db15",
+                            "questionId": "517956a6-cd39-4f16-833f-0a23f374c93d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e121bbae-d597-427b-918e-dfebe651d0dd",
+                    "title": "如果散布谣言，谎报险情、疫情、警情或者以其他方法故意扰乱公共秩序的，或者公然侮辱他人或者捏造事实诽谤他人，尚不构成犯罪的，要依据《治安管理处罚法》等规定给予拘留、罚款等行政处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 77,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "96528fc1-f378-4866-a9e3-cd7a419d118c",
+                            "questionId": "e121bbae-d597-427b-918e-dfebe651d0dd",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "fbdc6040-12dd-4ba0-be62-6a5b90d8a173",
+                            "questionId": "e121bbae-d597-427b-918e-dfebe651d0dd",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "be3b6844-08bb-4973-b086-360250cf33cc",
+                    "title": "非法携带枪支、弹药、管制刀具或者爆炸性、易燃性、放射性、毒害性、腐蚀性物品，进入公共场所或者公共交通工具，危及公共安全，情节严重的，处三年以下有期徒刑、拘役或者管制。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 78,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "61a29f2a-cd14-43c9-b6b5-1a2e5685dea1",
+                            "questionId": "be3b6844-08bb-4973-b086-360250cf33cc",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f76514a5-3217-4bca-b44e-f697eff6913a",
+                            "questionId": "be3b6844-08bb-4973-b086-360250cf33cc",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e8952617-b3ab-4785-8845-5c592c8880f0",
+                    "title": "校园内发生治安、刑事案件时，大学生不要围观看热闹、拍照，更不要随意将拍摄的影像资料传播到网络平台，正确的做法是立刻向学校或公安机关报警。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 79,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "243b931e-fce4-4a6a-91d0-89c6e8e670a3",
+                            "questionId": "e8952617-b3ab-4785-8845-5c592c8880f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c6a08f73-20a4-466b-b999-c559ac8dadd8",
+                            "questionId": "e8952617-b3ab-4785-8845-5c592c8880f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "fa9694b8-5337-4c85-9224-629e7bafdf72",
+                    "title": "强制猥亵、侮辱罪是指以暴力、胁迫或者其他方法强制猥亵他人或者侮辱妇女，将处五年以下有期徒刑或者拘役。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 80,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a18a97a5-9878-40d1-a6c7-bfd213e5e9dd",
+                            "questionId": "fa9694b8-5337-4c85-9224-629e7bafdf72",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "b9bb3119-9426-440e-8f03-36184027eb89",
+                            "questionId": "fa9694b8-5337-4c85-9224-629e7bafdf72",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "27b9732f-e824-49b4-a667-ec386f16b047",
+                    "title": "大学生饮酒应适量，更不要互相劝酒。强行劝酒而致死的，劝酒人应承担赔偿责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 81,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2e9516c6-fbcb-4590-9747-4f99694e35c6",
+                            "questionId": "27b9732f-e824-49b4-a667-ec386f16b047",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3d8137fa-436d-4677-8589-6cb1a78fc5aa",
+                            "questionId": "27b9732f-e824-49b4-a667-ec386f16b047",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "eb76dcc8-f9e9-4fe5-920d-d8e208b428c6",
+                    "title": "因学校和学生以外第三人造成的学生意外伤害事故，由第三人承担法律责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 82,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "81f10ec0-65aa-434c-a323-5e98d9f1002d",
+                            "questionId": "eb76dcc8-f9e9-4fe5-920d-d8e208b428c6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "cd661e9b-cf55-401f-9b69-5471c5cbf609",
+                            "questionId": "eb76dcc8-f9e9-4fe5-920d-d8e208b428c6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a7597cbc-7d11-4325-834a-faef8e5963f2",
+                    "title": "学生社团应当在宪法、法律、法规和学校管理制度范围内活动，接受学校的领导和管理。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 83,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3dcc60a6-edf5-4ef6-9424-33232d7f9e72",
+                            "questionId": "a7597cbc-7d11-4325-834a-faef8e5963f2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "555b22a0-efcc-478d-b5e0-b346526b4116",
+                            "questionId": "a7597cbc-7d11-4325-834a-faef8e5963f2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f8117cb3-6b04-4896-8192-247cb47e9799",
+                    "title": "在校外遭遇暴力侵害时，先是逃生，采取各种防卫措施保护好自已，同时尽量记住施暴者的体貌特征，及时报警或报学校保卫处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 84,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "244a2e0b-e4b7-48bd-8144-6ee0d1fa0821",
+                            "questionId": "f8117cb3-6b04-4896-8192-247cb47e9799",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "0bd0b2eb-6c87-4417-a5c2-15577273b4a5",
+                            "questionId": "f8117cb3-6b04-4896-8192-247cb47e9799",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "362eb11b-9a10-4397-a8b0-063d5fa21c7c",
+                    "title": "容留他人吸食、注射毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 85,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f535a5d9-478c-4768-a8e7-baa264e4aa8e",
+                            "questionId": "362eb11b-9a10-4397-a8b0-063d5fa21c7c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "11e0a6de-987b-4927-b306-78ad917e11d8",
+                            "questionId": "362eb11b-9a10-4397-a8b0-063d5fa21c7c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b12ef4d7-1b2c-414d-aaf0-dd8ab475afca",
+                    "title": "某夜晚吴某在僻静小巷行走，见一陌生人突然袭击他，遂挥拳打去，直至将其打瘫在地。后查明此陌生人为一狂暴性精神病人，经常袭击路人，已造成好几起轻伤事件。结果精神病人被吴某打断一条腿（轻伤害）。吴某的行为属于正当防卫。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 86,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3aa6b696-e3ee-43a9-84ba-83c0bcbb5423",
+                            "questionId": "b12ef4d7-1b2c-414d-aaf0-dd8ab475afca",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "0a0b6649-f540-40ea-a91e-ef6c37087d91",
+                            "questionId": "b12ef4d7-1b2c-414d-aaf0-dd8ab475afca",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0eff142a-a706-4381-89d5-fd9cc3f25203",
+                    "title": "小李偷偷借用同学小张的身份证办理了网络贷款，小李这样的行为属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 87,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "23a901a2-1cee-455b-bde9-8fc8edd9cd90",
+                            "questionId": "0eff142a-a706-4381-89d5-fd9cc3f25203",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4a8270c1-5376-4182-8334-1e4ca66d920c",
+                            "questionId": "0eff142a-a706-4381-89d5-fd9cc3f25203",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6fe28114-6e46-4273-b500-dc65ed40f300",
+                    "title": "用人单位招用劳动者，可以临时扣押劳动者的居民身份证和其他证件，或者向劳动者收取适当保证金。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 88,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4a26fafe-287a-4881-a8f0-29077f15d280",
+                            "questionId": "6fe28114-6e46-4273-b500-dc65ed40f300",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "2837ba62-3ecd-4a3a-9297-bb2df35dc6e1",
+                            "questionId": "6fe28114-6e46-4273-b500-dc65ed40f300",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "824c98fa-d185-4388-892b-6596bbb057c6",
+                    "title": "非全日制用工劳动报酬结算支付周期最长不得超过十五日。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 89,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ed3dcd1f-f981-48bb-b89e-51c96d2a7edf",
+                            "questionId": "824c98fa-d185-4388-892b-6596bbb057c6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "736f134a-e16c-4b4d-b70b-b7da74949a72",
+                            "questionId": "824c98fa-d185-4388-892b-6596bbb057c6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ebfc4c11-1432-47f3-8fe3-ac07791438e3",
+                    "title": "家长明知学生有特异体质、特殊疾病，但未及时书面告知学校的，在校期间造成学生伤亡的，学校应承担法律责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 90,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "67475047-ad0c-4ce3-83e4-b4a5e97ca4cd",
+                            "questionId": "ebfc4c11-1432-47f3-8fe3-ac07791438e3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "0b3122f0-2bcf-4413-8946-52846f58d679",
+                            "questionId": "ebfc4c11-1432-47f3-8fe3-ac07791438e3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "68b00f81-d71d-468e-9f03-3e76982245f0",
+                    "title": "学生在教育教学活动期间擅自离开教育教学活动区域，学校已尽到管理职责的，造成的意外伤害事故，学校行为并无不当的，不承担法律责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 91,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "21708115-4435-4e08-892b-5f7a8ba18fe6",
+                            "questionId": "68b00f81-d71d-468e-9f03-3e76982245f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "69de9f1c-fda6-4edd-841a-934d58757fcb",
+                            "questionId": "68b00f81-d71d-468e-9f03-3e76982245f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b0d38e0e-eb1d-4a09-830d-8d6508a2e84d",
+                    "title": "学校发现学生在校内有违法行为或者严重精神疾病可能对他人造成伤害的，可以依法采取或者协助有关部门采取必要措施。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 92,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "871d2a33-5317-4aba-9fe7-2d629e1c1a6d",
+                            "questionId": "b0d38e0e-eb1d-4a09-830d-8d6508a2e84d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7ee662f4-37e6-44e2-a8b7-963cf904cd56",
+                            "questionId": "b0d38e0e-eb1d-4a09-830d-8d6508a2e84d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bbac582b-de73-4ab0-bd52-0af7e91b84ec",
+                    "title": "身份信息至关重要，大学生必须妥善保管，尤其是不要出借身份证件去注册公司。因为一旦身份信息借用出去，那么必将承担借用身份信息的不利后果。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 93,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1c269800-cb6d-4658-8c10-e45981e13c90",
+                            "questionId": "bbac582b-de73-4ab0-bd52-0af7e91b84ec",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "be3b2d7c-38a7-4acb-8b40-5fa95bc014b9",
+                            "questionId": "bbac582b-de73-4ab0-bd52-0af7e91b84ec",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f7c81834-a905-44ab-9f2b-f53449bd5f73",
+                    "title": "大四的钱某经常欺负舍友孙某并把其打伤，孙某找我帮助解决，我才和孙某一起去打了钱某，这应该说是见义勇为，助人为乐。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 94,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f8f91bb9-c025-4193-86d5-731378a34c84",
+                            "questionId": "f7c81834-a905-44ab-9f2b-f53449bd5f73",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d798adae-589f-43c3-942b-414993bf4ea0",
+                            "questionId": "f7c81834-a905-44ab-9f2b-f53449bd5f73",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "de9c857c-35ad-47e3-9ac4-43e50f314aff",
+                    "title": "大学生是成年人，他们可以为自己的行为负责，因此组织集体课外活动，不需要经过学校同意。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 95,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "428ae705-8ddd-436f-9c9e-af21753b9cb0",
+                            "questionId": "de9c857c-35ad-47e3-9ac4-43e50f314aff",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "a322a06e-a0a6-4932-9d28-c59c8e36b813",
+                            "questionId": "de9c857c-35ad-47e3-9ac4-43e50f314aff",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "337ccd44-abd3-4aa1-be45-11e3730d4b76",
+                    "title": "走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 96,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ab3bc0fd-3e06-4593-bedb-65cba67ecea9",
+                            "questionId": "337ccd44-abd3-4aa1-be45-11e3730d4b76",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "b72d0934-17a7-46e8-b851-8fb009bec880",
+                            "questionId": "337ccd44-abd3-4aa1-be45-11e3730d4b76",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4c178387-f256-4e23-926b-8d282f03a548",
+                    "title": "遗失、抛弃高度危险物造成他人损害的，由所有人承担侵权责任。所有人将高度危险物交由他人管理的，由管理人承担侵权责任；所有人有过错的，与管理人承担连带责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 97,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fe54c5e5-5e9c-415e-b876-c26e354f28d3",
+                            "questionId": "4c178387-f256-4e23-926b-8d282f03a548",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "94a88074-9b58-4bc4-9d9b-e6e675972790",
+                            "questionId": "4c178387-f256-4e23-926b-8d282f03a548",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5c772383-94af-4997-b802-a700e8a80304",
+                    "title": "大学生周某与女友分手后，在个人网络账户上曝光了自己与女友交往的细节和照片，这样的行为触犯了女友的隐私，属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 98,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "dda1f2a6-53a3-4125-a834-e82d9feadb54",
+                            "questionId": "5c772383-94af-4997-b802-a700e8a80304",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7f08c38f-5877-4f0b-abb6-1d85f086fb2b",
+                            "questionId": "5c772383-94af-4997-b802-a700e8a80304",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d90927ec-401f-4af0-b779-aca71a82c15a",
+                    "title": "根据《刑法》 第二十条规定，为使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在进行的不法侵害，而采取的制止不法侵害的行为，对不法侵害人造成损害的，属于正当防卫，不负刑事责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 99,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7c796126-7b92-4aeb-8486-450854498aa2",
+                            "questionId": "d90927ec-401f-4af0-b779-aca71a82c15a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a851520e-6bce-439f-99c6-eaf3eaeace0d",
+                            "questionId": "d90927ec-401f-4af0-b779-aca71a82c15a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ef21b92b-fec7-45d6-9f99-f58926ec7a2e",
+                    "title": "网络发表的文章、视频作品，喜欢可以转载，没有必要注明原作者。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 100,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7a8d0af6-49c4-4944-86a3-f5a7a3ec056f",
+                            "questionId": "ef21b92b-fec7-45d6-9f99-f58926ec7a2e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "333312cc-0170-4ae1-be72-77b504f41246",
+                            "questionId": "ef21b92b-fec7-45d6-9f99-f58926ec7a2e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "code": 200,
+    "success": true
+}

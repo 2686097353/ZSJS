@@ -1,0 +1,2818 @@
+{
+    "message": "操作成功",
+    "status": 200,
+    "data": {
+        "result": {
+            "name": "顺序练习",
+            "subName": "顺序练习",
+            "currentIndex": 10,
+            "hasBefore": 1,
+            "hasNext": 2,
+            "startSequence": 901,
+            "questionList": [
+                {
+                    "id": "614e09fe-4af8-4d10-8849-bc85b13b87a5",
+                    "title": "《刑法》规定，侵占罪的犯罪对象仅限于三种财物：代为保管的他人财物、他人的遗忘物、他人的埋藏物。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 4,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "05b68f4b-7dae-4ea8-b3f6-aeb984abd0a5",
+                            "questionId": "614e09fe-4af8-4d10-8849-bc85b13b87a5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "eaf7f392-f05c-4ed1-808c-b1d01651f971",
+                            "questionId": "614e09fe-4af8-4d10-8849-bc85b13b87a5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4c361498-2845-42d6-a731-04471871f9f7",
+                    "title": "刑法作为打击犯罪的第一法，当自身或他人的生命财产受到威胁和侵害时，可以运用刑法来保护自己和他人的合法权益。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 5,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f3790454-bfbc-4af5-990c-2498fecce674",
+                            "questionId": "4c361498-2845-42d6-a731-04471871f9f7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8a2a20b1-63d4-4845-ab56-bdc64cfa1ba9",
+                            "questionId": "4c361498-2845-42d6-a731-04471871f9f7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "fe7e9879-38fb-4464-8371-f9de9ced8eed",
+                    "title": "大学生酗酒需要根据学校的具体规定来处分，如果因酗酒出现打架斗殴、损坏公物，以及其他行为触犯法律的由公安、司法部门处理，同时学校也将按校规校纪从严处理。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 6,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b04c06ad-8190-480f-927b-64192a63eae3",
+                            "questionId": "fe7e9879-38fb-4464-8371-f9de9ced8eed",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d74a87b5-7f10-412b-9ab7-096e63d766e6",
+                            "questionId": "fe7e9879-38fb-4464-8371-f9de9ced8eed",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4b0fcdc1-c3bb-4488-9645-5083241b1e8c",
+                    "title": "大学生在兼职实践中经常会遇到各种侵害，如被克扣工资、拖欠工资、乱收押金。当大学生遇到侵权时，可以向劳动仲裁部门申诉进行维权。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 7,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4e7a0232-a42c-4ce1-b92f-b8a6d9c2cca2",
+                            "questionId": "4b0fcdc1-c3bb-4488-9645-5083241b1e8c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4f806a90-031b-4a48-99a2-58f67aedf225",
+                            "questionId": "4b0fcdc1-c3bb-4488-9645-5083241b1e8c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2ddf87de-37a5-4d3b-8f45-33b3e132998e",
+                    "title": "不要以为拿个外卖，偷个快递不会受到法律惩罚，多次小偷小摸也会触犯法律,受到行政处罚后一年内再次盗窃，或二年内“小偷小摸”次数达到三次以上时，还可能因盗窃罪受到刑事追诉。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 8,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7f4929db-a772-47cd-ab7f-4e83ea532937",
+                            "questionId": "2ddf87de-37a5-4d3b-8f45-33b3e132998e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ee74112d-205f-4f23-9f4c-dc259f052e6a",
+                            "questionId": "2ddf87de-37a5-4d3b-8f45-33b3e132998e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a170eafb-ec03-4728-8f50-ba7ecad28289",
+                    "title": "大学校园偷窥行为应当被认定为性骚扰的一种形式，根据《中华人民共和国治安管理处罚法》的相关规定，偷窥、偷拍、窃听、散布他人隐私的行为属于违法行为，公安机关可以依法对行为人进行行政处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 9,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c4a9c64f-9d1e-45d8-9070-9129354bd636",
+                            "questionId": "a170eafb-ec03-4728-8f50-ba7ecad28289",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c040bd01-bcf8-4000-a64f-9f5ab04236b7",
+                            "questionId": "a170eafb-ec03-4728-8f50-ba7ecad28289",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f8c186f3-124a-4ace-9b84-59229db11435",
+                    "title": "偷窥行为没有与当事人进行实质性接触或给行为人带来损失，不算违法。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 10,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "962a1890-3a68-4174-80a8-f806d2a2526a",
+                            "questionId": "f8c186f3-124a-4ace-9b84-59229db11435",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "0d7ae967-92af-4257-ac9c-40882d195726",
+                            "questionId": "f8c186f3-124a-4ace-9b84-59229db11435",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "fbd4e8de-00bb-4445-8cd8-4f71e62c234b",
+                    "title": "用人单位招用劳动者，不得扣押劳动者的居民⾝份证和其他证件，不得要求劳动者提供担保或者以其他名义向劳动者收取财物。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 11,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "853a86dc-b1d3-4a8b-a545-48bfba6c8dd4",
+                            "questionId": "fbd4e8de-00bb-4445-8cd8-4f71e62c234b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ba2d2128-a8d0-4640-90b3-657985e75456",
+                            "questionId": "fbd4e8de-00bb-4445-8cd8-4f71e62c234b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 1,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e969686d-3e55-4d06-ba75-61e8b6a205c4",
+                    "title": "对正在进行行凶、杀人、抢劫、强奸、绑架以及其他严重危及人身安全的暴力犯罪，采取防卫行为，造成不法侵害人伤亡的，属于正当防卫，不负刑事责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 12,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "23728131-1d7c-4969-a04f-e6fda6f7e3f5",
+                            "questionId": "e969686d-3e55-4d06-ba75-61e8b6a205c4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5db9cf62-0efd-468a-9cab-e005a51c20a5",
+                            "questionId": "e969686d-3e55-4d06-ba75-61e8b6a205c4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ae52d1e4-2349-401d-8e44-58cd2b365e21",
+                    "title": "对明知是精神病患者的侵害行为,一般不宜实行正当防卫,应尽量采取其他方法躲避侵害，只有在迫不得已的情况下才允许实施正当防卫,并且防卫的方式方法应受到限制,不应具有主动攻击性及破坏性。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 13,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f2569435-7c3e-4428-ade8-742393bec499",
+                            "questionId": "ae52d1e4-2349-401d-8e44-58cd2b365e21",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2a511e28-9415-430d-8faa-0e3c6e968138",
+                            "questionId": "ae52d1e4-2349-401d-8e44-58cd2b365e21",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6bf0aab4-308c-41f2-a151-e59f612dc6ef",
+                    "title": "正当防卫可以对正在发生或已经发生的不法侵害进行防卫。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 14,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5d35adae-07d5-488a-aefe-e7d7d04ad842",
+                            "questionId": "6bf0aab4-308c-41f2-a151-e59f612dc6ef",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "70a81fbe-e46e-4168-be82-c5da652dc719",
+                            "questionId": "6bf0aab4-308c-41f2-a151-e59f612dc6ef",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f6deff44-64b5-4499-a5ff-f4341ecb0520",
+                    "title": "根据相关法律规定，学校可以做出禁止任何人将犬只、猫和其他宠物带入校园，禁止任何人在学校教学楼、公寓、实验室等场地饲养犬只、猫和其他宠物的规定。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 15,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6944c4cb-40bf-4abd-a6ef-3e551b70dfdb",
+                            "questionId": "f6deff44-64b5-4499-a5ff-f4341ecb0520",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6c4818da-d0cb-4021-88b3-44f0ddf2df96",
+                            "questionId": "f6deff44-64b5-4499-a5ff-f4341ecb0520",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 1,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6097ebf6-4ce2-4158-8607-afd134b2ec57",
+                    "title": "人肉搜索往往涉及侵犯个人隐私、侵犯他人名誉、侮辱诽谤他人等违法犯罪行为‌。如果组织人肉搜索，在信息网络上违法收集并向不特定多数人发布公民个人信息，情节严重，可能会构成侵犯公民个人信息罪‌。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 16,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "09eb1305-70c0-4872-a61e-592540ce63d0",
+                            "questionId": "6097ebf6-4ce2-4158-8607-afd134b2ec57",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "46b0b642-ac3a-4137-8868-e906a216ae51",
+                            "questionId": "6097ebf6-4ce2-4158-8607-afd134b2ec57",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e8163355-0549-4550-b2ff-218ae68c156e",
+                    "title": "帮助信息网络犯罪活动罪，该罪只处罚单位不处罚个人。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 17,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f78c0ae0-03a2-4655-91bc-03015b6fd59d",
+                            "questionId": "e8163355-0549-4550-b2ff-218ae68c156e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6de3bcf4-69a9-43b8-9e27-4c595d1bad97",
+                            "questionId": "e8163355-0549-4550-b2ff-218ae68c156e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "ae978a39-224d-4e93-a6e1-472f95fdfbd9",
+                    "title": "《民法典》通过细化客运合同当事人的权利义务，明确了“霸座不仅是一种不道德的行为，更是一种违约行为”，乘客有理有据向高铁、民航飞机、长途客车等交通运输工具“霸座者”说“不”，进行维权。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 18,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "da0f7045-800f-45e3-be45-c0d07037e36c",
+                            "questionId": "ae978a39-224d-4e93-a6e1-472f95fdfbd9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2add0498-d909-4891-9c16-c5ac877c526c",
+                            "questionId": "ae978a39-224d-4e93-a6e1-472f95fdfbd9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 1,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "729781fc-2a6a-4913-926b-f06e1587743d",
+                    "title": "大学生酗酒需要根据学校的具体规定来处分，如果因酗酒出现殴打他人，违反了治安管理处罚法的，最高可处开除学籍的处分。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 19,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "27d5166b-6b50-4905-9412-886d4b52654d",
+                            "questionId": "729781fc-2a6a-4913-926b-f06e1587743d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 1,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "60b7adc6-314c-41fe-b8be-c82a8a9e8019",
+                            "questionId": "729781fc-2a6a-4913-926b-f06e1587743d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "377d2090-8e47-4565-bb12-fe54f73bcf33",
+                    "title": "根据我国相关法律的规定：已在网络上传播的作品，除著作权人声明或者网络服务提供者受著作权人委托声明不得转载、摘编的以外，可以将这些作品在网上或者通过报刊等传统媒体进行转载、摘编，但需按有关规定支付报酬，注明作者、出处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 1,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2d665dae-588d-4539-a41e-e47535f4511a",
+                            "questionId": "377d2090-8e47-4565-bb12-fe54f73bcf33",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "569623e4-30c4-4d90-b693-11955df77a92",
+                            "questionId": "377d2090-8e47-4565-bb12-fe54f73bcf33",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c09d10d5-ecc0-403e-b928-eb8286d46ba3",
+                    "title": "互联网销售危险化学品活动日益增多，一些单位或个人未经许可，违法通过互联网销售危险化学品。有高校实验室和大学生贪图便利，通过非法渠道网购危险化学品。上述行为既违法违规且存在重大安全风险。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 2,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a758164a-0300-4c63-94fe-75cefc39d421",
+                            "questionId": "c09d10d5-ecc0-403e-b928-eb8286d46ba3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3cc52342-187a-4ce7-a84b-4ec0a54028d0",
+                            "questionId": "c09d10d5-ecc0-403e-b928-eb8286d46ba3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "30267c20-3e98-421d-b128-0834763b7cea",
+                    "title": "兼职或实习一定要签劳动合同。《劳动合同法》第82条规定:用人单位自用工之日起超过一个月不满一年未与劳动者签订书面劳动合同的，应当向劳动者每月支付2倍的工资。所以，如果遇到黑心单位不签劳务合同，或者是想离职被威胁扣工资时，可以用这条法律保护自己的合法权益。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 3,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e60a5d4a-6a1c-4be5-8897-2ee7c1ce75e8",
+                            "questionId": "30267c20-3e98-421d-b128-0834763b7cea",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ee891c34-b9f4-47e1-ab04-6a402a6ccd14",
+                            "questionId": "30267c20-3e98-421d-b128-0834763b7cea",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "024e450d-e896-443e-98ba-4338ea7c0ad8",
+                    "title": "行为人在公共场所公开谈论两性话题、讲黄色笑话、爆粗口等，违背公序良俗，且没有明确指向某人，也可视为性骚扰。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 20,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "17ac0d8a-042e-4262-b17e-a0f748b2040b",
+                            "questionId": "024e450d-e896-443e-98ba-4338ea7c0ad8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "0ead2080-58a9-448b-b608-941492d89965",
+                            "questionId": "024e450d-e896-443e-98ba-4338ea7c0ad8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e74c8712-d815-40e8-bb01-a7cf95ec6068",
+                    "title": "行为人在作出骚扰行为时即便没有指名道姓，但是通过与其他信息结合能够识别特定自然人的，应当认定其构成性骚扰。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 21,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4d5b4831-ed09-49b2-94a3-ecbf2797c150",
+                            "questionId": "e74c8712-d815-40e8-bb01-a7cf95ec6068",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a6f1fdc5-d814-4bfa-9cc3-64994f439a55",
+                            "questionId": "e74c8712-d815-40e8-bb01-a7cf95ec6068",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a3d97c92-b223-499e-abfc-40eb5fd84dc5",
+                    "title": "结核杆菌主要通过呼吸道途径传播即飞沫途径传播，排出的结核杆菌可以引起近距离健康人吸入后感染。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 22,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9ebb8d6a-ad67-4c90-a21d-448e87596b2a",
+                            "questionId": "a3d97c92-b223-499e-abfc-40eb5fd84dc5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8f1326af-3297-4e5d-926b-c576f8731f77",
+                            "questionId": "a3d97c92-b223-499e-abfc-40eb5fd84dc5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4a00c75f-d1ac-47d9-bac6-4645a1e36067",
+                    "title": "诺如病毒是常见的肠道传染病，其主要的传播途径是粪口传播，所以饭前便后要洗手。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 23,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b72225a2-ad19-4bd0-9bbf-e1021d5050cb",
+                            "questionId": "4a00c75f-d1ac-47d9-bac6-4645a1e36067",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a33fc2f1-11a2-414e-81f9-0b8ba44bc9d4",
+                            "questionId": "4a00c75f-d1ac-47d9-bac6-4645a1e36067",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "40eebbc2-e1b5-44cb-9a64-d06da4f1a4d8",
+                    "title": "幼儿、儿童、青少年是甲肝的易感人群，可通过粪-口途径传播导致感染。既往感染过甲肝病毒，或接种过甲肝疫苗的人群，可以起到保护作用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 24,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "eef103f7-b5e8-472a-984c-294a20871469",
+                            "questionId": "40eebbc2-e1b5-44cb-9a64-d06da4f1a4d8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7f436464-1b15-4da4-9d71-77b0e7e9a58a",
+                            "questionId": "40eebbc2-e1b5-44cb-9a64-d06da4f1a4d8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4ac4acf7-782c-47e9-b05f-368dd8df2951",
+                    "title": "扁豆中含有毒素，如没有加热彻底，食用后会出现恶心、呕吐、腹泻、腹痛等症状。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 25,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fa242a4e-2de6-4651-9ff8-9965b69cc4cb",
+                            "questionId": "4ac4acf7-782c-47e9-b05f-368dd8df2951",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "97d90afc-4b7c-4f3a-ae9d-4dd0a4714785",
+                            "questionId": "4ac4acf7-782c-47e9-b05f-368dd8df2951",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a0a421d8-ea0d-4682-849f-7e8515067015",
+                    "title": "结核病是慢性消耗性疾病，传染性比较强，治疗起来比较困难，需要长疗程治疗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 26,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "093ed8ef-b038-400d-b1f8-e561016e4eff",
+                            "questionId": "a0a421d8-ea0d-4682-849f-7e8515067015",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "507f058c-70b7-4868-b2f1-703acbe1dad2",
+                            "questionId": "a0a421d8-ea0d-4682-849f-7e8515067015",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "159dc4c4-9049-4186-bd81-545306041a08",
+                    "title": "出于观赏的目的，种植大麻、古柯或罂粟就是合法的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 27,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bcdf4838-7987-4f6e-abe6-9c1e788e6741",
+                            "questionId": "159dc4c4-9049-4186-bd81-545306041a08",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "75d4cdfd-d275-4df0-a7f2-707da5df6f87",
+                            "questionId": "159dc4c4-9049-4186-bd81-545306041a08",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c93acab5-55f4-4005-bedc-ba3b9baa5fa4",
+                    "title": "同学在宿舍内养各种宠物比如蜘蛛，螃蟹，乌龟等，只要别让小动物跑出来，就不会对别人产生危害。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 28,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a10779d4-415f-4ac6-b003-055df874ff0c",
+                            "questionId": "c93acab5-55f4-4005-bedc-ba3b9baa5fa4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "885a7472-5224-4697-8ae5-05621043a4eb",
+                            "questionId": "c93acab5-55f4-4005-bedc-ba3b9baa5fa4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "114eabb6-5077-4171-8261-49ca46cfac91",
+                    "title": "地震时若正在搭乘电梯，可将操作盘上各楼层的按钮全部按下，电梯一旦停下，应迅速离开电梯。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 29,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5a231eba-9ec4-4d8e-bd82-ff59bf7e7fab",
+                            "questionId": "114eabb6-5077-4171-8261-49ca46cfac91",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "241f7f04-75b7-440a-94be-2b0947e23c49",
+                            "questionId": "114eabb6-5077-4171-8261-49ca46cfac91",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b5dffb23-47b6-4814-b73d-5f2a1b31e0ab",
+                    "title": "地震时遇到化工厂着火、毒气泄漏，要尽量顺风跑，并用湿毛巾捂住口鼻。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 30,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "344dfbfa-725f-409f-b21c-dacecb62d275",
+                            "questionId": "b5dffb23-47b6-4814-b73d-5f2a1b31e0ab",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b55ecc85-a82b-4a96-ad94-949390c889ae",
+                            "questionId": "b5dffb23-47b6-4814-b73d-5f2a1b31e0ab",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4c694242-1485-4b5f-a7d5-8eb689060980",
+                    "title": "地震主震结束后，学校的学生疏散时，要有顺序，还要以书包等保护头部",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 31,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "45e68be0-6aa9-497e-89ae-bbda97e08b42",
+                            "questionId": "4c694242-1485-4b5f-a7d5-8eb689060980",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "13985f39-bf47-461d-94e7-8030406f9fa3",
+                            "questionId": "4c694242-1485-4b5f-a7d5-8eb689060980",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "1142200e-5481-4ed9-986e-42327792a9ac",
+                    "title": "地震时照明最好用手电筒，不要使用蜡烛、火柴等明火。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 32,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "dc481e2f-f877-44dd-ade2-bf1c5a1a6fa9",
+                            "questionId": "1142200e-5481-4ed9-986e-42327792a9ac",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4f7264aa-cbdf-48f1-ad88-b692401db520",
+                            "questionId": "1142200e-5481-4ed9-986e-42327792a9ac",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6d652386-7f33-42c9-bfe0-c04878b66612",
+                    "title": "河流突然断流或水势突然加大，并夹有较多柴草、树枝，说明上游已发生泥石流。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 33,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ada52ac5-a0e9-4954-8822-78354a4dba6c",
+                            "questionId": "6d652386-7f33-42c9-bfe0-c04878b66612",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2ac2d2cd-c1f4-4473-bf94-0b7e9feed8a7",
+                            "questionId": "6d652386-7f33-42c9-bfe0-c04878b66612",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "eae00390-4d40-404a-ad34-d2f8271b5940",
+                    "title": "开车时如遇地震，要尽快安全地停车，然后待在车内，蹲伏于座位旁；如果停在较空旷安全的地带，也可走出车外。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 34,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3d8c3954-f8ec-47a2-8292-4e83f3c535cc",
+                            "questionId": "eae00390-4d40-404a-ad34-d2f8271b5940",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "832ff9a4-76bd-430e-b377-24c8700dc8da",
+                            "questionId": "eae00390-4d40-404a-ad34-d2f8271b5940",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "162faf5c-b518-405f-949f-49d1ff2a8812",
+                    "title": "在山谷中发现溪水突然混浊时，应警惕山洪暴发的危险，应顺着山谷往下逃生。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 35,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1869e773-af0a-44e3-a439-43b80882a957",
+                            "questionId": "162faf5c-b518-405f-949f-49d1ff2a8812",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "215aec65-bfce-42ca-a29b-c0c17710c95c",
+                            "questionId": "162faf5c-b518-405f-949f-49d1ff2a8812",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "1b9289b5-7495-4c4c-9fbf-c32f26a41ca2",
+                    "title": "在有大风的雷雨天气里，最好打带有金属杆的雨伞，因为这样的雨伞才不易损坏。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 36,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a42cf514-c112-4082-a7ac-ca4b30de0154",
+                            "questionId": "1b9289b5-7495-4c4c-9fbf-c32f26a41ca2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8c71dc97-757f-4680-b482-6e069789932c",
+                            "questionId": "1b9289b5-7495-4c4c-9fbf-c32f26a41ca2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "32a6781d-5be5-4b0a-9ae6-05c6a6431432",
+                    "title": "自然灾害逃生时，多人向同一个方向拥挤是很不安全的，因此处在拥挤的人群中时，要向与人流相反的方向移动。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 37,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "44e53253-fb22-4378-8848-a36070b734fe",
+                            "questionId": "32a6781d-5be5-4b0a-9ae6-05c6a6431432",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "04e02aec-82ac-47e8-a9e2-fc4c5350d72d",
+                            "questionId": "32a6781d-5be5-4b0a-9ae6-05c6a6431432",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "19989d25-2cc4-4bfb-8dc2-c4054afdcca3",
+                    "title": "雷电交加时，头、颈、手处有蚂蚁爬走感，头发竖起，说明将发生雷击，应赶紧趴在地上，并丢弃身上佩戴的金属饰品和发卡、项链等，这样可以减少遭雷击的危险。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 38,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f36e81cf-b557-47d9-96c0-df2af231dae3",
+                            "questionId": "19989d25-2cc4-4bfb-8dc2-c4054afdcca3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "cfe9df56-029f-4cc5-97da-ce423a64be20",
+                            "questionId": "19989d25-2cc4-4bfb-8dc2-c4054afdcca3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "da351fad-1e30-44d0-96bd-a6e2d160fdfa",
+                    "title": "遇到洪水来临，可迅速向空旷处转移，等待救援。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 39,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a58e2197-e87b-44e9-861b-20a00a3f0e2a",
+                            "questionId": "da351fad-1e30-44d0-96bd-a6e2d160fdfa",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "11b8f366-1821-4fdb-9782-63e8e09de99a",
+                            "questionId": "da351fad-1e30-44d0-96bd-a6e2d160fdfa",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "cbac42be-b1b9-4ba2-8af2-dd3b9404c9f0",
+                    "title": "在户外遭遇龙卷风时，要预判它的移向，远离龙卷风的移动路径，从侧面或背面离开它。如果龙卷风就在附近，可以躲进坚固的掩体内，并远离门窗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 40,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5699c40b-d2af-4a5e-8c7b-4913b358dedb",
+                            "questionId": "cbac42be-b1b9-4ba2-8af2-dd3b9404c9f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a59766c7-101f-4a24-893e-473116348631",
+                            "questionId": "cbac42be-b1b9-4ba2-8af2-dd3b9404c9f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "afba0602-aeff-40a0-ae04-11709f37b1f0",
+                    "title": "传播虚假灾害性气象信息和气象灾害灾情的，违反治安管理处罚条例的，公安机关可以予以处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 41,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4966b488-1cb8-49f1-97ab-e5f0c8d9e43c",
+                            "questionId": "afba0602-aeff-40a0-ae04-11709f37b1f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f3bb96d6-d564-4d45-9c25-d7ad4c94523d",
+                            "questionId": "afba0602-aeff-40a0-ae04-11709f37b1f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2b3d3cfb-a7da-4952-b7bd-c17e60a25f2b",
+                    "title": "如果必须输血时，有权了解血液是否经过艾滋病病毒抗体检测。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 42,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6d34f1e4-4f62-44b2-8c01-9629e32319f4",
+                            "questionId": "2b3d3cfb-a7da-4952-b7bd-c17e60a25f2b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e6c40ce4-5bd1-4d5f-8a29-61edd3ea53b5",
+                            "questionId": "2b3d3cfb-a7da-4952-b7bd-c17e60a25f2b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "73186e35-02ba-4ffc-87df-a9b021300acb",
+                    "title": "烧烫伤时，可用牙膏涂在伤患处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 43,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "59438751-da62-4a21-b73c-fea31d3fc2c0",
+                            "questionId": "73186e35-02ba-4ffc-87df-a9b021300acb",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "fa05b86c-0c2b-430d-a9a2-d214da4e4b18",
+                            "questionId": "73186e35-02ba-4ffc-87df-a9b021300acb",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "2733271c-4b02-44dc-a852-85ee399b79db",
+                    "title": "被生石灰烫伤时，应立即用大量水冲洗，然后送往医院救治。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 44,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2965513a-de44-4f71-8e4c-4baed9ffca79",
+                            "questionId": "2733271c-4b02-44dc-a852-85ee399b79db",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8de37725-d3f4-42be-80ec-b1fc5e22b6c1",
+                            "questionId": "2733271c-4b02-44dc-a852-85ee399b79db",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "e2bfa5e3-9653-4e97-a950-39f2f2d9b3b2",
+                    "title": "在触电现场，若触电者已经没有呼吸或脉搏，此时可以判定触电者已经死亡，可以放弃抢救。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 45,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "acdd6c55-06d6-4b3a-bf30-af4255c38bbf",
+                            "questionId": "e2bfa5e3-9653-4e97-a950-39f2f2d9b3b2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "16154804-5ef2-4207-abd6-e56b5a9b183a",
+                            "questionId": "e2bfa5e3-9653-4e97-a950-39f2f2d9b3b2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b58d69f8-2714-4864-b70e-ecb72f27e433",
+                    "title": "闻到浓烈的煤气、天然气异味，应立即打开抽风机，排走煤气、天然气并打电话报警求助。 ",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 46,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "694047ee-4a6c-4610-b5c4-901a98a902e7",
+                            "questionId": "b58d69f8-2714-4864-b70e-ecb72f27e433",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "31e3eb75-4f13-439f-a450-378cde566757",
+                            "questionId": "b58d69f8-2714-4864-b70e-ecb72f27e433",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f101d76d-b455-4f32-aa41-dfbfc689e931",
+                    "title": "如遇呼吸道吸进有毒气体、蒸气、烟雾而引起呼吸系统中毒时，应立即将病人移至室外空气新鲜的地方，解开衣领，使之温暖和安静，切勿随便进行人工呼吸。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 47,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6b42fff7-13e6-49ad-bd70-574b7a748f1e",
+                            "questionId": "f101d76d-b455-4f32-aa41-dfbfc689e931",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "16693bc7-4f5f-4977-af75-e682e78f1b15",
+                            "questionId": "f101d76d-b455-4f32-aa41-dfbfc689e931",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "92c789ec-2523-4ac5-bf92-47654b01acd5",
+                    "title": "在浓烟的环境下，应使用爬行法将伤病者搬运逃离现场。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 48,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b2d83da9-90b1-4316-b523-1f5a49ec93e1",
+                            "questionId": "92c789ec-2523-4ac5-bf92-47654b01acd5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d309845a-7df0-4806-9aca-537e44593055",
+                            "questionId": "92c789ec-2523-4ac5-bf92-47654b01acd5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6c4a42dd-2f06-47de-a4f8-09c65bf9e64b",
+                    "title": "一旦有人出现上吐、下泻、腹痛等食物中毒症状，首先应立即停止食用可疑食物，同时，立即拨打120呼救。在急救车到来之前，可以进行催吐、导泻并保留食物样本的方法，等待救援。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 49,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ad82b9a6-259f-4267-ad83-791cacedecd0",
+                            "questionId": "6c4a42dd-2f06-47de-a4f8-09c65bf9e64b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "cfdcb86b-9c1e-4d65-84fa-8082555f9578",
+                            "questionId": "6c4a42dd-2f06-47de-a4f8-09c65bf9e64b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a168c733-7484-4c1d-89ee-fcbbd5fbd87b",
+                    "title": "遇蛇后，不跑动，不理会。被咬伤，不做剧烈运动，结扎伤口上部肢体，可用嘴吸毒液；一面挤压、一面水冲洗伤口，涂蛇药粉于伤口处，速送医院进一步处理。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 50,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fcdc71a6-a879-4463-8ee1-5f9a5e163475",
+                            "questionId": "a168c733-7484-4c1d-89ee-fcbbd5fbd87b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "eb8b7cb9-66e9-4627-9884-6ffacd90d49c",
+                            "questionId": "a168c733-7484-4c1d-89ee-fcbbd5fbd87b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "27bb134f-619c-48d9-aa20-6062cac1f8db",
+                    "title": "旅途中腹泻，首先要注意饮食卫生，养成良好卫生习惯，严防病从口入，还可以适量服用黄连素等药物预防。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 51,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e985fdff-6ed5-468f-bc51-7e6964af2093",
+                            "questionId": "27bb134f-619c-48d9-aa20-6062cac1f8db",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "b048b85e-ada3-49ac-931b-8dbe9bf86390",
+                            "questionId": "27bb134f-619c-48d9-aa20-6062cac1f8db",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ec83fb8e-4088-4d77-9c74-7782e7768171",
+                    "title": "伤员休克时让其平卧，骨折处保暖防凉，给伤员服用镇静安眠类药物。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 52,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1f89b8bf-ac86-4b30-abdb-3844a1991e21",
+                            "questionId": "ec83fb8e-4088-4d77-9c74-7782e7768171",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "74cbd352-0e50-4972-8894-8bd506041e6d",
+                            "questionId": "ec83fb8e-4088-4d77-9c74-7782e7768171",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "0996a2e9-0b7a-492e-a8ad-0ba8003f0bd6",
+                    "title": "猝死并不是无缘无故的突然死亡，猝死者通常患有心脑血管疾病，而自己却不知道。常见死因有：先天疾病、过敏、中毒、肺栓塞、脑血管疾病、冠心病、急性心肌梗、恶性心率失常等。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 53,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "81dacb27-c63a-41fb-85f1-450677005021",
+                            "questionId": "0996a2e9-0b7a-492e-a8ad-0ba8003f0bd6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a6558824-a6ad-483b-b1e2-f2044886ce92",
+                            "questionId": "0996a2e9-0b7a-492e-a8ad-0ba8003f0bd6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d4d0928f-a1c8-40c0-94ad-96c2d7e3de5f",
+                    "title": "被宠物狗咬伤后应该迅速用肥皂水进行冲洗，再用碘伏消毒，如果没有流血，可不用注射疫苗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 54,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e5a60d74-4559-4494-85f2-b528095dc3d8",
+                            "questionId": "d4d0928f-a1c8-40c0-94ad-96c2d7e3de5f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5e395634-906c-4d6d-ab04-7716367ea62c",
+                            "questionId": "d4d0928f-a1c8-40c0-94ad-96c2d7e3de5f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6e93a582-6c70-4cc5-ae13-ef1072e47ce5",
+                    "title": "病人突然倒地时，施救者可通过叫喊或摇其头部，以确定病人意识是否清醒。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 55,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fcf8b763-95ba-4d2a-b8fb-5f639a4c6236",
+                            "questionId": "6e93a582-6c70-4cc5-ae13-ef1072e47ce5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "366f43f2-1852-45a6-8ecf-fda8cd35d9f8",
+                            "questionId": "6e93a582-6c70-4cc5-ae13-ef1072e47ce5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "5680cd47-a336-49b7-a44f-398ce8783ea6",
+                    "title": "发生烧烫伤时，可用烫伤药物在伤患处进行处理，严重时须及时就医。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 56,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "47f5c874-ac34-4dc6-a844-0b0aa61aabd4",
+                            "questionId": "5680cd47-a336-49b7-a44f-398ce8783ea6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "88b67ecd-c697-4d71-b824-28a1ded8ff69",
+                            "questionId": "5680cd47-a336-49b7-a44f-398ce8783ea6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "80b9fe66-e15d-4efb-be81-15c699c9a4e4",
+                    "title": "当烧伤或者烫伤时，可以刺破水泡或在烧伤处抹抗生素或将冰袋放在烧伤处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 57,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d9a80b7d-2a37-452c-b5cd-84545844e1e4",
+                            "questionId": "80b9fe66-e15d-4efb-be81-15c699c9a4e4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "7196bb5b-7649-468c-9849-d82791f02957",
+                            "questionId": "80b9fe66-e15d-4efb-be81-15c699c9a4e4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "14f61efe-0187-4617-8c71-f0c53ff37598",
+                    "title": "当发现有咳嗽、咳痰等症状并持续2周以上时，应尽快去医院进行检查，排除被结核菌感染的可能。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 58,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0274475c-f03d-42c5-bfd3-6272b45f6760",
+                            "questionId": "14f61efe-0187-4617-8c71-f0c53ff37598",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a13c7265-d1aa-48dc-8860-8a09b90c5200",
+                            "questionId": "14f61efe-0187-4617-8c71-f0c53ff37598",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ec4d253c-5980-46db-a0fb-a27dac025fac",
+                    "title": "大量出汗后大口大口喝水，能快速解渴。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 59,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c3a927cf-06fd-4b3f-890b-cdc3e4ebfd33",
+                            "questionId": "ec4d253c-5980-46db-a0fb-a27dac025fac",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "05387438-d83b-4987-83e2-b9f19bbe0c7f",
+                            "questionId": "ec4d253c-5980-46db-a0fb-a27dac025fac",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "92a1ab9c-1c80-45f4-8db9-9224dadf1555",
+                    "title": "食用存放过久的熟菜、蔬菜，腌制不透的酸菜均可能引起亚硝酸盐中毒。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 60,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a884730a-45dc-421d-b5d7-bb98ecdf7b63",
+                            "questionId": "92a1ab9c-1c80-45f4-8db9-9224dadf1555",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "13ac576b-ed61-48fa-aab0-d1ad811db62f",
+                            "questionId": "92a1ab9c-1c80-45f4-8db9-9224dadf1555",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "19a8bbb9-d483-4fcf-a6eb-95e5614a453d",
+                    "title": "正常成人全身血容量约5000mL，如出血量在800～1000mL或急性失血在血容量20%以上，就可危急生命。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 61,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3c8ba603-6b2b-46c8-a4b2-468fd3ee6f46",
+                            "questionId": "19a8bbb9-d483-4fcf-a6eb-95e5614a453d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "b052ab9a-e55e-43be-adec-5ae6c7260d16",
+                            "questionId": "19a8bbb9-d483-4fcf-a6eb-95e5614a453d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "41ad4cf4-38dd-459c-be72-6d46b1ff7ee0",
+                    "title": "休克是一种复杂的紧急情况，如不及时救治，死亡率高。因此应高度重视、尽早诊断、及时处理",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 62,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c7d86226-6950-4b67-bb7c-d9a3ff70b112",
+                            "questionId": "41ad4cf4-38dd-459c-be72-6d46b1ff7ee0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "cfc169f5-13f6-418b-ad0e-3d248163e436",
+                            "questionId": "41ad4cf4-38dd-459c-be72-6d46b1ff7ee0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "dceac1c9-6123-402e-a1d4-d2ea42c53fee",
+                    "title": "对溺水者进行急救的时候，可以使用倒立控水的方法。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 63,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ff9f5751-b7a0-4950-ac7e-81222d20ba00",
+                            "questionId": "dceac1c9-6123-402e-a1d4-d2ea42c53fee",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d9f858b9-e694-46d4-8c08-216aa574b4af",
+                            "questionId": "dceac1c9-6123-402e-a1d4-d2ea42c53fee",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "9b28dc6e-f738-4c16-acad-77e59fce04cd",
+                    "title": "患者出现低血糖情况，会表现出乏力、四肢麻木、头晕、心慌、胸闷、有饥饿感和昏迷等症状，但不会有生命危险。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 64,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "dbe7ff5f-8469-40be-b532-aeb94fa7b98b",
+                            "questionId": "9b28dc6e-f738-4c16-acad-77e59fce04cd",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "9478ddcf-a667-40b4-8d5e-b0cb308997eb",
+                            "questionId": "9b28dc6e-f738-4c16-acad-77e59fce04cd",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3447a5cc-be7e-4854-b3b5-661d34d2a146",
+                    "title": "鲜黄花菜本身无毒，但是进入肠胃道后，经过肠胃道吸收，在体内会氧化成具有较大毒性的“二秋水仙碱”，引起中毒。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 65,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2c5813a3-5914-4410-b7a0-2b2ed88b2555",
+                            "questionId": "3447a5cc-be7e-4854-b3b5-661d34d2a146",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "aca2b2bf-fc80-4ff3-8acb-ad80ff6c00a4",
+                            "questionId": "3447a5cc-be7e-4854-b3b5-661d34d2a146",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7e1e46f4-5e87-42fd-9a31-0b0737bcda34",
+                    "title": "微波炉辐射很强，长期使用，可致癌。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 66,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "435dfb0b-3a77-41f1-9a19-f79d330ee0f1",
+                            "questionId": "7e1e46f4-5e87-42fd-9a31-0b0737bcda34",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "ffb09488-38b2-455f-8bb7-55ce5e14ec27",
+                            "questionId": "7e1e46f4-5e87-42fd-9a31-0b0737bcda34",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "50a62b04-5c63-4260-9481-3ff4b0dc4f60",
+                    "title": "任何组织或者个人有权举报食品安全违法行为，依法向有关部门了解食品安全信息，对食品安全监督管理工作提出意见和建议。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 67,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "98dde6b5-5c4e-4506-9264-c5e04bcc22be",
+                            "questionId": "50a62b04-5c63-4260-9481-3ff4b0dc4f60",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "52ed6460-d5c5-4341-b029-577460f46761",
+                            "questionId": "50a62b04-5c63-4260-9481-3ff4b0dc4f60",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "58dcc487-0023-40f3-96b3-602c3531857f",
+                    "title": "添加了食品添加剂的食品一定不安全。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 68,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "06eae022-e9f6-43e5-a501-8e9cf9f1b2a9",
+                            "questionId": "58dcc487-0023-40f3-96b3-602c3531857f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "a393052e-4643-4ea3-9e53-4260bfb17a93",
+                            "questionId": "58dcc487-0023-40f3-96b3-602c3531857f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "27517c79-8c3f-4545-8a09-afafbf629f00",
+                    "title": "细菌性食物中毒全年都可发生，以气温较高的夏秋季节最多，尤以梅雨季节为易发。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 69,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "502211f6-f58f-4581-a635-ec9d864cb4da",
+                            "questionId": "27517c79-8c3f-4545-8a09-afafbf629f00",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e56f9da8-d63f-45e2-8363-5fe41f896aba",
+                            "questionId": "27517c79-8c3f-4545-8a09-afafbf629f00",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "bb406cd6-c864-4285-ad82-c983efafdad8",
+                    "title": "溺水者被救出后，先将水从腹腔挤压出来，再进行呼吸抢救。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 70,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "695a0be8-65d8-4938-be57-bd5030e9d88d",
+                            "questionId": "bb406cd6-c864-4285-ad82-c983efafdad8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "2b1793b0-a717-4197-83d1-811a1d4695d5",
+                            "questionId": "bb406cd6-c864-4285-ad82-c983efafdad8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "0d095eac-43c2-4052-932d-329a8b16d593",
+                    "title": "秋季进山游玩如果遇到火灾，应跑到植被少、空阔地方避险，将脸贴近刨出湿土的地面，防止二氧化碳中毒。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 71,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7e8cdb9d-5992-469e-9c9a-ec53d262e622",
+                            "questionId": "0d095eac-43c2-4052-932d-329a8b16d593",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4376ece0-3442-4a83-a12d-a32784752774",
+                            "questionId": "0d095eac-43c2-4052-932d-329a8b16d593",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f351c898-3998-4faf-80df-14fff73d96b3",
+                    "title": "多人一起在野外遇到雷电，应尽量围靠在一起，减少遭受雷击的可能性。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 72,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "573c8bd7-7600-4fda-b98c-5a1bbcbbf833",
+                            "questionId": "f351c898-3998-4faf-80df-14fff73d96b3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "fbf4e004-12ba-4a4c-9f63-4f5a704a1b68",
+                            "questionId": "f351c898-3998-4faf-80df-14fff73d96b3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b47a6183-f84c-4b70-ad2b-1e355a770637",
+                    "title": "暴雨天气开车只要积水没有淹没车轮就可以涉水前行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 73,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0a3ebe8e-8aaa-4741-82e8-65441782edcd",
+                            "questionId": "b47a6183-f84c-4b70-ad2b-1e355a770637",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "275f32d7-7228-4cdd-80ed-5d35b214c173",
+                            "questionId": "b47a6183-f84c-4b70-ad2b-1e355a770637",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "5b059cef-47d0-4fac-812b-152f2bc952e8",
+                    "title": "当台风带来的暴雨骤停，就表示台风已经离开，可以开窗或外出了。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 74,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "21b4de84-0722-4425-af7a-ef8d1ee5c409",
+                            "questionId": "5b059cef-47d0-4fac-812b-152f2bc952e8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5c97e7a0-5123-4184-984c-e2bb2786b084",
+                            "questionId": "5b059cef-47d0-4fac-812b-152f2bc952e8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b8311f38-b440-4c79-ab9f-8cd42b6dce86",
+                    "title": "如果身处发生山体滑坡的地质灾害区域，滑坡现象刚刚停止就可以自由活动了。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 75,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "590b10fc-5d2a-420a-bf8e-a25a8afc245a",
+                            "questionId": "b8311f38-b440-4c79-ab9f-8cd42b6dce86",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "026a6712-5cc6-4eb2-9cf3-90f1ac2d12f4",
+                            "questionId": "b8311f38-b440-4c79-ab9f-8cd42b6dce86",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "36c096c7-7051-467c-a930-eb7205c6a9e8",
+                    "title": "发现有人中暑时，可在患者的腋窝、头部、腹股沟等大动脉明显处用冰袋或冰块进行局部降温。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 76,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6037e83d-7ede-4e12-9816-2bd13d330275",
+                            "questionId": "36c096c7-7051-467c-a930-eb7205c6a9e8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "93f58fae-aced-425b-8092-f7ffd9e5497d",
+                            "questionId": "36c096c7-7051-467c-a930-eb7205c6a9e8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2a0cbcfc-494f-4abe-b5c5-5cc7418c22d4",
+                    "title": "急性扭挫伤为避免疼痛，可以使用温热水进行湿敷缓解，每次不超过15分钟。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 77,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b67256bd-8fe6-49ec-a229-9c7c3be2e0f1",
+                            "questionId": "2a0cbcfc-494f-4abe-b5c5-5cc7418c22d4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "805ea661-f730-4425-9d0f-e76317486385",
+                            "questionId": "2a0cbcfc-494f-4abe-b5c5-5cc7418c22d4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "8f222d81-5ef8-431d-b5b9-fa7e0d1c004b",
+                    "title": "患者可从药店处购买非处方药，并根据病情自我判断，长期服用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 78,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bae13b46-e2dc-4756-b175-ac5687a08c0d",
+                            "questionId": "8f222d81-5ef8-431d-b5b9-fa7e0d1c004b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "a48c36c7-1d01-48ef-aa4f-b201582f2246",
+                            "questionId": "8f222d81-5ef8-431d-b5b9-fa7e0d1c004b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "9ae116bd-9a3d-43e0-917d-5e048e7bc9db",
+                    "title": "接种流感疫苗是防控流感传播的重要措施，接种后都可以产生保护性免疫。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 79,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bb51ceb0-f6c4-4cfa-8fc2-b23cec26d0df",
+                            "questionId": "9ae116bd-9a3d-43e0-917d-5e048e7bc9db",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8e9a74b1-e1b0-47d3-8507-71e90c81d435",
+                            "questionId": "9ae116bd-9a3d-43e0-917d-5e048e7bc9db",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "492fc0c0-047b-41f3-b89b-3f44345d25b0",
+                    "title": "回家后，如闻到室内有很强的煤气味，应立即打开电灯察看。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 80,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "74e8d6a3-3b77-4528-8282-9f8157502f1f",
+                            "questionId": "492fc0c0-047b-41f3-b89b-3f44345d25b0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "87a28b70-b704-4a83-9de1-4dd5f08393d1",
+                            "questionId": "492fc0c0-047b-41f3-b89b-3f44345d25b0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3056b278-04cf-40a7-bd71-771fa8f04e03",
+                    "title": "身体出现病症时，可以先百度、知乎等知名网站搜索相关病例，服用大家推荐的药物试试看。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 81,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "00df0076-5a76-4f97-af74-1ccec22bf356",
+                            "questionId": "3056b278-04cf-40a7-bd71-771fa8f04e03",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "faf03f05-0c52-4252-be80-69f0d42707f9",
+                            "questionId": "3056b278-04cf-40a7-bd71-771fa8f04e03",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c9666437-0fe2-4170-befd-3c6141be2080",
+                    "title": "本着节约的态度，可将霉烂水果（如苹果）的腐烂部分挖出后继续食用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 82,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4b3afdb6-bcf4-4ee8-95fd-d7fe60302194",
+                            "questionId": "c9666437-0fe2-4170-befd-3c6141be2080",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "659b1325-74e0-4855-bd1c-121589ca80b0",
+                            "questionId": "c9666437-0fe2-4170-befd-3c6141be2080",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c6bca8e0-c7e6-4b73-96d1-7f25423533ac",
+                    "title": "患有乙肝、艾滋病的人，不能从事接触直接入口食品的工作。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 83,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9d9a021d-9910-4c23-8648-9aa8d4994fee",
+                            "questionId": "c6bca8e0-c7e6-4b73-96d1-7f25423533ac",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d0230d12-9e3c-40d2-9a25-221ed1041279",
+                            "questionId": "c6bca8e0-c7e6-4b73-96d1-7f25423533ac",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "309acb07-50c3-4fb5-86ee-d1f9026b415b",
+                    "title": "止咳露或止咳水是一种常见的中成药，大量服用不会形成药物依赖。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 84,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "52295995-d7f0-459e-a1ba-e3570f6cd59c",
+                            "questionId": "309acb07-50c3-4fb5-86ee-d1f9026b415b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "23c17ac9-d72f-4343-8b25-f8adcd4cd9e3",
+                            "questionId": "309acb07-50c3-4fb5-86ee-d1f9026b415b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "34fd7e81-827b-4963-bea9-c4fab06cf889",
+                    "title": "目前艾滋病还不能治愈。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 85,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f823551a-b10f-4839-901d-bbcea2300f4b",
+                            "questionId": "34fd7e81-827b-4963-bea9-c4fab06cf889",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4045e446-5e2e-4b06-9081-cf57c2c5004e",
+                            "questionId": "34fd7e81-827b-4963-bea9-c4fab06cf889",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5b5c695c-beba-44e4-8c40-19f42e4eb2e3",
+                    "title": "艾滋病病毒感染者或病人隐瞒病情，故意传播病毒将受到法律的惩罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 86,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2cb99281-d4d9-40f1-82d6-ad811f0768b1",
+                            "questionId": "5b5c695c-beba-44e4-8c40-19f42e4eb2e3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "912bb2a2-b40f-408a-8c1c-d7a84deec593",
+                            "questionId": "5b5c695c-beba-44e4-8c40-19f42e4eb2e3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "baab6d39-877a-4a91-8f9c-b62f72f179b0",
+                    "title": "目前我国青年学生中艾滋病流行呈快速增长趋势，主要传播方式为男性同性性行为，其次为异性性行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 87,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7a68eb82-e731-4366-9cca-38190af7d8f3",
+                            "questionId": "baab6d39-877a-4a91-8f9c-b62f72f179b0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2e561622-6954-4333-b467-ebb73536b21c",
+                            "questionId": "baab6d39-877a-4a91-8f9c-b62f72f179b0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "351af977-6cc8-439a-82ee-0e23d28285f0",
+                    "title": "国家实施免费的艾滋病自愿咨询检测制度。自愿接受艾滋病咨询和检测的人员，可在各级疾病预防控制中心和卫生行政部门指定的医疗机构进行免费艾滋病病毒抗体初筛检测。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 88,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3079b4d7-1a20-47e8-b03b-c7a445b5854c",
+                            "questionId": "351af977-6cc8-439a-82ee-0e23d28285f0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "be8a979d-2f9c-443d-816b-a0ff07b109a4",
+                            "questionId": "351af977-6cc8-439a-82ee-0e23d28285f0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "770c7808-4852-47c3-a886-9496515d9ce5",
+                    "title": "艾滋病目前没有疫苗可以预防，拒绝毒品、自尊自爱是预防艾滋病的根本措施。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 89,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0fb59e55-0454-4c06-87e0-ab2c5baffabe",
+                            "questionId": "770c7808-4852-47c3-a886-9496515d9ce5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "44ffae72-4bf3-4bd5-8259-b158c72a3970",
+                            "questionId": "770c7808-4852-47c3-a886-9496515d9ce5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4f259404-377f-46fc-9f9b-3cc6e5c25f2d",
+                    "title": "俗称“笑气”的一氧化二氮是一种麻醉性气体，曾经广泛被应用于医学手术中。但“笑气”进入血液后会导致人体缺氧，长期吸食可能引起高血压、晕厥，甚至心脏病发作。此外，长期接触此类气体还可引起贫血及中枢神经系统损害等。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 90,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7e5e713f-2f18-4bad-b860-473ef0f9afea",
+                            "questionId": "4f259404-377f-46fc-9f9b-3cc6e5c25f2d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ac60e35d-3af3-42fa-8a06-7d6dbf9ebaf3",
+                            "questionId": "4f259404-377f-46fc-9f9b-3cc6e5c25f2d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "67f2843f-af9a-4471-93ba-514ff4e926da",
+                    "title": "“开心水”是一种无味、透明、液态的毒品，开心水中毒表现为多话、高烧、错乱，如大剂量使用会引发精神错乱及思维障碍。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 91,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a75c7bfc-345e-4bd5-97de-5abb2445c3d0",
+                            "questionId": "67f2843f-af9a-4471-93ba-514ff4e926da",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7dcedddf-66e8-40a8-9ed0-496f1e7809e3",
+                            "questionId": "67f2843f-af9a-4471-93ba-514ff4e926da",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7c256e7e-f67b-459a-bb20-51268c782f16",
+                    "title": "吸毒者初次吸毒的诱因多种多样，如好奇、无知等，但吸毒者一旦成瘾而继续反复吸毒，其原因只有两个，即心理依赖和生理依赖。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 92,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bb1ec768-b801-4732-881a-919cee4788d8",
+                            "questionId": "7c256e7e-f67b-459a-bb20-51268c782f16",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ccdb2b6d-77ab-4f16-9901-7aa53d2ccd18",
+                            "questionId": "7c256e7e-f67b-459a-bb20-51268c782f16",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a0622f0e-4eff-4cb6-aac7-a57bfc36f223",
+                    "title": "对吸毒成瘾者的戒毒治疗只能解决其生理依赖性，而不能彻底解决其心理依赖性。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 93,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a81882cf-0e8e-442d-b7a8-88becbb724e5",
+                            "questionId": "a0622f0e-4eff-4cb6-aac7-a57bfc36f223",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4ccfee7d-4c28-433e-8c11-2184b869a488",
+                            "questionId": "a0622f0e-4eff-4cb6-aac7-a57bfc36f223",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "23188327-2e11-4f08-872c-b4e6ca72e1c1",
+                    "title": "不安全的性行为和不安全的注射毒品行为是造成艾滋病传播流行的主要行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 94,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0f35d479-842c-4e99-b194-bd716d079c11",
+                            "questionId": "23188327-2e11-4f08-872c-b4e6ca72e1c1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "eb1cb276-185f-4447-b630-600005c6334b",
+                            "questionId": "23188327-2e11-4f08-872c-b4e6ca72e1c1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b689873c-73e7-443f-83ce-92b06641cdd0",
+                    "title": "被艾滋病病毒污染的器具刺破皮肤时，应当反复轻轻挤压，尽可能挤出损伤处的血液，以减少感染的机会。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 95,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "56711171-0519-440c-be79-940001d5a612",
+                            "questionId": "b689873c-73e7-443f-83ce-92b06641cdd0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "daa73e07-5ad8-423c-b019-cf3779d86b40",
+                            "questionId": "b689873c-73e7-443f-83ce-92b06641cdd0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "37a45bab-1f38-4cb0-871b-c87586f938e4",
+                    "title": "性病与艾滋病具有共同的传播途径，同时，性病患者更容易感染上艾滋病。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 96,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6e5b1538-5cb3-4df8-bb46-92862fe30faf",
+                            "questionId": "37a45bab-1f38-4cb0-871b-c87586f938e4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "e0ca0e22-4d4a-4e51-9a9a-00596da2570b",
+                            "questionId": "37a45bab-1f38-4cb0-871b-c87586f938e4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0c38cda0-780d-42ad-8794-c5a772a68c9e",
+                    "title": "与艾滋病病毒感染者及病人日常生活和工作不会感染艾滋病。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 97,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "81a08081-4011-417a-bfee-4cc34bae66f5",
+                            "questionId": "0c38cda0-780d-42ad-8794-c5a772a68c9e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "bd886bc6-876e-47a1-a07c-88af2b75485f",
+                            "questionId": "0c38cda0-780d-42ad-8794-c5a772a68c9e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "3c359e0e-e042-485e-b4cf-4a29d74c996c",
+                    "title": "在网络上散布毒品制作方法不属于违法行为。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 98,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d037e3b2-f068-4bba-88ab-3e0ffc549eae",
+                            "questionId": "3c359e0e-e042-485e-b4cf-4a29d74c996c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b17ed5f5-a722-4d11-86d9-61d66582bcd8",
+                            "questionId": "3c359e0e-e042-485e-b4cf-4a29d74c996c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "21d4dc98-4cf5-4ff5-98b0-f6cc72b29846",
+                    "title": "咖啡因是从茶叶、咖啡果中提炼出来的一种生物碱，为国家管制的精神药品，具有成瘾性，滥用会引起一系列与刺激大脑和神经系统有关的症状，包括头晕、头痛、血压升高、心跳急速、睡眠障碍等。人们日常适量喝茶、喝咖啡不会导致上瘾。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 99,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8113c1c7-d187-4f2b-befc-f4cccd482b2e",
+                            "questionId": "21d4dc98-4cf5-4ff5-98b0-f6cc72b29846",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "0b2fd3a7-3ce6-4310-bc0a-b6aed26f96ff",
+                            "questionId": "21d4dc98-4cf5-4ff5-98b0-f6cc72b29846",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d1135375-537f-4815-aaf4-0e77dc3d1572",
+                    "title": "朋友们多次聚集在小李家里吸毒，小李知道吸毒是违法行为并没有参与，所以小李不需要承担任何法律责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 100,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a54a6540-99e2-415f-8964-654bf1a32161",
+                            "questionId": "d1135375-537f-4815-aaf4-0e77dc3d1572",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "ef8ffff3-68f9-4c12-b7ad-87d318e2569d",
+                            "questionId": "d1135375-537f-4815-aaf4-0e77dc3d1572",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "code": 200,
+    "success": true
+}

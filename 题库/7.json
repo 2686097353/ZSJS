@@ -1,0 +1,2818 @@
+{
+    "message": "操作成功",
+    "status": 200,
+    "data": {
+        "result": {
+            "name": "顺序练习",
+            "subName": "顺序练习",
+            "currentIndex": 8,
+            "hasBefore": 1,
+            "hasNext": 1,
+            "startSequence": 701,
+            "questionList": [
+                {
+                    "id": "e16b9230-c711-48f5-beb2-ea5cb4018df9",
+                    "title": "小王在玩某个网络游戏时被通知成为该游戏的幸运玩家，中了二等奖现金88888元，要求填写好相关个人信息后方可领奖，在小王填写好后对方发来信息，必须在4小时之内给对方转4000元的保险费，否则将算违约，由法院处理，最后小王按时转给了对方4000元，小王的做法正确。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 1,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8303f2c9-dcbc-48aa-b163-4230eba965c6",
+                            "questionId": "e16b9230-c711-48f5-beb2-ea5cb4018df9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "71d1d555-bdb6-4ec9-8074-ee8971905a7d",
+                            "questionId": "e16b9230-c711-48f5-beb2-ea5cb4018df9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "229942c1-aa51-4910-8d6f-52983caf8b87",
+                    "title": "某日，周某和室友在宿舍休息，突然一个声称有卖便宜货的人来卖东西，问同学们有兴趣没？周某在拒绝之后立马向宿管中心反映情况。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 2,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "163e266c-9444-4ae9-8d73-b28a11dbae0e",
+                            "questionId": "229942c1-aa51-4910-8d6f-52983caf8b87",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "dc05f286-a350-40eb-a099-828c27292f31",
+                            "questionId": "229942c1-aa51-4910-8d6f-52983caf8b87",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "54760136-f883-43fa-9640-af73bc95d802",
+                    "title": "银行卡最好使用自己的学号、生日等易记的数字作为密码。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 3,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "781d9463-bb49-45fb-bec4-143c17b0072a",
+                            "questionId": "54760136-f883-43fa-9640-af73bc95d802",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "ff04ca19-2f4d-4016-a8e2-62b8dfdded14",
+                            "questionId": "54760136-f883-43fa-9640-af73bc95d802",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "234779ae-df54-42e7-9ba9-5be6113e4dcb",
+                    "title": "李某一日收到一号码尾号为95588的手机短信，提醒自己网银到期，请点击附加网站进行更新，李某知道95588为工行服务电话，便按照提示进行操作。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 4,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "92d64c44-d9a0-4ea5-a5e9-6cce45a5e639",
+                            "questionId": "234779ae-df54-42e7-9ba9-5be6113e4dcb",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "43dbd759-23ac-45c0-9d83-1d2f486d1953",
+                            "questionId": "234779ae-df54-42e7-9ba9-5be6113e4dcb",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "1c169939-fd62-4e41-9a46-3cc3d4600d5a",
+                    "title": "小朱是个网购达人，一天她在逛淘宝网时，弹出一个服装品牌招代理商的窗口，于是小朱就按照窗口提示的信息，和对方进行商谈，最后小朱按对方的要求汇了6000元的保证金过去。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 5,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8ba1fc73-6f8b-4159-b830-fb42c5807a6f",
+                            "questionId": "1c169939-fd62-4e41-9a46-3cc3d4600d5a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "3683fc35-6a54-45f9-a311-b7b786d9325f",
+                            "questionId": "1c169939-fd62-4e41-9a46-3cc3d4600d5a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c79f9ec2-c162-42df-b07c-8fdacf58c65a",
+                    "title": "“这是XX银行，您的账号已被盗用/转账，请重新发送你的账号/密码至XXXX，完成转账。”收到此类短信后应不予理睬。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 6,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "75e8cc7a-d6e5-4022-b4e2-5122d290103e",
+                            "questionId": "c79f9ec2-c162-42df-b07c-8fdacf58c65a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "39d08f8d-01bf-49f9-94f8-87b435787516",
+                            "questionId": "c79f9ec2-c162-42df-b07c-8fdacf58c65a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "08ff1066-4a30-44d2-834c-f11e013ed1df",
+                    "title": "小明在微信朋友圈看到了一条兼职广告，添加好友后是刷单兼职，小明做两单后收到佣金30元，于是继续刷单。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 7,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8cc8ce62-2276-4a9f-bbb8-a547dd82454e",
+                            "questionId": "08ff1066-4a30-44d2-834c-f11e013ed1df",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "48260839-393d-49eb-bc0d-6b871a4e8fd5",
+                            "questionId": "08ff1066-4a30-44d2-834c-f11e013ed1df",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f048e2e6-6043-491b-a322-9d61ba3727d0",
+                    "title": "同学丁某在网上卖游戏帐号，对方要求其缴纳保证金2000元，丁某缴纳了保证金。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 8,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e8fb8e1b-a882-40a6-9b6b-b808dda59c48",
+                            "questionId": "f048e2e6-6043-491b-a322-9d61ba3727d0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8c23664f-62f2-4748-bc22-cb4523a5a714",
+                            "questionId": "f048e2e6-6043-491b-a322-9d61ba3727d0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "9a4c02e1-7342-47e4-9d08-a36cfbb470ed",
+                    "title": "小董看到图书馆门口停了辆未锁的共享单车，认为反正在学校里都是共享的，立即骑走，这种行为是正确的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 9,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3c1dabc9-2ea5-465a-a153-c97cc8d9b425",
+                            "questionId": "9a4c02e1-7342-47e4-9d08-a36cfbb470ed",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "c847b2f1-08b6-4607-9599-375b9ca5a839",
+                            "questionId": "9a4c02e1-7342-47e4-9d08-a36cfbb470ed",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "74e38e6b-7a62-403b-ad2c-db07060337e5",
+                    "title": "明知他人从事电信网络诈骗，为其提供电话卡、银行卡、支付工具，甚至主动帮忙“跑分”，充当电诈分子的帮凶，支付结算金额或违法所得等达到一定数额的，即可能构成帮助信息网络犯罪活动罪。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 10,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5a35ea36-0e6d-4cf6-be1e-489ff38f585b",
+                            "questionId": "74e38e6b-7a62-403b-ad2c-db07060337e5",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "5f602806-2bb4-4704-a290-b2f6062725fb",
+                            "questionId": "74e38e6b-7a62-403b-ad2c-db07060337e5",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6c911fe2-bbd6-49cc-9a52-9a2b23fe60d7",
+                    "title": "利用未成年人、在校学生、老年人、残疾人实施电信网络诈骗的，依法从严惩处。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 11,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fab3a448-de55-40e5-b6cc-04e00fbaec59",
+                            "questionId": "6c911fe2-bbd6-49cc-9a52-9a2b23fe60d7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f172f1bf-db4e-40f8-8ad7-7ef30d10372a",
+                            "questionId": "6c911fe2-bbd6-49cc-9a52-9a2b23fe60d7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "85cb139d-f290-4175-acb6-d92da5c6554b",
+                    "title": "利用电信网络技术手段实施诈骗，诈骗公私财物价值3千元以上、3万元以上、50万元以上的，应当分别认定为刑法第二百六十六条规定的“数额较大”“数额巨大”“数额特别巨大”。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 12,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4f25f1a5-dc44-4bb0-a960-a03ee0343218",
+                            "questionId": "85cb139d-f290-4175-acb6-d92da5c6554b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "edebd417-3c92-445d-b591-56da277f3b27",
+                            "questionId": "85cb139d-f290-4175-acb6-d92da5c6554b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ccc22fb5-a766-43dd-80b0-62659583ce63",
+                    "title": "张某有一张长期不用的银行卡和电话卡，刚好看见网上有高价收购银行卡电话卡，可以将电话卡、银行卡卖给对方，或租给对方按使用次数收费，补贴生活开支。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 13,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d94cfd6c-2665-421d-8b86-5edf120eccee",
+                            "questionId": "ccc22fb5-a766-43dd-80b0-62659583ce63",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "2cf29b2d-cc18-4fc5-9e66-0644b9c7cbaf",
+                            "questionId": "ccc22fb5-a766-43dd-80b0-62659583ce63",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4a4e760f-6d4b-4793-a3d8-14595646bc61",
+                    "title": "小李被诈骗以后通过互联网查询到一个网警的QQ，小李立即添加查询到的网警QQ进行网络报案。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 14,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9c05961b-0c5e-4731-8eaa-036d880b030e",
+                            "questionId": "4a4e760f-6d4b-4793-a3d8-14595646bc61",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4af81d94-632e-4e18-bdd9-1337efb2eea3",
+                            "questionId": "4a4e760f-6d4b-4793-a3d8-14595646bc61",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6e77475c-188a-4612-addd-6fa3d3b6e4fd",
+                    "title": "小李收到一封信件，打开一看是一张奖券。小李刮开奖券，发现自己中了一等奖，价值10000元的苹果笔记本电脑一台，随后拨打奖券上的联系电话。接通电话，对方表示确有其事，想要领奖需要先交 2000 元的税费。小李是守法公民，深知交税的重要性，遂按照对方要求将 2000 元打入特定账户。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 15,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "369ba4ed-bffb-4170-8305-a1b1954aa7fd",
+                            "questionId": "6e77475c-188a-4612-addd-6fa3d3b6e4fd",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "5c0d9a4b-d49b-44db-aede-24d0aaf20fd1",
+                            "questionId": "6e77475c-188a-4612-addd-6fa3d3b6e4fd",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "d4db25d7-b3a8-44b3-9ca0-2c3c45277c62",
+                    "title": "任何单位和个人不得非法制造、买卖、提供或者使用下列设备、软件：电话卡批量插入设备；具有改变主叫号码、虚拟拨号、互联网电话违规接入公用电信网络等功能的设备、软件；批量账号、网络地址自动切换系统，批量接收提供短信验证、语音验证的平台；其他用于实施电信网络诈骗等违法犯罪的设备、软件。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 16,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "83ead4ae-017b-49a2-b78e-37fe7c7c2a86",
+                            "questionId": "d4db25d7-b3a8-44b3-9ca0-2c3c45277c62",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "9f9f591f-d637-4939-8e17-3b5198355ad3",
+                            "questionId": "d4db25d7-b3a8-44b3-9ca0-2c3c45277c62",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "a9ea81f7-bfee-49cb-ad7d-36e937a7df36",
+                    "title": "当发现寝室被盗时，要及时翻动现场的物品，检查被盗情况。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 17,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "71b2ec75-6fc7-45dd-8be0-035086ecbd1e",
+                            "questionId": "a9ea81f7-bfee-49cb-ad7d-36e937a7df36",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d80b3c2f-c99e-4341-b103-32511648b807",
+                            "questionId": "a9ea81f7-bfee-49cb-ad7d-36e937a7df36",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b2224ad3-6aa3-4b3e-b67a-5f85fcb4e382",
+                    "title": "入室盗窃犯罪是一种可防性案件，只要我们增强防盗意识，落实防盗措施，绝大多数被盗案件是可以避免的。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 18,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "435d3bf0-8f49-4a4e-a0aa-7458c517c372",
+                            "questionId": "b2224ad3-6aa3-4b3e-b67a-5f85fcb4e382",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "619e2f5b-e9ab-4c04-811a-203895268caa",
+                            "questionId": "b2224ad3-6aa3-4b3e-b67a-5f85fcb4e382",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "31c42a55-f998-4f31-8ca7-30bf94923eb4",
+                    "title": "贵重物品不用时最好锁在抽屉、柜子里；对价值较高的物品最好做一些特殊的记号。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 19,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3f31521e-57e6-4d41-85ac-9b0bd3880ea6",
+                            "questionId": "31c42a55-f998-4f31-8ca7-30bf94923eb4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "fc37bb2d-d3d3-4c82-b7ca-3125e9d6e1c1",
+                            "questionId": "31c42a55-f998-4f31-8ca7-30bf94923eb4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "b1d06ebd-06e1-4d10-bd1f-cb728942f694",
+                    "title": "传销的组织者是负责组织、策划传销的主体，既可以是个人，也可以是公司、企业或者其他组织。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 20,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "7758e41f-732d-4f81-8a6b-e4f38cbd2794",
+                            "questionId": "b1d06ebd-06e1-4d10-bd1f-cb728942f694",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "cef34377-5d02-42f3-bbad-d05f99bc6dc7",
+                            "questionId": "b1d06ebd-06e1-4d10-bd1f-cb728942f694",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d511aaa0-d92d-44d5-9a9f-155375a4cb23",
+                    "title": "为了使电动自行车（电动平衡车）方便充电，可以将电瓶（电池）取下拿回宿舍进行充电。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 21,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f76f8551-d646-48cd-8be3-22767355cdbd",
+                            "questionId": "d511aaa0-d92d-44d5-9a9f-155375a4cb23",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "267014a7-4d33-4e58-8f49-4fcf506a87c6",
+                            "questionId": "d511aaa0-d92d-44d5-9a9f-155375a4cb23",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f2169bc7-0d0c-4521-b6c2-14bc87260932",
+                    "title": "为了宿舍整洁，电源线、插座可以放在被褥下面。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 22,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "49eef07d-d74c-4f99-974f-bce066db4b38",
+                            "questionId": "f2169bc7-0d0c-4521-b6c2-14bc87260932",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "c236bf84-8fdd-44d7-8fed-f02114a4c203",
+                            "questionId": "f2169bc7-0d0c-4521-b6c2-14bc87260932",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "bdf20c10-1cfa-4861-844a-e71246b77275",
+                    "title": "在看不到明火的情况下可以返回火场取回贵重物品。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 23,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "03a69e92-fbaf-42bc-aed5-1a59c0c49e60",
+                            "questionId": "bdf20c10-1cfa-4861-844a-e71246b77275",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8cc36138-e0e9-4c8a-acf5-7e7e35d3e77b",
+                            "questionId": "bdf20c10-1cfa-4861-844a-e71246b77275",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3d82074d-2b1c-4c89-84d2-8d9be01e5d19",
+                    "title": "如果火势较大，为了逃命可以从高楼跳下逃生。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 24,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ae662fd8-ad22-4d44-965a-6b4a7985bfb4",
+                            "questionId": "3d82074d-2b1c-4c89-84d2-8d9be01e5d19",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8e7b2686-238a-4e49-8d97-a358bcb7fa26",
+                            "questionId": "3d82074d-2b1c-4c89-84d2-8d9be01e5d19",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "35d4f41e-dfe9-465f-9177-a10b8ae3931a",
+                    "title": "在宿舍内使用床头灯照明，为了聚光可以用布、纸做灯罩。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 25,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "dd7f1672-b632-4998-b806-dee426752d16",
+                            "questionId": "35d4f41e-dfe9-465f-9177-a10b8ae3931a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "9ba4c80d-f176-4b6f-a1ee-b888126f7863",
+                            "questionId": "35d4f41e-dfe9-465f-9177-a10b8ae3931a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f4422811-e238-458b-a6eb-e1ab0e2220f9",
+                    "title": "防止烟气危害最简单的方法是用湿毛巾捂住口鼻逃生。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 26,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "90c2d5a8-044b-42e5-96eb-ed15eab815c6",
+                            "questionId": "f4422811-e238-458b-a6eb-e1ab0e2220f9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "888eca96-9faa-4207-a008-6542d2b86de2",
+                            "questionId": "f4422811-e238-458b-a6eb-e1ab0e2220f9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6547fba4-afe8-4a8e-a4a1-bb2df6143ce2",
+                    "title": "紧急撤离危险现场应注意不要贪恋财物和重返危险境地，不要使用电梯，应迅速撤离。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 27,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ebcdb31f-5a57-4dbe-9dbc-7eb923a243b0",
+                            "questionId": "6547fba4-afe8-4a8e-a4a1-bb2df6143ce2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "f2c1a1f3-6524-49c8-85f4-12e0669c3833",
+                            "questionId": "6547fba4-afe8-4a8e-a4a1-bb2df6143ce2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "677d91d6-2812-40ac-a358-924351a4ecf9",
+                    "title": "消防车、救护车前往火灾扑救或应急救护时，不受行驶速度、行驶路线、行驶方向和交通信号的限制。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 28,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "30b251de-b219-4677-8924-8a5229f5ae6a",
+                            "questionId": "677d91d6-2812-40ac-a358-924351a4ecf9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "bf499d80-e176-43d5-b625-a3d704cca4b3",
+                            "questionId": "677d91d6-2812-40ac-a358-924351a4ecf9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e4b027ce-5ccb-4f15-95ae-4a722fecca79",
+                    "title": "火场上扑救原则是先人后物、先重点后一般、先控制后灭火。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 29,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "30a49c20-7905-435b-8fa3-12397e322ed0",
+                            "questionId": "e4b027ce-5ccb-4f15-95ae-4a722fecca79",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a2ba0eb2-82ff-424b-8a91-34bea28ab736",
+                            "questionId": "e4b027ce-5ccb-4f15-95ae-4a722fecca79",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6cec2bb3-cac1-41e0-a03b-9509a67297f6",
+                    "title": "学习使用灭火器是大学生应掌握的消防技能，因此可以根据需要拿楼道里的灭火器进行演练。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 30,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "346e2c04-21fe-42d2-9f61-cef4a6c95aa2",
+                            "questionId": "6cec2bb3-cac1-41e0-a03b-9509a67297f6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8ac23cf0-e757-45ae-b7b4-aa264e737f5f",
+                            "questionId": "6cec2bb3-cac1-41e0-a03b-9509a67297f6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3dcb8fc8-f4d5-4509-a218-eef221d4556d",
+                    "title": "别的宿舍着火，火势尚未控制楼道时，应立即离开宿舍，迅速通过安全通道向外疏散。从高层宿舍下撤时，不要乘电梯。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 31,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "136f71d3-8d51-4a21-b86e-6143e183368f",
+                            "questionId": "3dcb8fc8-f4d5-4509-a218-eef221d4556d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "25d54b9f-2cd9-460a-8fd0-45b3ee980a66",
+                            "questionId": "3dcb8fc8-f4d5-4509-a218-eef221d4556d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "99846792-9ede-44e3-b828-f6e05352aa83",
+                    "title": "在宿舍内可以使用低功率的电炉、电饭煲、电热杯。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 32,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "723c8df0-b805-4a4e-b031-041ab8b29b47",
+                            "questionId": "99846792-9ede-44e3-b828-f6e05352aa83",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f43e591d-d026-42cf-b19f-c1094f323a1f",
+                            "questionId": "99846792-9ede-44e3-b828-f6e05352aa83",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "b863d8a1-3c1e-4071-b275-61afe20e6b17",
+                    "title": "电器起火初期，切断电源后，可用水扑救。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 33,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b0ae546f-4162-4629-a886-5219906d201c",
+                            "questionId": "b863d8a1-3c1e-4071-b275-61afe20e6b17",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2cb1291c-2235-4a32-aeed-d007d7949b76",
+                            "questionId": "b863d8a1-3c1e-4071-b275-61afe20e6b17",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "51278eb1-82b4-41d0-a826-d418d889d6f8",
+                    "title": "灭火器材设置点附近不能堆放物品，以免影响灭火器的使用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 34,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b1ab942a-b16c-4854-a8fc-6ce8a95940dd",
+                            "questionId": "51278eb1-82b4-41d0-a826-d418d889d6f8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "15b17982-1b8c-4052-b371-59401211f84f",
+                            "questionId": "51278eb1-82b4-41d0-a826-d418d889d6f8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "79cab8b3-67d9-43b3-a815-eefa1d2c7387",
+                    "title": "在特殊情况下，单位和个人可以挪用、拆除、埋压、圈占消火栓，临时占用消防通道。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 35,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "35ad4e1d-7f65-4471-980a-4402e3beab2e",
+                            "questionId": "79cab8b3-67d9-43b3-a815-eefa1d2c7387",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8af6c018-49c7-4142-be85-3a1907771084",
+                            "questionId": "79cab8b3-67d9-43b3-a815-eefa1d2c7387",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4af6bb11-9f66-489d-8d5a-16153accee51",
+                    "title": "如有浓烟，不能直立行走撤出火场时，可贴着地面或墙根爬行，并用湿口罩或毛巾捂住口鼻，穿过浓烟。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 36,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8577a593-5217-41a6-b2d0-34b8bf88402b",
+                            "questionId": "4af6bb11-9f66-489d-8d5a-16153accee51",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "3f3fe466-187b-4f7b-973a-0fd4ba6252d6",
+                            "questionId": "4af6bb11-9f66-489d-8d5a-16153accee51",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6c5ec575-4144-4820-89c8-a1cbb30c7088",
+                    "title": "指甲油的主要原料有硝化棉、甲苯、对甲苯、树脂、色料等，故其有较大的火灾危险性。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 37,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "2baf022b-bdc4-41a2-aceb-50303adbaaff",
+                            "questionId": "6c5ec575-4144-4820-89c8-a1cbb30c7088",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "44efb581-0ad2-4bef-83e7-460e884e3bce",
+                            "questionId": "6c5ec575-4144-4820-89c8-a1cbb30c7088",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "030b987b-37cb-4081-b178-ab2d33a9805a",
+                    "title": "在易燃、易爆、易灼烧及有静电发生的场所，可以使用化纤防护用品。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 38,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "27f2c2a4-abdb-4b1a-ac38-f7f5064312c6",
+                            "questionId": "030b987b-37cb-4081-b178-ab2d33a9805a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "18ac4468-705c-478c-8678-8dee7137959a",
+                            "questionId": "030b987b-37cb-4081-b178-ab2d33a9805a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "00efc5f1-3db7-480e-a300-288183fe8783",
+                    "title": "小明不想去吃食堂的饭菜，于是买了电锅在宿舍自己做饭吃。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 39,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fd1a5cee-aa89-40e0-bb69-e6e00fe1c55e",
+                            "questionId": "00efc5f1-3db7-480e-a300-288183fe8783",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6ae6605b-9f95-425b-9c86-d9e599b17d54",
+                            "questionId": "00efc5f1-3db7-480e-a300-288183fe8783",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "89a3d35d-dcb6-4d77-99a1-9daf74607fe9",
+                    "title": "在宿舍，应自觉遵守宿舍安全管理规定，不将易燃易爆物带进宿舍，不在宿舍内焚烧物品，发现安全隐患及时向管理人员或有关部门报告。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 40,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8eb32861-2290-43ce-afbc-a0075a5a636a",
+                            "questionId": "89a3d35d-dcb6-4d77-99a1-9daf74607fe9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "639a58fd-e205-4d2a-9a86-0a1e3ca6085f",
+                            "questionId": "89a3d35d-dcb6-4d77-99a1-9daf74607fe9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ed5e002e-df90-4e54-be07-b1df90e7cf61",
+                    "title": "使用二氧化碳灭火器时要注意避免皮肤直接接触喷筒和喷射胶管，防止冻伤。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 41,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ec681786-36f8-4e9c-ab7f-505063c5588c",
+                            "questionId": "ed5e002e-df90-4e54-be07-b1df90e7cf61",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "8c64bd33-5059-4fda-a3dd-25aa169cf127",
+                            "questionId": "ed5e002e-df90-4e54-be07-b1df90e7cf61",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "18ed9bd1-f4f3-4778-acf9-81c9b89a0ca8",
+                    "title": "发生火灾时，房间门窗紧闭，空气不流畅，室内供氧不足，因此，需要开启窗门。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 42,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9091034f-129e-4b63-9f7d-42abd6e51d12",
+                            "questionId": "18ed9bd1-f4f3-4778-acf9-81c9b89a0ca8",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "3fb8e3ae-79b1-46d7-8937-1bb7af006573",
+                            "questionId": "18ed9bd1-f4f3-4778-acf9-81c9b89a0ca8",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3b830ed0-0831-4f0b-b99b-8ee985865421",
+                    "title": "一旦身上着了火，身体被烧伤时，如果附近有水池、河塘等水源，可迅速跳入水中。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 43,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "bb279857-528a-4f42-be20-01abdc4ae002",
+                            "questionId": "3b830ed0-0831-4f0b-b99b-8ee985865421",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "64363bb3-f581-4182-b2f8-53337a920b49",
+                            "questionId": "3b830ed0-0831-4f0b-b99b-8ee985865421",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "165f6087-5fd1-4b3a-92f9-dae1e839196e",
+                    "title": "小明在教学楼上自习时楼宇内突然发生火灾，此时走廊内烟气不浓，小明应低姿且保护好呼吸道，沿着疏散标识和安全出口方向迅速离开火场。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 44,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8d8d89c0-96bb-46dc-ae9b-09286e7dd008",
+                            "questionId": "165f6087-5fd1-4b3a-92f9-dae1e839196e",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "18156007-7b17-45f2-930a-1126189a3a84",
+                            "questionId": "165f6087-5fd1-4b3a-92f9-dae1e839196e",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "c7f26396-3e36-4826-8359-7458d2565bf1",
+                    "title": "小明发现校内很多楼宇的墙上都安装有红色火灾报警按钮，为了测试其效果，按动此按钮。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 45,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d02c90a3-7b8a-494e-9080-3736140a05f4",
+                            "questionId": "c7f26396-3e36-4826-8359-7458d2565bf1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d7c19136-f7df-47f8-a549-ced3f57f78b5",
+                            "questionId": "c7f26396-3e36-4826-8359-7458d2565bf1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a49358eb-8ceb-43ac-a3a1-25b06cb3367b",
+                    "title": "电动自行车充电时，应远离易燃物品，避免长时间过度充电。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 46,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8311642e-04b1-4c25-b0f0-c26a4c31b772",
+                            "questionId": "a49358eb-8ceb-43ac-a3a1-25b06cb3367b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "82dce441-d340-4a2f-b98e-d4242a93a0c3",
+                            "questionId": "a49358eb-8ceb-43ac-a3a1-25b06cb3367b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "745f84ab-a151-4b66-9b7b-1def14e7ee61",
+                    "title": "扑灭电动自行车火灾时可以优先扑灭四周蔓延火势，再扑救蓄电池本身即可。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 47,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "1834eb3d-8fbd-46b2-9282-57e983630288",
+                            "questionId": "745f84ab-a151-4b66-9b7b-1def14e7ee61",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "05ba217f-abfb-4201-b359-497fee6e8207",
+                            "questionId": "745f84ab-a151-4b66-9b7b-1def14e7ee61",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "042011c0-c05b-402b-92df-a028da377f1b",
+                    "title": "任何单位和个人都有维护消防安全、保护消防设施、预防火灾、报告火警的义务。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 48,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "cc4559c3-e2ed-468e-921f-6028cfe54c82",
+                            "questionId": "042011c0-c05b-402b-92df-a028da377f1b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2c24a4d0-33ab-48af-ac2d-a625cb28e349",
+                            "questionId": "042011c0-c05b-402b-92df-a028da377f1b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "d79bba08-d2fa-40ea-b37a-6cc7ab58743f",
+                    "title": "灭火器可以放在超高温环境下使用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 49,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "cc70c095-a65b-49ef-b392-45b1cc7f3b0d",
+                            "questionId": "d79bba08-d2fa-40ea-b37a-6cc7ab58743f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "7568d855-0d14-4a3a-9362-329ae1e934c0",
+                            "questionId": "d79bba08-d2fa-40ea-b37a-6cc7ab58743f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "ee03b7c9-06c6-4925-a51e-36f233710354",
+                    "title": "消防车道可以被临时占用停车。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 50,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8b22c18a-3003-475d-9096-1ef8184a8803",
+                            "questionId": "ee03b7c9-06c6-4925-a51e-36f233710354",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "b561d5ef-71b7-45d8-875f-38ecf56a618a",
+                            "questionId": "ee03b7c9-06c6-4925-a51e-36f233710354",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "0940271c-ce75-49db-a613-712b8e43fd25",
+                    "title": "发生火灾后，为尽快恢复生产，可以立即清理火灾现场。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 51,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c6d6e137-37b2-4e59-870e-fa415c0ee2be",
+                            "questionId": "0940271c-ce75-49db-a613-712b8e43fd25",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4024cd84-5f69-4a87-8187-11baa46de583",
+                            "questionId": "0940271c-ce75-49db-a613-712b8e43fd25",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "5324c755-d44a-4538-ac8c-4f9d4986cbc7",
+                    "title": "灯具的开关、插座和照明器靠近可燃物时，应采取隔热、散热等保护措施。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 52,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b459c586-f986-4a1c-8c27-81d4372b39a1",
+                            "questionId": "5324c755-d44a-4538-ac8c-4f9d4986cbc7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4af43427-db29-454a-b242-dc250ef94ae8",
+                            "questionId": "5324c755-d44a-4538-ac8c-4f9d4986cbc7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9878a7df-4dde-4077-9b26-937aabca32b7",
+                    "title": "灭火器可以随意挪动位置，只要在需要的时候能找到就行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 53,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ed35d10d-b128-4b19-ac7e-c9b06fa48f9f",
+                            "questionId": "9878a7df-4dde-4077-9b26-937aabca32b7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8b99270f-61c3-49f5-85ec-5e3edca108da",
+                            "questionId": "9878a7df-4dde-4077-9b26-937aabca32b7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "fb18c682-a00d-4cfa-b9df-cb1f7f360d82",
+                    "title": "实验室可以存放大量大桶有机试剂。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 54,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9264378a-3847-4c6b-b7df-6fa9a6b6323a",
+                            "questionId": "fb18c682-a00d-4cfa-b9df-cb1f7f360d82",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "aea0b347-7762-4188-a923-fbe405d9888a",
+                            "questionId": "fb18c682-a00d-4cfa-b9df-cb1f7f360d82",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4997d10f-5e54-4c74-8c3a-a0d5eff9a3c0",
+                    "title": "实验过程中产生的或实验剩余的易挥发物，可以倒入废液缸内。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 55,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "8561335e-ed67-43a0-a382-c135d536e493",
+                            "questionId": "4997d10f-5e54-4c74-8c3a-a0d5eff9a3c0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8bb8fb99-2ec0-434e-a2ec-5918007658f2",
+                            "questionId": "4997d10f-5e54-4c74-8c3a-a0d5eff9a3c0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "93e51b93-ab60-48d1-94a6-6b72d0764453",
+                    "title": "实验室毒物进入人体有三条途径即皮肤、消化道和呼吸道。实验室防毒应加强个人防护。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 56,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5b9c0ac9-6c5e-4509-a87d-28893b1bdcec",
+                            "questionId": "93e51b93-ab60-48d1-94a6-6b72d0764453",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "655566ad-c330-4b88-b479-90e5f534197e",
+                            "questionId": "93e51b93-ab60-48d1-94a6-6b72d0764453",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ad8babc9-eb99-4784-9cf5-d343a20ffd7a",
+                    "title": "要保持实验室环境整洁，做到地面、桌面、设备三整洁，减少安全隐患。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 57,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "64481c4d-7d35-4aef-a6a9-7c04b4fe16ea",
+                            "questionId": "ad8babc9-eb99-4784-9cf5-d343a20ffd7a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "a1f7357d-d905-4fca-9e8f-c9bbe8a9391a",
+                            "questionId": "ad8babc9-eb99-4784-9cf5-d343a20ffd7a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0ca037ea-6401-474e-887d-d5e8edb5d7ed",
+                    "title": "若实验室的空间较大，电动自行车可以在实验室内进行充电。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 58,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e654a8d5-f192-4c0c-b8d0-12d7259732c8",
+                            "questionId": "0ca037ea-6401-474e-887d-d5e8edb5d7ed",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "d11f247a-c379-4019-a1f9-e49f65999ba3",
+                            "questionId": "0ca037ea-6401-474e-887d-d5e8edb5d7ed",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "21afbfdc-3239-4696-b6df-e798924c64f7",
+                    "title": "危险化学品特指具有毒害、腐蚀、爆炸、燃烧、助燃等性质，对人体、设施、环境具有危害的剧毒化学品。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 59,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "a330df43-b81c-47bf-b72c-4bc70746bd30",
+                            "questionId": "21afbfdc-3239-4696-b6df-e798924c64f7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "133dab6a-135a-4f2b-8870-6753a8e7922e",
+                            "questionId": "21afbfdc-3239-4696-b6df-e798924c64f7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "9e53ba89-6409-4e93-bc81-0f3e00c0d6ec",
+                    "title": "近年来，由于不当操作引起化学实验室火灾的事故时有发生，学生做实验时，必须按照操作规程进行，佩戴相应的手套、防护眼镜、安全帽和绝缘鞋等防护设备。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 60,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6002d8ac-7cf6-4515-9918-11c06c15ee13",
+                            "questionId": "9e53ba89-6409-4e93-bc81-0f3e00c0d6ec",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "43d43f2d-7296-490b-b70c-33ec85a6e4da",
+                            "questionId": "9e53ba89-6409-4e93-bc81-0f3e00c0d6ec",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "83e18e0a-bc74-4c07-a663-e5f36d22d9ac",
+                    "title": "做危险实验时必须戴防护眼镜，加氢反应、高压反应必须在特种实验室进行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 61,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "3b43446f-01f7-4f1a-a6bb-16b10a7af5c9",
+                            "questionId": "83e18e0a-bc74-4c07-a663-e5f36d22d9ac",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6295aa38-1e45-498b-873c-0e86e300e881",
+                            "questionId": "83e18e0a-bc74-4c07-a663-e5f36d22d9ac",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e72a52e2-1b38-4003-b7e3-e854d12e37af",
+                    "title": "夏天天气比较炎热，可以穿凉鞋、拖鞋和镂空的鞋进入实验室做实验。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 62,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "9c5fb538-b839-4751-b92c-7b864a613cd0",
+                            "questionId": "e72a52e2-1b38-4003-b7e3-e854d12e37af",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "8f194833-5aee-497e-8ab7-b08a710e0bf4",
+                            "questionId": "e72a52e2-1b38-4003-b7e3-e854d12e37af",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "32157285-da6c-4839-9954-1cfa5afe5a52",
+                    "title": "正在进行实验时，可戴着防护手套接听电话。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 63,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "67e8854d-1119-4cc9-96b9-c91965508850",
+                            "questionId": "32157285-da6c-4839-9954-1cfa5afe5a52",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f008d430-be44-449e-b5b1-4f7977b03a9b",
+                            "questionId": "32157285-da6c-4839-9954-1cfa5afe5a52",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "4054cc71-8ab2-4a5d-ad6f-6c94186acd3a",
+                    "title": "在电气类开放性实验或科研实验室，必须有两人以上在场方可开展实验。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 64,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "ee3373c3-e5ef-47d8-994c-2a3c77de3bae",
+                            "questionId": "4054cc71-8ab2-4a5d-ad6f-6c94186acd3a",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "d266f429-0b45-4dc7-8e57-c1d573fe4ee7",
+                            "questionId": "4054cc71-8ab2-4a5d-ad6f-6c94186acd3a",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "81f41ceb-25a1-434a-bb1d-ab6959f09034",
+                    "title": "做需要搅拌的实验时，找不到玻璃棒，可以用温度计代替。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 65,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "dfadbbbc-df31-4ded-9501-5e07291dea05",
+                            "questionId": "81f41ceb-25a1-434a-bb1d-ab6959f09034",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1becd1a9-78cf-4c2d-914f-891a0342b6fc",
+                            "questionId": "81f41ceb-25a1-434a-bb1d-ab6959f09034",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6f274c7a-ed2a-44d2-bc1a-8028bf558b84",
+                    "title": "实验中溅入口中而尚未下咽的毒物，应立即吐出，并用大量水冲洗口腔。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 66,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "d7b6bf85-435f-4bee-91ef-a5db65cd4361",
+                            "questionId": "6f274c7a-ed2a-44d2-bc1a-8028bf558b84",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "4066f810-cb58-4da5-a623-6fdfa6eeb177",
+                            "questionId": "6f274c7a-ed2a-44d2-bc1a-8028bf558b84",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "57f89ccd-bb2a-4be9-9a05-929b4ea5aef3",
+                    "title": "电炉、烘箱等用电设备在使用中，使用人员不得离开。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 67,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "81a64348-83ea-4c8f-ad16-c66d8051b894",
+                            "questionId": "57f89ccd-bb2a-4be9-9a05-929b4ea5aef3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "47bf4aee-a00f-4c6a-b954-4b12268a27eb",
+                            "questionId": "57f89ccd-bb2a-4be9-9a05-929b4ea5aef3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "4f32b207-15e7-4cfd-b2a9-07d4f43c4f44",
+                    "title": "实验开始前必须了解实验中使用的药品的性能和有可能引起的危害，以及相应的注意事项。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 68,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "5c6f2b1e-f10f-4b62-ab10-d5e61cfaa2af",
+                            "questionId": "4f32b207-15e7-4cfd-b2a9-07d4f43c4f44",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c0bd630a-37e9-4480-b919-8b5db0ad80b8",
+                            "questionId": "4f32b207-15e7-4cfd-b2a9-07d4f43c4f44",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "57db14ae-12a6-4125-80d8-bfdb2df732be",
+                    "title": "对危险废物的容器和包装物以及收集、贮存、运输、处置危险废物的设施、场所，必须设置危险废物识别标志。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 69,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "50e286b2-a588-46ac-85cd-50a62c40e93a",
+                            "questionId": "57db14ae-12a6-4125-80d8-bfdb2df732be",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "2e7cb2a1-e63a-4e12-b206-5f3eff08f2eb",
+                            "questionId": "57db14ae-12a6-4125-80d8-bfdb2df732be",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "6c29d87a-0b65-4bca-b3ba-145050559226",
+                    "title": "粉尘爆炸危险场所应穿防静电棉质衣服，工作时必须佩戴防尘口罩和护耳器。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 70,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "19df244b-2bd9-4855-ac38-b6b33f6c82c6",
+                            "questionId": "6c29d87a-0b65-4bca-b3ba-145050559226",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "c4763026-b743-4990-9b01-5f26314588c0",
+                            "questionId": "6c29d87a-0b65-4bca-b3ba-145050559226",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "845cfb89-f878-4ff2-bca6-2c090235f885",
+                    "title": "在操作某些仪器时，衣帽穿戴要符合要求，不能佩戴长项链或者穿宽松的衣服。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 71,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "90a2ff1c-817d-4eab-be1f-05580a0a870c",
+                            "questionId": "845cfb89-f878-4ff2-bca6-2c090235f885",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "0198a5c8-50d4-49d7-b356-1ceabfa89b0e",
+                            "questionId": "845cfb89-f878-4ff2-bca6-2c090235f885",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "0bf38332-62cb-4a50-bca5-5580cc6d8fa3",
+                    "title": "实验结束后，要做好设备、器材、工具等的复原以及实验场所的清洁整理，使之保持正常状态，检查切断电源、水源和气源等，关窗锁门后方可离开实验室。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 72,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "552b03da-73ad-452a-810c-833e338ee77f",
+                            "questionId": "0bf38332-62cb-4a50-bca5-5580cc6d8fa3",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "37f9834a-cf47-4203-99be-f2da22d76c50",
+                            "questionId": "0bf38332-62cb-4a50-bca5-5580cc6d8fa3",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f15003ec-3fb8-4412-b6de-a2898f9f86cc",
+                    "title": "实验室的电源总闸没有必要每天离开时都关闭，只要关闭常用电器的的电源即可，常常开关总闸会缩短其使用寿命。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 73,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "059709ed-0502-4db2-9d69-227fa5f74025",
+                            "questionId": "f15003ec-3fb8-4412-b6de-a2898f9f86cc",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "cd50cf0c-7462-4460-b13f-3772c371b529",
+                            "questionId": "f15003ec-3fb8-4412-b6de-a2898f9f86cc",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "8a1e1563-60e0-4ba1-8f50-0ca7b9349bc6",
+                    "title": "实验结束后，未关闭的仪器设备不会有安全隐患。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 74,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fe525ec8-239c-4b98-b9ac-cc4b94f1092b",
+                            "questionId": "8a1e1563-60e0-4ba1-8f50-0ca7b9349bc6",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "31573fe3-a266-443e-9a09-69f1cd673cbd",
+                            "questionId": "8a1e1563-60e0-4ba1-8f50-0ca7b9349bc6",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "5ecce1aa-0cbd-4cab-b24f-970ae8d56ff9",
+                    "title": "普通的塑料容器可以盛放具有强腐蚀性的化学试剂。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 75,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f252ea45-8a25-4810-82bc-56175028ddc7",
+                            "questionId": "5ecce1aa-0cbd-4cab-b24f-970ae8d56ff9",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "f0f4ea0a-4373-4d50-9eb4-8fd3530b5e39",
+                            "questionId": "5ecce1aa-0cbd-4cab-b24f-970ae8d56ff9",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3adf766a-03a4-42a3-8e77-29da851728ae",
+                    "title": "在实验室中，闻到轻微的异味不用在意，继续进行实验。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 76,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "da62cd75-7384-4cd6-a7f4-33416b9eefac",
+                            "questionId": "3adf766a-03a4-42a3-8e77-29da851728ae",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "02f3ad2c-69c1-4e2d-98c4-53afd00b9fde",
+                            "questionId": "3adf766a-03a4-42a3-8e77-29da851728ae",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a2f68b40-b2a7-486c-a08a-074ed766bc19",
+                    "title": "实验过程中发现仪器设备有轻微漏电现象，可以继续使用，等实验结束后再报告。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 77,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e268d15d-039e-4f89-95da-2e089d66aa12",
+                            "questionId": "a2f68b40-b2a7-486c-a08a-074ed766bc19",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "77b0b499-8a3c-47a7-ab01-2a7ffc9f2889",
+                            "questionId": "a2f68b40-b2a7-486c-a08a-074ed766bc19",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "af80262d-45dd-4e49-a236-6f0b510a5869",
+                    "title": "通风良好的实验室中可以存放大量易燃易爆物品。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 78,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "095d3763-b5c4-4b3e-8ac4-1af99b711e9a",
+                            "questionId": "af80262d-45dd-4e49-a236-6f0b510a5869",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "1ef6bd54-74f0-4615-b5ff-9e102cba7e64",
+                            "questionId": "af80262d-45dd-4e49-a236-6f0b510a5869",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "f354e694-e9c9-43f2-8c27-216a6f8b7968",
+                    "title": "实验室内的消防器材可以随意移动位置，以便在需要时更方便使用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 79,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6d7278ce-6c00-4f4b-bbd1-41e2cf21b998",
+                            "questionId": "f354e694-e9c9-43f2-8c27-216a6f8b7968",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "ef548f0c-bb71-41f5-9c86-d46f392aed10",
+                            "questionId": "f354e694-e9c9-43f2-8c27-216a6f8b7968",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "3fefa6dc-8782-4ff9-abbc-27b633ef9d1b",
+                    "title": "对于有故障的实验设备，只要不影响实验结果，可以继续使用。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 80,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "26e08750-3484-40de-b799-3b21532109ce",
+                            "questionId": "3fefa6dc-8782-4ff9-abbc-27b633ef9d1b",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "fe5da7f9-bee9-4e13-9b77-5ec61a043c2d",
+                            "questionId": "3fefa6dc-8782-4ff9-abbc-27b633ef9d1b",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a68b5925-d6aa-4435-8f87-9367b1a22cd0",
+                    "title": "只要经过培训，就可以在实验室中独立进行任何高风险的实验操作。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 81,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "98802284-e017-496e-adcf-fa048b38a505",
+                            "questionId": "a68b5925-d6aa-4435-8f87-9367b1a22cd0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "4958c61a-cfd0-4091-9a35-e8d5cc3fb9b0",
+                            "questionId": "a68b5925-d6aa-4435-8f87-9367b1a22cd0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "603ed286-82be-4083-a43e-9d937cd9d839",
+                    "title": "在进行生物实验时，只要戴上橡胶手套就可以避免生物危害。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 82,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "45802370-75d7-489f-941b-d3cfb788022b",
+                            "questionId": "603ed286-82be-4083-a43e-9d937cd9d839",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "839a6d7d-eaf4-448a-80cc-4d645c097f73",
+                            "questionId": "603ed286-82be-4083-a43e-9d937cd9d839",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c109bba3-3dc2-434d-9a4e-7e21ebaedd6c",
+                    "title": "高危环境工作中，要按要求规范佩戴防护装备，中途就餐、饮水等必须脱掉防护装备并规范实行手卫生。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 83,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "e256802a-68f3-465f-ae5e-91369358b86c",
+                            "questionId": "c109bba3-3dc2-434d-9a4e-7e21ebaedd6c",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "7c8f81f0-f6a5-4036-9c61-2a61a181ffd6",
+                            "questionId": "c109bba3-3dc2-434d-9a4e-7e21ebaedd6c",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "e529a571-bc38-47ae-a2de-28980b8c888d",
+                    "title": "在交通事故发生时，戴上合格的头盔，可抵御外力对头颅的冲击，缓解瞬间产生的撞击力，从而减轻外力对颅脑的损伤。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 84,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "62f22818-ce3a-4e45-9a30-6c8775b92e22",
+                            "questionId": "e529a571-bc38-47ae-a2de-28980b8c888d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "6934047b-6355-49e5-980c-babf979aee72",
+                            "questionId": "e529a571-bc38-47ae-a2de-28980b8c888d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9b985c6b-f145-4ef7-bc56-fced4976c46d",
+                    "title": "小王一日驾驶电动车外出，饮酒后叫代驾将车开回家，代驾将机动车开到小区门口后，由小王本人自行开至地下车库停好，该行为不构成违法。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 85,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "6da01845-bf49-402f-8a06-5322b6da2db6",
+                            "questionId": "9b985c6b-f145-4ef7-bc56-fced4976c46d",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "45c34e08-6dfc-42cc-9d13-c03515abbd83",
+                            "questionId": "9b985c6b-f145-4ef7-bc56-fced4976c46d",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "a01f5c3f-02c5-42e6-92ec-3ad29ae392b1",
+                    "title": "车辆和行人应当让执行紧急任务的警车、消防车、救护车、工程救险车先行。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 86,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "104cab40-08c2-45cb-82a4-b5ea2dcfcf40",
+                            "questionId": "a01f5c3f-02c5-42e6-92ec-3ad29ae392b1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ddf15f0a-411c-4847-bca3-004d0edbf39b",
+                            "questionId": "a01f5c3f-02c5-42e6-92ec-3ad29ae392b1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "f9bf096c-2123-455c-87d1-3c5e7fc6721f",
+                    "title": "夏季雨水较多，如发现新能源汽车浸水，要穿戴绝缘手套、绝缘鞋和绝缘服方可触碰车辆。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 87,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "68eecfb7-84eb-43c0-ba9a-aecd7d4421d0",
+                            "questionId": "f9bf096c-2123-455c-87d1-3c5e7fc6721f",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "00c329e8-7804-41db-ad9e-67e0c8acf2d7",
+                            "questionId": "f9bf096c-2123-455c-87d1-3c5e7fc6721f",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ca8d2bb4-aeb6-4b46-b480-1474823a0ee7",
+                    "title": "外出时，乘黑车出了车祸，一样可以得到保险公司的赔偿。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 88,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "eec33e23-c0df-43da-8e0a-7c090e35bb50",
+                            "questionId": "ca8d2bb4-aeb6-4b46-b480-1474823a0ee7",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "bcbf20f8-311c-4039-854a-6b7d35ef5bbf",
+                            "questionId": "ca8d2bb4-aeb6-4b46-b480-1474823a0ee7",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "91c6a1d6-3a03-4c1f-826e-e1777cbdc2f4",
+                    "title": "进出地铁站台时要依次上下，站在自动扶梯上要站稳扶牢，防止跌伤。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 89,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "458a1be7-1609-4a74-b740-a1ebd850b318",
+                            "questionId": "91c6a1d6-3a03-4c1f-826e-e1777cbdc2f4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "230138b7-c053-4901-8e7f-e1f9f5502ca4",
+                            "questionId": "91c6a1d6-3a03-4c1f-826e-e1777cbdc2f4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "989160e2-dad2-437a-96f9-6b930d4640d1",
+                    "title": "将机动车辆交给未取得机动车驾驶证人员驾驶的，车主本人会受到相关处罚。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 90,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fc6b3823-a76c-4445-8fbc-d101321f011b",
+                            "questionId": "989160e2-dad2-437a-96f9-6b930d4640d1",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ea9de77c-a9af-4953-8b8c-091b180e741f",
+                            "questionId": "989160e2-dad2-437a-96f9-6b930d4640d1",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "ca52f4f3-6e1d-40d0-84a8-ab7d5b37ceb2",
+                    "title": "一般情况下，交通标识表示的含义可以用他们的颜色来区分，如红色多用来表示禁止某些交通行为，蓝色表示可以从事标志上的交通行为，黄色表示警告人们注意可能会出现标志上提示的路况或危险。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 91,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "eacfe57b-c980-495a-8d76-524539568c29",
+                            "questionId": "ca52f4f3-6e1d-40d0-84a8-ab7d5b37ceb2",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "06c129bd-7c0a-49ce-b352-d59ea886b7aa",
+                            "questionId": "ca52f4f3-6e1d-40d0-84a8-ab7d5b37ceb2",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "5c5a0cbf-6e41-453a-9222-f7f8aa6f1af4",
+                    "title": "发生交通事故时，及时报案、抢救伤员、保护现场、控制肇事者，是处理交通事故的基本原则。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 92,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "80148959-a002-43d5-b5a1-d5f351faf3e4",
+                            "questionId": "5c5a0cbf-6e41-453a-9222-f7f8aa6f1af4",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "54bc951b-7281-4f85-9110-74944a61da47",
+                            "questionId": "5c5a0cbf-6e41-453a-9222-f7f8aa6f1af4",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7a69f96d-ba28-47a5-9036-ca6e25a326ad",
+                    "title": "发生交通事故后当事人逃逸的，承担全部责任。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 93,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "b9c6947d-fe6e-4015-8e31-514c09dc4883",
+                            "questionId": "7a69f96d-ba28-47a5-9036-ca6e25a326ad",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "21e06559-8fe1-403c-9d6c-9e32a9e87fad",
+                            "questionId": "7a69f96d-ba28-47a5-9036-ca6e25a326ad",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "3db8e8d5-9aa0-45c9-ad38-bc4c491ddea0",
+                    "title": "某同学途经建筑施工场地时，先抬头观察空中建筑设施状况，确认安全后通过。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 94,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "f1c27fb1-085e-49dc-9d89-6c260841beb6",
+                            "questionId": "3db8e8d5-9aa0-45c9-ad38-bc4c491ddea0",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "12b70b27-54b5-4273-b2b7-8bafffe07e29",
+                            "questionId": "3db8e8d5-9aa0-45c9-ad38-bc4c491ddea0",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "2fd9451c-2a7c-4b0d-9e15-799956c27038",
+                    "title": "不携带不符合安全规定的物品乘坐飞机；遵守乘坐飞机安全常识，系好安全带；阅读飞行须知和观看机上安全演示录像。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 95,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "fb77f907-935b-44a1-80d4-2c3ed143db11",
+                            "questionId": "2fd9451c-2a7c-4b0d-9e15-799956c27038",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "ce0a8d2d-fb73-46e0-8ee5-1962f77c5974",
+                            "questionId": "2fd9451c-2a7c-4b0d-9e15-799956c27038",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "9070ffc7-36d2-4135-bd14-7e27217f1c88",
+                    "title": "动车上除法律、法规、规章中规定的危险品禁止携带外，可以携带体型较小的动物，如宠物狗。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 96,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "0abe392c-03fc-468d-8acf-13a709a8fb74",
+                            "questionId": "9070ffc7-36d2-4135-bd14-7e27217f1c88",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "9eeaa2f4-acd9-4b72-a1ae-9b62bc2390be",
+                            "questionId": "9070ffc7-36d2-4135-bd14-7e27217f1c88",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "8662cba7-1589-4498-bd33-407391e0f235",
+                    "title": "2019年4月起施行的《电动自行车安全技术规范》规定，电动自行车整车质量不超过55千克，最高时速不超过25千米。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 97,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "4533bcf5-7435-482b-950d-b0d99a97d7dc",
+                            "questionId": "8662cba7-1589-4498-bd33-407391e0f235",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "9d11793a-69aa-4cdb-a65c-8b99d272ec9a",
+                            "questionId": "8662cba7-1589-4498-bd33-407391e0f235",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "3f0eec7e-9341-465f-9767-a68cbba3be47",
+                    "title": "在未取得机动车驾驶证情况下驾驶机动车的，会被处200元以上2000元以下的罚款或拘留15天。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 98,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "348241cf-dbc6-4e74-b298-e76d6aab6285",
+                            "questionId": "3f0eec7e-9341-465f-9767-a68cbba3be47",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 1
+                        },
+                        {
+                            "id": "79f8654e-70a6-43fe-b5cc-26ac5067d85e",
+                            "questionId": "3f0eec7e-9341-465f-9767-a68cbba3be47",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "7233a146-c5f5-48ed-a13e-a5b0fdc391ee",
+                    "title": "在校园道路骑行自行车、电动自行车时，可以牵引、攀扶车辆或者被其他车辆牵引，或者手中持物。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 99,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "c97cc432-56ac-453f-adb4-7c47643604ea",
+                            "questionId": "7233a146-c5f5-48ed-a13e-a5b0fdc391ee",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "7189f3e3-d262-4cff-86d4-22d475ccb7f3",
+                            "questionId": "7233a146-c5f5-48ed-a13e-a5b0fdc391ee",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "c338c805-56ae-4fb9-9934-cf623f81b130",
+                    "title": "学校充电桩比较紧张，为了充电方便，可以拿到宿舍里面充电。",
+                    "type": 4,
+                    "typeLabel": "判断题",
+                    "score": 1,
+                    "sequence": 100,
+                    "analysis": "",
+                    "isRight": 0,
+                    "optionList": [
+                        {
+                            "id": "90a11efd-e5d9-4d8f-9ea3-6b5e5b2f0a18",
+                            "questionId": "c338c805-56ae-4fb9-9934-cf623f81b130",
+                            "content": "正确",
+                            "sequence": 1,
+                            "selected": 2,
+                            "isCorrect": 2
+                        },
+                        {
+                            "id": "6865b41b-4364-449e-8722-fdca86a61aec",
+                            "questionId": "c338c805-56ae-4fb9-9934-cf623f81b130",
+                            "content": "错误",
+                            "sequence": 2,
+                            "selected": 2,
+                            "isCorrect": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true,
+    "code": 200
+}
