@@ -1,10 +1,12 @@
 import requests
 import json
 
-userActivityId = 5534143192564229
-cookie = 'Hm_lvt_890425597da00ebdf2d7bf4fd671fa46=1730294821,1730301584,1730305313,1730340537; Hm_lpvt_890425597da00ebdf2d7bf4fd671fa46=1730340537; HMACCOUNT=1B9B892625EDE6FF; mars_token=eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzc0NDQ0NTQ5IiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiMWZjYmRhY2FiNjMwZjhjNWU2ZDU5OTQ5N2U0ZDFkODYifQ.MLzy280x8pWFe8QCIkXwnRvn8kh_XztfvNFAqdTN0YblngyoKRO0koyTBPPtxw7A9xcMyf8NHNP8x7lS1yDVsA'
-authorization = 'eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzc0NDQ0NTQ5IiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiMWZjYmRhY2FiNjMwZjhjNWU2ZDU5OTQ5N2U0ZDFkODYifQ.MLzy280x8pWFe8QCIkXwnRvn8kh_XztfvNFAqdTN0YblngyoKRO0koyTBPPtxw7A9xcMyf8NHNP8x7lS1yDVsA'
-with open(f'./题库/顺序练习/sum.json', 'r', encoding='utf-8') as f:
+userActivityId = ''
+cookie = ''
+authorization = ''
+
+
+with open(f'./题库/sum.json', 'r', encoding='utf-8') as f:
     # 加载文件内容到data变量中
     sum_anoswer = json.load(f)
 
