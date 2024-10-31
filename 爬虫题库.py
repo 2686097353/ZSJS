@@ -49,7 +49,7 @@ for current_index in range(10):  # 从0到100
 
 
     # 将所有问题写入JSON文件
-    with open(f'./题库/顺序练习/{current_index}.json', 'w', encoding='utf-8') as f:
+    with open(f'./题库/{current_index}.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
