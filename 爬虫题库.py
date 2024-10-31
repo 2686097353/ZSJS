@@ -2,6 +2,13 @@ import json
 import requests
 
 import requests
+
+
+userActivityId = ''
+cookie = ''
+authorization = ''
+
+
 # 初始化一个空列表来存储所有问题
 all_questions = []
 # 请求URL
@@ -12,9 +19,9 @@ headers = {
     'accept': 'application/json, text/plain, */*',
     'accept-encoding': 'gzip, deflate, br, zstd',
     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
-    'authorization': 'eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzgzMTYwODM3IiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiMGUzNGFlNDFlYzJmMjUzMzg4ZGMwOTkwYWE5NjA5OGIifQ.MN7K-R76Qs2y4Q5qU6F7QIz_yZwR9zGayeUeoof4i-aAaLdZhzbs-yQZ30I0KONOd28U0Uf-KLYtxqtARJrK9g',
+    'authorization': authorization,
     'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
-    'cookie': 'Hm_lvt_890425597da00ebdf2d7bf4fd671fa46=1730294821,1730301584,1730305313; Hm_lpvt_890425597da00ebdf2d7bf4fd671fa46=1730305313; HMACCOUNT=1B9B892625EDE6FF; mars_token=eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzgzMTYwODM3IiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiMGUzNGFlNDFlYzJmMjUzMzg4ZGMwOTkwYWE5NjA5OGIifQ.MN7K-R76Qs2y4Q5qU6F7QIz_yZwR9zGayeUeoof4i-aAaLdZhzbs-yQZ30I0KONOd28U0Uf-KLYtxqtARJrK9g',
+    'cookie': cookie,
     'origin': 'https://mars.mycourse.cn',
     'referer': 'https://mars.mycourse.cn/deimos/',
     'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',
@@ -29,7 +36,7 @@ headers = {
 for current_index in range(10):  # 从0到100
     # POST请求的负载数据
     payload = {
-        'userActivityId': '5534143192695336',
+        'userActivityId': userActivityId,
         'currentIndex': current_index,
         'nearType': 2
     }
