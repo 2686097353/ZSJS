@@ -1,10 +1,16 @@
 ___江苏省安全知识竞赛全自动答题___
 
 
-开始本来写js自动答题，后来发现好像能直接发送请求，实现0秒答题
+开始本来写js自动答题，后来发现用python发送请求好像能直接发送请求，实现0秒答题
+
+
+
+
+
 
 ![c419c796b1b707fde583e34b1c478ff1](https://github.com/user-attachments/assets/0febebd7-f787-4af4-a671-a3d6fedab4bd)
 ![35f74b49b78feb25308f3514bc335303](https://github.com/user-attachments/assets/520b4309-0cf1-49b9-b573-7c5ba0ef583a)
+
 
 
 
@@ -12,6 +18,19 @@ ___江苏省安全知识竞赛全自动答题___
 
 点击开始后，进入答题页面，浏览器F12，打开开发者工具，在控制台粘贴代码，回车自动运行
 ![0816a1ca9d6e412a0bee92da644e86a3](https://github.com/user-attachments/assets/83053169-bbd1-4ea1-9ced-daee63575d10)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **2.发送请求**
 
