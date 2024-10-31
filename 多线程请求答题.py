@@ -3,6 +3,11 @@ import time
 
 import requests
 
+userActivityId = ''
+cookie = ''
+authorization = ''
+
+
 # 加载题库答案
 sum_anoswer = {
     "2651757b-e560-43c7-a09c-bcb97be0d371": "4ac51bf9-4213-4f2f-bad1-bd2d378cbdbf",
@@ -1009,9 +1014,7 @@ sum_anoswer = {
 # with open('./题库/顺序练习/sum.json', 'r', encoding='utf-8') as f:
 #     sum_anoswer = json.load(f)
 
-userActivityId = 5534143192760964
-cookie = 'Hm_lvt_890425597da00ebdf2d7bf4fd671fa46=1730340537,1730341724,1730344243,1730344874; Hm_lpvt_890425597da00ebdf2d7bf4fd671fa46=1730344874; HMACCOUNT=1B9B892625EDE6FF; mars_token=eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzg5MTI0NjEzIiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiZjQzMTJlNmRmZjM1OWI2NTk1OTk3NjZhYTQ5NmJlZTAifQ.RyhvOrVU4ckDp5FKhUtf3_5SqmxHYD1sF5WjDiuLJXQ5K0rFmKNq9mommBCgbekLOSYBTWjuOPErRkadrLApzA'
-authorization = 'eyJhbGciOiJIUzUxMiJ9.eyJjbGllbnRUeXBlIjoyLCJ1c2VyaWQiOiI1NTM0MTQyNzg5MTI0NjEzIiwicGxhdGZvcm0iOjIsImxvZ2luX3VzZXJfa2V5IjoiZjQzMTJlNmRmZjM1OWI2NTk1OTk3NjZhYTQ5NmJlZTAifQ.RyhvOrVU4ckDp5FKhUtf3_5SqmxHYD1sF5WjDiuLJXQ5K0rFmKNq9mommBCgbekLOSYBTWjuOPErRkadrLApzA'
+
 
 headers = {
     'accept': 'application/json, text/plain, */*',
