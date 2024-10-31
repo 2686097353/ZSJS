@@ -1011,7 +1011,7 @@ sum_anoswer = {
     "21d4dc98-4cf5-4ff5-98b0-f6cc72b29846": "8113c1c7-d187-4f2b-befc-f4cccd482b2e",
     "d1135375-537f-4815-aaf4-0e77dc3d1572": "ef8ffff3-68f9-4c12-b7ad-87d318e2569d"
 }
-# with open('./题库/顺序练习/sum.json', 'r', encoding='utf-8') as f:
+# with open('./题库/sum.json', 'r', encoding='utf-8') as f:
 #     sum_anoswer = json.load(f)
 
 
